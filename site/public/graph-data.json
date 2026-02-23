@@ -1,10 +1,10 @@
 {
-  "generated": "2026-02-23T10:27:18.357355+00:00",
+  "generated": "2026-02-23T14:31:52.707022+00:00",
   "stats": {
-    "totalBooks": 4,
-    "totalChapters": 41,
-    "totalConcepts": 81,
-    "enrichedChapters": 41
+    "totalBooks": 5,
+    "totalChapters": 51,
+    "totalConcepts": 108,
+    "enrichedChapters": 51
   },
   "books": [
     {
@@ -1280,6 +1280,424 @@
       ]
     },
     {
+      "id": "the-snowball",
+      "title": "The Snowball",
+      "author": "Alice Schroeder",
+      "cover": "https://covers.openlibrary.org/b/id/6916021-M.jpg",
+      "color": "#DD4124",
+      "rating": 5,
+      "status": "reading",
+      "tags": [
+        "new"
+      ],
+      "dateFinished": "",
+      "totalChapters": 10,
+      "chapters": [
+        {
+          "id": "the-snowball-ch1",
+          "bookId": "the-snowball",
+          "chapter": 1,
+          "title": "The Early Years",
+          "dateNoted": "",
+          "keyThemes": [],
+          "rating": null,
+          "isEnriched": true,
+          "summary": "Warren Buffett's early years were significantly influenced by his family and environment, which laid the groundwork for his unique investment philosophy. These formative experiences instilled in him key values such as frugality, a strong work ethic, and a keen understanding of business principles.",
+          "keyInsights": [
+            "Buffett's family background played a crucial role in shaping his financial mindset.",
+            "Early exposure to business and investing concepts influenced his long-term strategies.",
+            "Frugality and discipline were emphasized in his upbringing, impacting his investment decisions.",
+            "Buffett's curiosity and analytical skills were nurtured from a young age.",
+            "The importance of lifelong learning was instilled in him early on."
+          ],
+          "quotableIdeas": [
+            "The foundation of a successful investor is built in their formative years.",
+            "Frugality is not just about saving money; it's about valuing every dollar."
+          ],
+          "concepts": [
+            "investment-philosophy",
+            "influence-of-family",
+            "frugality",
+            "lifelong-learning",
+            "business-acumen"
+          ],
+          "actionableItems": [
+            "Reflect on your own early influences and how they shape your current decisions.",
+            "Practice frugality in daily life to cultivate a mindset of value.",
+            "Engage in lifelong learning by reading and exploring new ideas regularly."
+          ],
+          "connectedIdeas": [
+            "The role of upbringing in personal finance (e.g., 'Rich Dad Poor Dad' by Robert Kiyosaki)",
+            "The psychology of investing (e.g., 'Thinking, Fast and Slow' by Daniel Kahneman)",
+            "The importance of mentorship and guidance in career development."
+          ],
+          "emotionalResonance": "Understanding Buffett's early influences provides insight into the values that drive his extraordinary success and offers lessons applicable to anyone's financial journey.",
+          "rawNotes": "Consider the early influences in Warren Buffett's life and how they shaped his investment philosophy."
+        },
+        {
+          "id": "the-snowball-ch2",
+          "bookId": "the-snowball",
+          "chapter": 2,
+          "title": "The Making of a Businessman",
+          "dateNoted": "",
+          "keyThemes": [],
+          "rating": null,
+          "isEnriched": true,
+          "summary": "Buffett's childhood experiences shaped his understanding of money and its value, instilling in him principles that would guide his future business decisions. The lessons learned during these formative years laid the groundwork for his investment philosophy and approach to wealth.",
+          "keyInsights": [
+            "Buffett learned the importance of saving and investing from a young age.",
+            "His early entrepreneurial ventures taught him about risk and reward.",
+            "Childhood experiences with money influenced his long-term financial strategies.",
+            "Buffett's understanding of value was shaped by his family's attitudes toward money.",
+            "He recognized the power of compound interest early on."
+          ],
+          "quotableIdeas": [
+            "The seeds of financial wisdom were planted in his childhood.",
+            "Every dollar saved is a dollar that can grow over time.",
+            "Risk is an inherent part of any business venture."
+          ],
+          "concepts": [
+            "financial-literacy",
+            "investment-philosophy",
+            "entrepreneurship",
+            "value-investing",
+            "childhood-influence-on-adult-behavior"
+          ],
+          "actionableItems": [
+            "Reflect on your own childhood experiences with money.",
+            "Start a savings plan to understand the power of compound interest.",
+            "Engage in small entrepreneurial activities to learn about risk management."
+          ],
+          "connectedIdeas": [
+            "The role of childhood in shaping financial habits (related to 'Rich Dad Poor Dad')",
+            "Investment strategies and philosophies (related to 'The Intelligent Investor')",
+            "The psychology of money (related to 'Thinking, Fast and Slow')"
+          ],
+          "emotionalResonance": "This chapter highlights how early lessons about money can profoundly influence one's financial journey and success.",
+          "rawNotes": "Reflect on the significance of Buffett's childhood experiences and the lessons he learned about money."
+        },
+        {
+          "id": "the-snowball-ch3",
+          "bookId": "the-snowball",
+          "chapter": 3,
+          "title": "The Partnership with Charlie",
+          "dateNoted": "",
+          "keyThemes": [],
+          "rating": null,
+          "isEnriched": true,
+          "summary": "Chapter 3 explores how Warren Buffett's educational background and early career decisions shaped his investment philosophy and strategies. It highlights the formative experiences that influenced his approach to business and finance.",
+          "keyInsights": [
+            "Buffett's education at Columbia Business School provided him with a strong foundation in value investing.",
+            "Early mentorship from Benjamin Graham instilled a disciplined investment approach.",
+            "Buffett's early career choices, including his partnership with Charlie Munger, emphasized collaboration and long-term thinking."
+          ],
+          "quotableIdeas": [
+            "Education is the cornerstone of informed investing.",
+            "Mentorship can significantly alter one's career trajectory.",
+            "Partnerships can amplify individual strengths in business."
+          ],
+          "concepts": [
+            "value-investing",
+            "mentorship",
+            "partnership-dynamics",
+            "long-term-strategy"
+          ],
+          "actionableItems": [
+            "Seek mentorship from experienced professionals in your field.",
+            "Focus on building partnerships that complement your skills.",
+            "Invest time in learning foundational principles of your industry."
+          ],
+          "connectedIdeas": [
+            "The role of education in professional success (e.g., 'Outliers' by Malcolm Gladwell)",
+            "The importance of mentorship in career development (e.g., 'Lean In' by Sheryl Sandberg)",
+            "Collaboration in business (e.g., 'The Five Dysfunctions of a Team' by Patrick Lencioni)"
+          ],
+          "emotionalResonance": "This chapter underscores the significance of education and relationships in shaping one's path to success, making it relatable and inspiring for aspiring investors.",
+          "rawNotes": "Analyze the impact of Buffett's education and early career choices on his development as an investor."
+        },
+        {
+          "id": "the-snowball-ch4",
+          "bookId": "the-snowball",
+          "chapter": 4,
+          "title": "The Investment Philosophy",
+          "dateNoted": "",
+          "keyThemes": [],
+          "rating": null,
+          "isEnriched": true,
+          "summary": "Chapter 4 explores the significant influence of key mentors in Warren Buffett's life, highlighting how their guidance shaped his investment philosophy and understanding of business. The chapter emphasizes the importance of learning from experienced individuals in developing a successful approach to investing.",
+          "keyInsights": [
+            "Mentorship played a crucial role in Buffett's development as an investor.",
+            "Buffett learned valuable lessons about business and investing from his mentors.",
+            "The impact of mentorship can be seen in Buffett's investment strategies and decision-making."
+          ],
+          "quotableIdeas": [
+            "Mentors are the compass that guides the journey of learning.",
+            "The wisdom of experienced investors can illuminate the path to success."
+          ],
+          "concepts": [
+            "mentorship",
+            "investment-philosophy",
+            "learning-from-experience"
+          ],
+          "actionableItems": [
+            "Seek out mentors in your field to gain insights and guidance.",
+            "Reflect on the lessons learned from past mentors and apply them to current decisions."
+          ],
+          "connectedIdeas": [
+            "The role of mentorship in personal development",
+            "Investment strategies in other financial literature",
+            "The importance of learning from failure and success"
+          ],
+          "emotionalResonance": "This chapter underscores the profound impact that mentors can have on our personal and professional growth, reminding us of the value of guidance in our journeys.",
+          "rawNotes": "Examine the role of key mentors in Buffett's life and how they contributed to his understanding of business."
+        },
+        {
+          "id": "the-snowball-ch5",
+          "bookId": "the-snowball",
+          "chapter": 5,
+          "title": "The Berkshire Hathaway Era",
+          "dateNoted": "",
+          "keyThemes": [],
+          "rating": null,
+          "isEnriched": true,
+          "summary": "In this chapter, the principles of value investing that Warren Buffett embraced are explored, highlighting how they set him apart from other investors. Buffett's unique approach focuses on long-term value, thorough analysis, and a disciplined investment strategy.",
+          "keyInsights": [
+            "Buffett's value investing principles emphasize buying undervalued companies with strong fundamentals.",
+            "He differentiates himself by prioritizing long-term growth over short-term gains.",
+            "Buffett conducts extensive research and analysis before making investment decisions.",
+            "His investment philosophy is rooted in patience and discipline.",
+            "Buffett's focus on management quality and company culture is a key differentiator."
+          ],
+          "quotableIdeas": [
+            "Invest in what you understand and know.",
+            "The stock market is a device for transferring money from the impatient to the patient.",
+            "Risk comes from not knowing what you're doing."
+          ],
+          "concepts": [
+            "value-investing",
+            "long-term-investment-strategy",
+            "investment-analysis",
+            "patience-in-investing",
+            "management-quality"
+          ],
+          "actionableItems": [
+            "Identify undervalued companies in your investment portfolio.",
+            "Conduct thorough research on potential investments before buying.",
+            "Adopt a long-term perspective when making investment decisions.",
+            "Evaluate the management and culture of companies you invest in."
+          ],
+          "connectedIdeas": [
+            "The Intelligent Investor by Benjamin Graham",
+            "Common Stocks and Uncommon Profits by Philip Fisher",
+            "The Little Book of Value Investing by Christopher H. Browne"
+          ],
+          "emotionalResonance": "This chapter highlights the importance of a principled approach to investing, inspiring readers to adopt a thoughtful and disciplined mindset.",
+          "rawNotes": "Think about the principles of value investing that Buffett adopted and how they differentiate him from others."
+        },
+        {
+          "id": "the-snowball-ch6",
+          "bookId": "the-snowball",
+          "chapter": 6,
+          "title": "The Growth of Wealth",
+          "dateNoted": "",
+          "keyThemes": [],
+          "rating": null,
+          "isEnriched": true,
+          "summary": "Chapter 6 delves into Warren Buffett's early investment strategies, highlighting both his successes and failures. It illustrates how these experiences shaped his approach to investing and contributed to his eventual wealth accumulation.",
+          "keyInsights": [
+            "Buffett's early investment strategies were characterized by a focus on value investing.",
+            "He experienced both significant successes and notable failures that informed his future decisions.",
+            "The lessons learned from his early mistakes were crucial in refining his investment philosophy."
+          ],
+          "quotableIdeas": [
+            "Investing is not about timing the market, but about time in the market.",
+            "Every failure is an opportunity to learn and grow."
+          ],
+          "concepts": [
+            "value-investing",
+            "investment-strategy",
+            "learning-from-failure"
+          ],
+          "actionableItems": [
+            "Analyze past investment decisions to identify lessons learned.",
+            "Focus on long-term value rather than short-term gains."
+          ],
+          "connectedIdeas": [
+            "The principles of value investing as discussed in 'The Intelligent Investor' by Benjamin Graham.",
+            "The importance of learning from failure in personal development literature."
+          ],
+          "emotionalResonance": "This chapter underscores the importance of resilience and learning in the journey to financial success.",
+          "rawNotes": "Explore Buffett's early investment strategies and the successes and failures he encountered."
+        },
+        {
+          "id": "the-snowball-ch7",
+          "bookId": "the-snowball",
+          "chapter": 7,
+          "title": "The Philanthropic Journey",
+          "dateNoted": "",
+          "keyThemes": [],
+          "rating": null,
+          "isEnriched": true,
+          "summary": "Chapter 7 explores the pivotal role of partnerships in Warren Buffett's investment career, highlighting how collaborative relationships shaped his decision-making process. The chapter emphasizes the significance of trust and shared vision in successful investments.",
+          "keyInsights": [
+            "Buffett's partnerships provided him with diverse perspectives that enriched his investment strategies.",
+            "Collaborative decision-making led to more informed and balanced investment choices.",
+            "Trust among partners allowed for risk-sharing and increased confidence in high-stakes decisions.",
+            "Buffett's ability to cultivate strong relationships was crucial for accessing unique investment opportunities.",
+            "The influence of mentors and peers in Buffett's journey underscores the value of networking in finance."
+          ],
+          "quotableIdeas": [
+            "Partnerships are not just about capital; they are about shared vision and trust.",
+            "The best investment decisions are often made collaboratively."
+          ],
+          "concepts": [
+            "partnerships",
+            "investment-strategy",
+            "trust-in-business",
+            "networking",
+            "mentorship"
+          ],
+          "actionableItems": [
+            "Seek out mentorship opportunities to enhance your investment knowledge.",
+            "Build a network of trusted partners to share insights and strategies.",
+            "Engage in collaborative decision-making processes for major financial choices."
+          ],
+          "connectedIdeas": [
+            "The importance of mentorship in 'The Lean Startup' by Eric Ries",
+            "Collaborative leadership in 'Leaders Eat Last' by Simon Sinek",
+            "Networking strategies in 'Never Eat Alone' by Keith Ferrazzi"
+          ],
+          "emotionalResonance": "This chapter highlights how meaningful relationships can transform one's career and lead to greater success.",
+          "rawNotes": "Assess the importance of partnerships in Buffett's career and how they influenced his investment decisions."
+        },
+        {
+          "id": "the-snowball-ch8",
+          "bookId": "the-snowball",
+          "chapter": 8,
+          "title": "The Legacy of Warren Buffett",
+          "dateNoted": "",
+          "keyThemes": [],
+          "rating": null,
+          "isEnriched": true,
+          "summary": "Chapter 8 explores the origins of Berkshire Hathaway and its pivotal role in shaping Warren Buffett's investment philosophy. It highlights how the company's formation marked a significant turning point in Buffett's career, allowing him to implement his unique investment strategies on a larger scale.",
+          "keyInsights": [
+            "Berkshire Hathaway was initially a textile manufacturing company before transforming into an investment vehicle.",
+            "Buffett's acquisition of Berkshire Hathaway represented a shift from traditional stock investing to a more holistic approach.",
+            "The significance of Berkshire Hathaway lies in its ability to provide a platform for Buffett's long-term investment strategies.",
+            "Buffett's leadership at Berkshire emphasized the importance of management quality and business fundamentals.",
+            "The company's structure allowed for diverse investments, which contributed to its long-term success."
+          ],
+          "quotableIdeas": [
+            "Berkshire Hathaway is not just a company; it's a reflection of Buffett's investment philosophy.",
+            "Investing is about understanding the business, not just the stock price."
+          ],
+          "concepts": [
+            "value-investing",
+            "business-management",
+            "investment-strategy",
+            "corporate-structure",
+            "long-term-growth"
+          ],
+          "actionableItems": [
+            "Research the history of Berkshire Hathaway to understand its evolution.",
+            "Analyze Buffett's investment strategies and how they apply to current market conditions.",
+            "Consider the importance of management quality when evaluating potential investments."
+          ],
+          "connectedIdeas": [
+            "The Intelligent Investor by Benjamin Graham",
+            "Common Stocks and Uncommon Profits by Philip Fisher",
+            "Principles by Ray Dalio"
+          ],
+          "emotionalResonance": "This chapter matters because it illustrates how strategic decisions can lead to transformative success, inspiring readers to think critically about their own investment choices.",
+          "rawNotes": "Investigate the formation of Berkshire Hathaway and its significance in Buffett's investment journey."
+        },
+        {
+          "id": "the-snowball-ch9",
+          "bookId": "the-snowball",
+          "chapter": 9,
+          "title": "Lessons Learned",
+          "dateNoted": "",
+          "keyThemes": [],
+          "rating": null,
+          "isEnriched": true,
+          "summary": "In Chapter 9 of 'The Snowball', Buffett reflects on the economic downturns he encountered and the strategic adaptations he made to navigate these challenges. His ability to remain resilient and flexible in the face of adversity is highlighted as a key aspect of his investment philosophy.",
+          "keyInsights": [
+            "Buffett faced significant challenges during economic downturns, which tested his investment strategies.",
+            "He adapted by focusing on long-term value rather than short-term market fluctuations.",
+            "Maintaining a strong cash position allowed him to seize opportunities when others were fearful.",
+            "Buffett's emphasis on fundamental analysis helped him identify undervalued companies during tough times.",
+            "His experiences reinforced the importance of patience and discipline in investing."
+          ],
+          "quotableIdeas": [
+            "In times of crisis, the best opportunities often emerge.",
+            "Adaptability is crucial for long-term success in investing.",
+            "Fear and greed are powerful forces; understanding them is key to navigating markets."
+          ],
+          "concepts": [
+            "investment-strategy",
+            "economic-resilience",
+            "value-investing",
+            "market-psychology",
+            "long-term-planning"
+          ],
+          "actionableItems": [
+            "Evaluate your investment strategy during market downturns and adjust as necessary.",
+            "Maintain a cash reserve to take advantage of market opportunities.",
+            "Focus on the fundamentals of companies rather than short-term market trends."
+          ],
+          "connectedIdeas": [
+            "Behavioral Finance",
+            "Risk Management",
+            "Long-term Investment Strategies",
+            "Economic History"
+          ],
+          "emotionalResonance": "This chapter emphasizes the importance of resilience and adaptability, reminding readers that challenges can lead to significant growth and opportunity.",
+          "rawNotes": "Evaluate the challenges Buffett faced during economic downturns and how he adapted his strategies."
+        },
+        {
+          "id": "the-snowball-ch10",
+          "bookId": "the-snowball",
+          "chapter": 10,
+          "title": "Reflections on Life and Business",
+          "dateNoted": "",
+          "keyThemes": [],
+          "rating": null,
+          "isEnriched": true,
+          "summary": "Chapter 10 explores the ethical dimensions of Warren Buffett's business practices, emphasizing how they reflect his personal values. It highlights the importance of integrity and ethical decision-making in achieving long-term success in business.",
+          "keyInsights": [
+            "Buffett's business practices are deeply rooted in his personal ethics.",
+            "Integrity is a cornerstone of Buffett's approach to business.",
+            "Aligning personal values with business decisions leads to sustainable success.",
+            "Ethical considerations can enhance a company's reputation and trustworthiness.",
+            "Buffett's example illustrates the impact of ethical leadership on organizational culture."
+          ],
+          "quotableIdeas": [
+            "Integrity is doing the right thing, even when no one is watching.",
+            "Success in business is not just about profits, but also about principles."
+          ],
+          "concepts": [
+            "ethics-in-business",
+            "integrity",
+            "leadership",
+            "sustainable-success",
+            "corporate-responsibility"
+          ],
+          "actionableItems": [
+            "Reflect on your own values and how they influence your business decisions.",
+            "Develop a personal code of ethics to guide your professional conduct.",
+            "Engage in discussions about ethical dilemmas in your workplace."
+          ],
+          "connectedIdeas": [
+            "Ethical Leadership in 'Leaders Eat Last' by Simon Sinek",
+            "Corporate Social Responsibility in 'The Responsible Company' by Yvon Chouinard",
+            "Personal Values in 'Start with Why' by Simon Sinek"
+          ],
+          "emotionalResonance": "This chapter underscores the profound impact of ethics on both personal fulfillment and professional achievement.",
+          "rawNotes": "Consider the ethical considerations in Buffett's business practices and how they align with his personal values."
+        }
+      ]
+    },
+    {
       "id": "value-investing-and-behavioral-finance",
       "title": "Value Investing and Behavioral Finance",
       "author": "Mr. Parag Parikh",
@@ -1779,9 +2197,13 @@
           "the-intelligent-investor-ch6",
           "the-intelligent-investor-ch9",
           "the-intelligent-investor-ch10",
+          "the-snowball-ch6",
+          "the-snowball-ch7",
+          "the-snowball-ch8",
+          "the-snowball-ch9",
           "value-investing-and-behavioral-finance-ch7"
         ],
-        "weight": 6
+        "weight": 10
       },
       {
         "id": "risk-management",
@@ -1847,6 +2269,12 @@
           "the-intelligent-investor-ch15",
           "the-intelligent-investor-ch17",
           "the-intelligent-investor-ch20",
+          "the-snowball-ch2",
+          "the-snowball-ch3",
+          "the-snowball-ch5",
+          "the-snowball-ch6",
+          "the-snowball-ch8",
+          "the-snowball-ch9",
           "value-investing-and-behavioral-finance-ch1",
           "value-investing-and-behavioral-finance-ch5",
           "value-investing-and-behavioral-finance-ch6",
@@ -1855,7 +2283,7 @@
           "value-investing-and-behavioral-finance-ch9",
           "value-investing-and-behavioral-finance-ch10"
         ],
-        "weight": 15
+        "weight": 21
       },
       {
         "id": "intrinsic-value",
@@ -1892,9 +2320,10 @@
         "label": "Long Term Strategy",
         "chapters": [
           "the-intelligent-investor-ch4",
+          "the-snowball-ch3",
           "value-investing-and-behavioral-finance-ch9"
         ],
-        "weight": 2
+        "weight": 3
       },
       {
         "id": "investment-psychology",
@@ -1954,12 +2383,13 @@
           "the-intelligent-investor-ch15",
           "the-intelligent-investor-ch17",
           "the-intelligent-investor-ch20",
+          "the-snowball-ch9",
           "value-investing-and-behavioral-finance-ch3",
           "value-investing-and-behavioral-finance-ch8",
           "value-investing-and-behavioral-finance-ch9",
           "value-investing-and-behavioral-finance-ch10"
         ],
-        "weight": 9
+        "weight": 10
       },
       {
         "id": "market-cycles",
@@ -1994,18 +2424,40 @@
         "label": "Long Term Investment Strategy",
         "chapters": [
           "the-intelligent-investor-ch12",
-          "the-intelligent-investor-ch20"
+          "the-intelligent-investor-ch20",
+          "the-snowball-ch5"
         ],
-        "weight": 2
+        "weight": 3
       },
       {
         "id": "investment-analysis",
         "label": "Investment Analysis",
         "chapters": [
           "the-intelligent-investor-ch17",
+          "the-snowball-ch5",
           "value-investing-and-behavioral-finance-ch3"
         ],
-        "weight": 2
+        "weight": 3
+      },
+      {
+        "id": "investment-philosophy",
+        "label": "Investment Philosophy",
+        "chapters": [
+          "the-snowball-ch1",
+          "the-snowball-ch2",
+          "the-snowball-ch4"
+        ],
+        "weight": 3
+      },
+      {
+        "id": "mentorship",
+        "label": "Mentorship",
+        "chapters": [
+          "the-snowball-ch3",
+          "the-snowball-ch4",
+          "the-snowball-ch7"
+        ],
+        "weight": 3
       },
       {
         "id": "psychological-biases",
@@ -2130,6 +2582,26 @@
       },
       {
         "source": "the-intelligent-investor-ch1",
+        "target": "the-snowball-ch6",
+        "concept": "investment-strategy"
+      },
+      {
+        "source": "the-intelligent-investor-ch1",
+        "target": "the-snowball-ch7",
+        "concept": "investment-strategy"
+      },
+      {
+        "source": "the-intelligent-investor-ch1",
+        "target": "the-snowball-ch8",
+        "concept": "investment-strategy"
+      },
+      {
+        "source": "the-intelligent-investor-ch1",
+        "target": "the-snowball-ch9",
+        "concept": "investment-strategy"
+      },
+      {
+        "source": "the-intelligent-investor-ch1",
         "target": "value-investing-and-behavioral-finance-ch7",
         "concept": "investment-strategy"
       },
@@ -2150,6 +2622,26 @@
       },
       {
         "source": "the-intelligent-investor-ch2",
+        "target": "the-snowball-ch6",
+        "concept": "investment-strategy"
+      },
+      {
+        "source": "the-intelligent-investor-ch2",
+        "target": "the-snowball-ch7",
+        "concept": "investment-strategy"
+      },
+      {
+        "source": "the-intelligent-investor-ch2",
+        "target": "the-snowball-ch8",
+        "concept": "investment-strategy"
+      },
+      {
+        "source": "the-intelligent-investor-ch2",
+        "target": "the-snowball-ch9",
+        "concept": "investment-strategy"
+      },
+      {
+        "source": "the-intelligent-investor-ch2",
         "target": "value-investing-and-behavioral-finance-ch7",
         "concept": "investment-strategy"
       },
@@ -2165,6 +2657,26 @@
       },
       {
         "source": "the-intelligent-investor-ch6",
+        "target": "the-snowball-ch6",
+        "concept": "investment-strategy"
+      },
+      {
+        "source": "the-intelligent-investor-ch6",
+        "target": "the-snowball-ch7",
+        "concept": "investment-strategy"
+      },
+      {
+        "source": "the-intelligent-investor-ch6",
+        "target": "the-snowball-ch8",
+        "concept": "investment-strategy"
+      },
+      {
+        "source": "the-intelligent-investor-ch6",
+        "target": "the-snowball-ch9",
+        "concept": "investment-strategy"
+      },
+      {
+        "source": "the-intelligent-investor-ch6",
         "target": "value-investing-and-behavioral-finance-ch7",
         "concept": "investment-strategy"
       },
@@ -2175,11 +2687,101 @@
       },
       {
         "source": "the-intelligent-investor-ch9",
+        "target": "the-snowball-ch6",
+        "concept": "investment-strategy"
+      },
+      {
+        "source": "the-intelligent-investor-ch9",
+        "target": "the-snowball-ch7",
+        "concept": "investment-strategy"
+      },
+      {
+        "source": "the-intelligent-investor-ch9",
+        "target": "the-snowball-ch8",
+        "concept": "investment-strategy"
+      },
+      {
+        "source": "the-intelligent-investor-ch9",
+        "target": "the-snowball-ch9",
+        "concept": "investment-strategy"
+      },
+      {
+        "source": "the-intelligent-investor-ch9",
         "target": "value-investing-and-behavioral-finance-ch7",
         "concept": "investment-strategy"
       },
       {
         "source": "the-intelligent-investor-ch10",
+        "target": "the-snowball-ch6",
+        "concept": "investment-strategy"
+      },
+      {
+        "source": "the-intelligent-investor-ch10",
+        "target": "the-snowball-ch7",
+        "concept": "investment-strategy"
+      },
+      {
+        "source": "the-intelligent-investor-ch10",
+        "target": "the-snowball-ch8",
+        "concept": "investment-strategy"
+      },
+      {
+        "source": "the-intelligent-investor-ch10",
+        "target": "the-snowball-ch9",
+        "concept": "investment-strategy"
+      },
+      {
+        "source": "the-intelligent-investor-ch10",
+        "target": "value-investing-and-behavioral-finance-ch7",
+        "concept": "investment-strategy"
+      },
+      {
+        "source": "the-snowball-ch6",
+        "target": "the-snowball-ch7",
+        "concept": "investment-strategy"
+      },
+      {
+        "source": "the-snowball-ch6",
+        "target": "the-snowball-ch8",
+        "concept": "investment-strategy"
+      },
+      {
+        "source": "the-snowball-ch6",
+        "target": "the-snowball-ch9",
+        "concept": "investment-strategy"
+      },
+      {
+        "source": "the-snowball-ch6",
+        "target": "value-investing-and-behavioral-finance-ch7",
+        "concept": "investment-strategy"
+      },
+      {
+        "source": "the-snowball-ch7",
+        "target": "the-snowball-ch8",
+        "concept": "investment-strategy"
+      },
+      {
+        "source": "the-snowball-ch7",
+        "target": "the-snowball-ch9",
+        "concept": "investment-strategy"
+      },
+      {
+        "source": "the-snowball-ch7",
+        "target": "value-investing-and-behavioral-finance-ch7",
+        "concept": "investment-strategy"
+      },
+      {
+        "source": "the-snowball-ch8",
+        "target": "the-snowball-ch9",
+        "concept": "investment-strategy"
+      },
+      {
+        "source": "the-snowball-ch8",
+        "target": "value-investing-and-behavioral-finance-ch7",
+        "concept": "investment-strategy"
+      },
+      {
+        "source": "the-snowball-ch9",
         "target": "value-investing-and-behavioral-finance-ch7",
         "concept": "investment-strategy"
       },
@@ -2615,6 +3217,36 @@
       },
       {
         "source": "the-intelligent-investor-ch4",
+        "target": "the-snowball-ch2",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch4",
+        "target": "the-snowball-ch3",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch4",
+        "target": "the-snowball-ch5",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch4",
+        "target": "the-snowball-ch6",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch4",
+        "target": "the-snowball-ch8",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch4",
+        "target": "the-snowball-ch9",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch4",
         "target": "value-investing-and-behavioral-finance-ch1",
         "concept": "value-investing"
       },
@@ -2680,6 +3312,36 @@
       },
       {
         "source": "the-intelligent-investor-ch8",
+        "target": "the-snowball-ch2",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch8",
+        "target": "the-snowball-ch3",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch8",
+        "target": "the-snowball-ch5",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch8",
+        "target": "the-snowball-ch6",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch8",
+        "target": "the-snowball-ch8",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch8",
+        "target": "the-snowball-ch9",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch8",
         "target": "value-investing-and-behavioral-finance-ch1",
         "concept": "value-investing"
       },
@@ -2740,6 +3402,36 @@
       },
       {
         "source": "the-intelligent-investor-ch12",
+        "target": "the-snowball-ch2",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch12",
+        "target": "the-snowball-ch3",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch12",
+        "target": "the-snowball-ch5",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch12",
+        "target": "the-snowball-ch6",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch12",
+        "target": "the-snowball-ch8",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch12",
+        "target": "the-snowball-ch9",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch12",
         "target": "value-investing-and-behavioral-finance-ch1",
         "concept": "value-investing"
       },
@@ -2795,6 +3487,36 @@
       },
       {
         "source": "the-intelligent-investor-ch13",
+        "target": "the-snowball-ch2",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch13",
+        "target": "the-snowball-ch3",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch13",
+        "target": "the-snowball-ch5",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch13",
+        "target": "the-snowball-ch6",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch13",
+        "target": "the-snowball-ch8",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch13",
+        "target": "the-snowball-ch9",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch13",
         "target": "value-investing-and-behavioral-finance-ch1",
         "concept": "value-investing"
       },
@@ -2845,6 +3567,36 @@
       },
       {
         "source": "the-intelligent-investor-ch14",
+        "target": "the-snowball-ch2",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch14",
+        "target": "the-snowball-ch3",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch14",
+        "target": "the-snowball-ch5",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch14",
+        "target": "the-snowball-ch6",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch14",
+        "target": "the-snowball-ch8",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch14",
+        "target": "the-snowball-ch9",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch14",
         "target": "value-investing-and-behavioral-finance-ch1",
         "concept": "value-investing"
       },
@@ -2890,6 +3642,36 @@
       },
       {
         "source": "the-intelligent-investor-ch15",
+        "target": "the-snowball-ch2",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch15",
+        "target": "the-snowball-ch3",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch15",
+        "target": "the-snowball-ch5",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch15",
+        "target": "the-snowball-ch6",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch15",
+        "target": "the-snowball-ch8",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch15",
+        "target": "the-snowball-ch9",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch15",
         "target": "value-investing-and-behavioral-finance-ch1",
         "concept": "value-investing"
       },
@@ -2930,6 +3712,36 @@
       },
       {
         "source": "the-intelligent-investor-ch17",
+        "target": "the-snowball-ch2",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch17",
+        "target": "the-snowball-ch3",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch17",
+        "target": "the-snowball-ch5",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch17",
+        "target": "the-snowball-ch6",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch17",
+        "target": "the-snowball-ch8",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch17",
+        "target": "the-snowball-ch9",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch17",
         "target": "value-investing-and-behavioral-finance-ch1",
         "concept": "value-investing"
       },
@@ -2965,6 +3777,36 @@
       },
       {
         "source": "the-intelligent-investor-ch20",
+        "target": "the-snowball-ch2",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch20",
+        "target": "the-snowball-ch3",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch20",
+        "target": "the-snowball-ch5",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch20",
+        "target": "the-snowball-ch6",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch20",
+        "target": "the-snowball-ch8",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch20",
+        "target": "the-snowball-ch9",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch20",
         "target": "value-investing-and-behavioral-finance-ch1",
         "concept": "value-investing"
       },
@@ -2995,6 +3837,291 @@
       },
       {
         "source": "the-intelligent-investor-ch20",
+        "target": "value-investing-and-behavioral-finance-ch10",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch2",
+        "target": "the-snowball-ch3",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch2",
+        "target": "the-snowball-ch5",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch2",
+        "target": "the-snowball-ch6",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch2",
+        "target": "the-snowball-ch8",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch2",
+        "target": "the-snowball-ch9",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch2",
+        "target": "value-investing-and-behavioral-finance-ch1",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch2",
+        "target": "value-investing-and-behavioral-finance-ch5",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch2",
+        "target": "value-investing-and-behavioral-finance-ch6",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch2",
+        "target": "value-investing-and-behavioral-finance-ch7",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch2",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch2",
+        "target": "value-investing-and-behavioral-finance-ch9",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch2",
+        "target": "value-investing-and-behavioral-finance-ch10",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch3",
+        "target": "the-snowball-ch5",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch3",
+        "target": "the-snowball-ch6",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch3",
+        "target": "the-snowball-ch8",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch3",
+        "target": "the-snowball-ch9",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch3",
+        "target": "value-investing-and-behavioral-finance-ch1",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch3",
+        "target": "value-investing-and-behavioral-finance-ch5",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch3",
+        "target": "value-investing-and-behavioral-finance-ch6",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch3",
+        "target": "value-investing-and-behavioral-finance-ch7",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch3",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch3",
+        "target": "value-investing-and-behavioral-finance-ch9",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch3",
+        "target": "value-investing-and-behavioral-finance-ch10",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch5",
+        "target": "the-snowball-ch6",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch5",
+        "target": "the-snowball-ch8",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch5",
+        "target": "the-snowball-ch9",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch5",
+        "target": "value-investing-and-behavioral-finance-ch1",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch5",
+        "target": "value-investing-and-behavioral-finance-ch5",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch5",
+        "target": "value-investing-and-behavioral-finance-ch6",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch5",
+        "target": "value-investing-and-behavioral-finance-ch7",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch5",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch5",
+        "target": "value-investing-and-behavioral-finance-ch9",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch5",
+        "target": "value-investing-and-behavioral-finance-ch10",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch6",
+        "target": "the-snowball-ch8",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch6",
+        "target": "the-snowball-ch9",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch6",
+        "target": "value-investing-and-behavioral-finance-ch1",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch6",
+        "target": "value-investing-and-behavioral-finance-ch5",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch6",
+        "target": "value-investing-and-behavioral-finance-ch6",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch6",
+        "target": "value-investing-and-behavioral-finance-ch7",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch6",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch6",
+        "target": "value-investing-and-behavioral-finance-ch9",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch6",
+        "target": "value-investing-and-behavioral-finance-ch10",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch8",
+        "target": "the-snowball-ch9",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch8",
+        "target": "value-investing-and-behavioral-finance-ch1",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch8",
+        "target": "value-investing-and-behavioral-finance-ch5",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch8",
+        "target": "value-investing-and-behavioral-finance-ch6",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch8",
+        "target": "value-investing-and-behavioral-finance-ch7",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch8",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch8",
+        "target": "value-investing-and-behavioral-finance-ch9",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch8",
+        "target": "value-investing-and-behavioral-finance-ch10",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch9",
+        "target": "value-investing-and-behavioral-finance-ch1",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch9",
+        "target": "value-investing-and-behavioral-finance-ch5",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch9",
+        "target": "value-investing-and-behavioral-finance-ch6",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch9",
+        "target": "value-investing-and-behavioral-finance-ch7",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch9",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch9",
+        "target": "value-investing-and-behavioral-finance-ch9",
+        "concept": "value-investing"
+      },
+      {
+        "source": "the-snowball-ch9",
         "target": "value-investing-and-behavioral-finance-ch10",
         "concept": "value-investing"
       },
@@ -3150,6 +4277,16 @@
       },
       {
         "source": "the-intelligent-investor-ch4",
+        "target": "the-snowball-ch3",
+        "concept": "long-term-strategy"
+      },
+      {
+        "source": "the-intelligent-investor-ch4",
+        "target": "value-investing-and-behavioral-finance-ch9",
+        "concept": "long-term-strategy"
+      },
+      {
+        "source": "the-snowball-ch3",
         "target": "value-investing-and-behavioral-finance-ch9",
         "concept": "long-term-strategy"
       },
@@ -3600,6 +4737,11 @@
       },
       {
         "source": "the-intelligent-investor-ch8",
+        "target": "the-snowball-ch9",
+        "concept": "market-psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch8",
         "target": "value-investing-and-behavioral-finance-ch3",
         "concept": "market-psychology"
       },
@@ -3635,6 +4777,11 @@
       },
       {
         "source": "the-intelligent-investor-ch11",
+        "target": "the-snowball-ch9",
+        "concept": "market-psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch11",
         "target": "value-investing-and-behavioral-finance-ch3",
         "concept": "market-psychology"
       },
@@ -3665,6 +4812,11 @@
       },
       {
         "source": "the-intelligent-investor-ch15",
+        "target": "the-snowball-ch9",
+        "concept": "market-psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch15",
         "target": "value-investing-and-behavioral-finance-ch3",
         "concept": "market-psychology"
       },
@@ -3690,6 +4842,11 @@
       },
       {
         "source": "the-intelligent-investor-ch17",
+        "target": "the-snowball-ch9",
+        "concept": "market-psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch17",
         "target": "value-investing-and-behavioral-finance-ch3",
         "concept": "market-psychology"
       },
@@ -3710,6 +4867,11 @@
       },
       {
         "source": "the-intelligent-investor-ch20",
+        "target": "the-snowball-ch9",
+        "concept": "market-psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch20",
         "target": "value-investing-and-behavioral-finance-ch3",
         "concept": "market-psychology"
       },
@@ -3725,6 +4887,26 @@
       },
       {
         "source": "the-intelligent-investor-ch20",
+        "target": "value-investing-and-behavioral-finance-ch10",
+        "concept": "market-psychology"
+      },
+      {
+        "source": "the-snowball-ch9",
+        "target": "value-investing-and-behavioral-finance-ch3",
+        "concept": "market-psychology"
+      },
+      {
+        "source": "the-snowball-ch9",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "market-psychology"
+      },
+      {
+        "source": "the-snowball-ch9",
+        "target": "value-investing-and-behavioral-finance-ch9",
+        "concept": "market-psychology"
+      },
+      {
+        "source": "the-snowball-ch9",
         "target": "value-investing-and-behavioral-finance-ch10",
         "concept": "market-psychology"
       },
@@ -3789,9 +4971,59 @@
         "concept": "long-term-investment-strategy"
       },
       {
+        "source": "the-intelligent-investor-ch12",
+        "target": "the-snowball-ch5",
+        "concept": "long-term-investment-strategy"
+      },
+      {
+        "source": "the-intelligent-investor-ch20",
+        "target": "the-snowball-ch5",
+        "concept": "long-term-investment-strategy"
+      },
+      {
+        "source": "the-intelligent-investor-ch17",
+        "target": "the-snowball-ch5",
+        "concept": "investment-analysis"
+      },
+      {
         "source": "the-intelligent-investor-ch17",
         "target": "value-investing-and-behavioral-finance-ch3",
         "concept": "investment-analysis"
+      },
+      {
+        "source": "the-snowball-ch5",
+        "target": "value-investing-and-behavioral-finance-ch3",
+        "concept": "investment-analysis"
+      },
+      {
+        "source": "the-snowball-ch1",
+        "target": "the-snowball-ch2",
+        "concept": "investment-philosophy"
+      },
+      {
+        "source": "the-snowball-ch1",
+        "target": "the-snowball-ch4",
+        "concept": "investment-philosophy"
+      },
+      {
+        "source": "the-snowball-ch2",
+        "target": "the-snowball-ch4",
+        "concept": "investment-philosophy"
+      },
+      {
+        "source": "the-snowball-ch3",
+        "target": "the-snowball-ch4",
+        "concept": "mentorship"
+      },
+      {
+        "source": "the-snowball-ch3",
+        "target": "the-snowball-ch7",
+        "concept": "mentorship"
+      },
+      {
+        "source": "the-snowball-ch4",
+        "target": "the-snowball-ch7",
+        "concept": "mentorship"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch4",
