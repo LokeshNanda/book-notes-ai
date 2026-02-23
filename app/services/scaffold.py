@@ -1,6 +1,7 @@
 """Scaffold a new book from a search query. Uses Open Library API + OpenAI."""
 import json
 import os
+import random
 import re
 from pathlib import Path
 
@@ -26,6 +27,12 @@ Match keys to chapter numbers. No markdown, no code blocks."""
 FALLBACK_PROMPT = """The user searched for: "{query}".
 Infer the most likely book title and author. Return JSON: {{"title": "...", "author": "..."}}.
 No markdown, no code blocks."""
+
+_BOOK_COLOR_PALETTE = [
+    "#2A9D8F", "#E76F51", "#E9C46A", "#264653", "#F4A261",
+    "#6B5B95", "#88B04B", "#DD4124", "#45B8AC", "#5B5EA6",
+    "#9B2335", "#DFCFBE", "#55B4B0", "#D65076", "#009B77",
+]
 
 
 def _slugify(s: str) -> str:
@@ -162,9 +169,10 @@ async def scaffold_book(
         "title": title,
         "author": author_name,
         "cover": cover,
-        "color": "#8B949E",
+        "color": random.choice(_BOOK_COLOR_PALETTE),
         "status": "reading",
-        "tags": [],
+        "rating": 5,
+        "tags": ["new"],
         "totalChapters": len(chapters),
     }
     with open(book_dir / "meta.yaml", "w") as f:
