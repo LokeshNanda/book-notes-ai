@@ -39,6 +39,10 @@ bash scripts/bootstrap.sh
 
 ## Adding Notes
 
+**Jumpstart with scaffold** (CLI): Run `python scripts/scaffold.py "Atomic Habits"` to create a book folder with `meta.yaml` and chapter files. Edit the markdown as needed.
+
+Or manually:
+
 1. Create a book folder in `books/` (e.g. `books/atomic-habits/`)
 2. Add `meta.yaml` with `title`, `author`, and optional `color`, `tags`, etc.
 3. Add chapter markdown files: `ch1-title.md`, `ch2-title.md` with YAML frontmatter:

@@ -32,8 +32,8 @@ jobs:
 
       - name: Commit enriched files
         run: |
-          git config user.email "readbrain-bot@github.com"
-          git config user.name "ReadBrain Bot"
+          git config user.email "lokeshnandas-bot@github.com"
+          git config user.name "Lokesh Nandas Bot"
           git add "books/**/*_enriched.json" "site/public/graph-data.json"
           git diff --staged --quiet || git commit -m "🤖 AI enrichment [skip ci]"
           git push

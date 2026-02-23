@@ -1,10 +1,10 @@
 {
-  "generated": "2026-02-23T07:39:10.465741+00:00",
+  "generated": "2026-02-23T08:06:26.229454+00:00",
   "stats": {
-    "totalBooks": 1,
-    "totalChapters": 1,
-    "totalConcepts": 3,
-    "enrichedChapters": 0
+    "totalBooks": 3,
+    "totalChapters": 31,
+    "totalConcepts": 62,
+    "enrichedChapters": 21
   },
   "books": [
     {
@@ -35,25 +35,1233 @@
             "identity"
           ],
           "rating": 5,
+          "isEnriched": true,
+          "summary": "Chapter 1 emphasizes the transformative power of making small, consistent improvements, suggesting that becoming 1% better each day can lead to significant growth over time. It highlights the importance of focusing on identity and systems rather than just goals in the pursuit of self-improvement.",
+          "keyInsights": [
+            "Habits serve as the compound interest of self-improvement.",
+            "Identity-based habits are more effective than outcome-based habits.",
+            "Focusing on who you want to become is crucial for lasting change.",
+            "Small wins are essential for building momentum.",
+            "Systems are more effective than goals in achieving success."
+          ],
+          "quotableIdeas": [
+            "1% better every day compounds to 37x improvement over a year.",
+            "Systems beat goals; a goal is a direction, a system is the vehicle."
+          ],
+          "concepts": [
+            "Habit Formation",
+            "Self-Improvement",
+            "Identity Change",
+            "Momentum",
+            "Systems Thinking"
+          ],
+          "actionableItems": [
+            "Identify one small habit to improve by 1% each day.",
+            "Reflect on your identity and how it aligns with your goals.",
+            "Create a system that supports your desired habits."
+          ],
+          "connectedIdeas": [
+            "Atomic Habits by James Clear",
+            "Mindset by Carol Dweck",
+            "The Compound Effect by Darren Hardy"
+          ],
+          "emotionalResonance": "This chapter matters because it empowers readers to realize that small, consistent efforts can lead to profound personal transformation.",
+          "rawNotes": "# Raw notes from Chapter 1\n\nThe key idea: **1% better every day** compounds to 37x improvement over a year.\n\n- Habits are the compound interest of self-improvement\n- Identity-based habits > outcome-based habits\n- Focus on who you wish to become, not what you want to achieve\n- Small wins build momentum\n\nSystems beat goals. A goal is a direction; a system is the vehicle."
+        }
+      ]
+    },
+    {
+      "id": "the-almanack-of-naval-ravikant",
+      "title": "The Almanack of Naval Ravikant",
+      "author": "Eric Jorgenson",
+      "cover": "https://covers.openlibrary.org/b/id/10449931-M.jpg",
+      "color": "#8B949E",
+      "rating": null,
+      "status": "reading",
+      "tags": [],
+      "dateFinished": "",
+      "totalChapters": 10,
+      "chapters": [
+        {
+          "id": "the-almanack-of-naval-ravikant-ch1",
+          "bookId": "the-almanack-of-naval-ravikant",
+          "chapter": 1,
+          "title": "Introduction",
+          "dateNoted": "",
+          "keyThemes": [],
+          "rating": null,
+          "isEnriched": true,
+          "summary": "The introduction emphasizes the significance of understanding wealth and happiness in one's life. It encourages readers to reflect on their personal definitions and the roles these concepts play in achieving fulfillment.",
+          "keyInsights": [
+            "Wealth and happiness are subjective and personal concepts.",
+            "Reflecting on what wealth and happiness mean to you is crucial for personal growth.",
+            "Understanding the relationship between wealth and happiness can lead to a more fulfilling life."
+          ],
+          "quotableIdeas": [
+            "Wealth is not just about money; it's about freedom and choices.",
+            "Happiness is a state of mind that can be cultivated."
+          ],
+          "concepts": [
+            "Wealth",
+            "Happiness",
+            "Personal Growth",
+            "Self-Reflection"
+          ],
+          "actionableItems": [
+            "Take time to write down your definitions of wealth and happiness.",
+            "Reflect on how your current life aligns with these definitions."
+          ],
+          "connectedIdeas": [
+            "The pursuit of happiness in positive psychology.",
+            "Wealth and personal finance principles from other financial literature."
+          ],
+          "emotionalResonance": "This chapter matters because it sets the foundation for a deeper exploration of how to achieve a balanced and meaningful life.",
+          "rawNotes": "Reflect on the importance of wealth and happiness in your life; what do they mean to you?"
+        },
+        {
+          "id": "the-almanack-of-naval-ravikant-ch10",
+          "bookId": "the-almanack-of-naval-ravikant",
+          "chapter": 10,
+          "title": "Conclusion",
+          "dateNoted": "",
+          "keyThemes": [],
+          "rating": null,
+          "isEnriched": true,
+          "summary": "Chapter 10 encourages readers to reflect on the meaning of freedom in their lives and explore practical ways to achieve it. It emphasizes the personal nature of freedom and the importance of defining it for oneself.",
+          "keyInsights": [
+            "Freedom is a personal and subjective concept that varies from person to person.",
+            "Achieving freedom requires self-reflection and understanding one's own values and desires.",
+            "Practical steps can be taken to move towards a more liberated life."
+          ],
+          "quotableIdeas": [
+            "What does freedom mean to you?",
+            "Define your own path to achieve freedom."
+          ],
+          "concepts": [
+            "Personal Freedom",
+            "Self-Reflection",
+            "Life Design"
+          ],
+          "actionableItems": [
+            "Take time to write down what freedom means to you.",
+            "Identify specific actions you can take to move closer to your definition of freedom."
+          ],
+          "connectedIdeas": [
+            "Philosophy of Freedom",
+            "Personal Development",
+            "Mindfulness"
+          ],
+          "emotionalResonance": "This chapter matters because it empowers readers to take control of their lives by defining and pursuing their own version of freedom.",
+          "rawNotes": "Think about the concept of freedom; what does it mean to you and how can you achieve it?"
+        },
+        {
+          "id": "the-almanack-of-naval-ravikant-ch2",
+          "bookId": "the-almanack-of-naval-ravikant",
+          "chapter": 2,
+          "title": "Wealth",
+          "dateNoted": "",
+          "keyThemes": [],
+          "rating": null,
+          "isEnriched": true,
+          "summary": "Chapter 2 emphasizes the importance of identifying and cultivating specific knowledge, which encompasses unique skills and experiences that set individuals apart in their pursuits. It encourages readers to reflect on their own distinct capabilities and how these can be leveraged for wealth creation.",
+          "keyInsights": [
+            "Specific knowledge is unique to each individual and cannot be easily replicated.",
+            "Identifying your specific knowledge is crucial for personal and professional success.",
+            "Leveraging unique skills can lead to greater opportunities and wealth.",
+            "Continuous learning and self-discovery enhance one's specific knowledge.",
+            "Wealth is often a byproduct of utilizing specific knowledge effectively."
+          ],
+          "quotableIdeas": [
+            "Your specific knowledge is your greatest asset.",
+            "Wealth creation is about leveraging what makes you unique."
+          ],
+          "concepts": [
+            "Specific Knowledge",
+            "Wealth Creation",
+            "Personal Development",
+            "Unique Skills"
+          ],
+          "actionableItems": [
+            "Reflect on your unique skills and experiences.",
+            "Write down three areas where you have specific knowledge.",
+            "Seek opportunities to apply your specific knowledge in real-world scenarios."
+          ],
+          "connectedIdeas": [
+            "The importance of niche skills in entrepreneurship",
+            "Personal branding and its relation to unique capabilities",
+            "The role of continuous learning in career development"
+          ],
+          "emotionalResonance": "This chapter matters because recognizing and embracing our unique skills can empower us to create meaningful wealth and fulfillment in our lives.",
+          "rawNotes": "Consider the concept of specific knowledge; what unique skills or experiences do you possess?"
+        },
+        {
+          "id": "the-almanack-of-naval-ravikant-ch3",
+          "bookId": "the-almanack-of-naval-ravikant",
+          "chapter": 3,
+          "title": "Happiness",
+          "dateNoted": "",
+          "keyThemes": [],
+          "rating": null,
+          "isEnriched": true,
+          "summary": "Accountability and responsibility are crucial in shaping our decisions and actions. Reflecting on how these elements influence our choices can lead to greater self-awareness and personal growth.",
+          "keyInsights": [
+            "Accountability encourages individuals to take ownership of their decisions.",
+            "Responsibility can lead to more thoughtful and deliberate actions.",
+            "Understanding the impact of accountability can enhance personal development."
+          ],
+          "quotableIdeas": [
+            "Accountability is the backbone of personal growth.",
+            "Our decisions are shaped by the responsibilities we choose to embrace."
+          ],
+          "concepts": [
+            "Personal Responsibility",
+            "Self-Accountability",
+            "Decision Making"
+          ],
+          "actionableItems": [
+            "Reflect on a recent decision and identify the role of accountability in it.",
+            "Write down areas in your life where you can take more responsibility."
+          ],
+          "connectedIdeas": [
+            "Self-Improvement",
+            "Mindfulness",
+            "Leadership"
+          ],
+          "emotionalResonance": "This chapter emphasizes the importance of taking charge of our lives, which can lead to a deeper sense of fulfillment and happiness.",
+          "rawNotes": "Think about the role of accountability and responsibility in your decisions; how do they shape your actions?"
+        },
+        {
+          "id": "the-almanack-of-naval-ravikant-ch4",
+          "bookId": "the-almanack-of-naval-ravikant",
+          "chapter": 4,
+          "title": "Decision Making",
+          "dateNoted": "",
+          "keyThemes": [],
+          "rating": null,
+          "isEnriched": true,
+          "summary": "This chapter emphasizes the importance of evaluating personal learning methods to identify what works best for individual growth. It encourages readers to reflect on their experiences and adapt their approaches to enhance decision-making skills.",
+          "keyInsights": [
+            "Self-evaluation of learning methods is crucial for effective decision-making.",
+            "Identifying effective strategies can lead to better outcomes in personal and professional life.",
+            "Adaptability in learning approaches is key to continuous improvement."
+          ],
+          "quotableIdeas": [
+            "Evaluate your approach to learning; what methods have been most effective for you?"
+          ],
+          "concepts": [
+            "Learning Strategies",
+            "Self-Reflection",
+            "Decision Making"
+          ],
+          "actionableItems": [
+            "Reflect on past learning experiences to identify successful methods.",
+            "Experiment with different learning techniques to find what resonates best.",
+            "Create a personal learning framework based on effective strategies."
+          ],
+          "connectedIdeas": [
+            "Growth Mindset",
+            "Personal Development",
+            "Cognitive Psychology"
+          ],
+          "emotionalResonance": "This chapter matters because understanding how we learn can empower us to make better decisions and achieve our goals.",
+          "rawNotes": "Evaluate your approach to learning; what methods have been most effective for you?"
+        },
+        {
+          "id": "the-almanack-of-naval-ravikant-ch5",
+          "bookId": "the-almanack-of-naval-ravikant",
+          "chapter": 5,
+          "title": "Specific Knowledge",
+          "dateNoted": "",
+          "keyThemes": [],
+          "rating": null,
+          "isEnriched": true,
+          "summary": "Chapter 5 emphasizes the importance of specific knowledge and how leveraging it can significantly amplify one's efforts in achieving success. By identifying and applying key principles of leverage, individuals can maximize their impact and efficiency in their pursuits.",
+          "keyInsights": [
+            "Leverage is the ability to use resources or knowledge to achieve greater outcomes with less effort.",
+            "Specific knowledge is unique to you and cannot be easily taught or replicated.",
+            "Identifying your unique skills and interests allows you to find areas where you can apply leverage effectively."
+          ],
+          "quotableIdeas": [
+            "Leverage is the key to scaling your efforts.",
+            "Specific knowledge is the foundation of true expertise."
+          ],
+          "concepts": [
+            "Leverage",
+            "Specific Knowledge",
+            "Personal Development"
+          ],
+          "actionableItems": [
+            "Reflect on your unique skills and how they can be applied in your work.",
+            "Seek opportunities that allow you to leverage your specific knowledge for greater impact."
+          ],
+          "connectedIdeas": [
+            "The 80/20 Principle",
+            "The Importance of Specialization",
+            "Entrepreneurship and Innovation"
+          ],
+          "emotionalResonance": "This chapter matters because it empowers individuals to recognize and harness their unique strengths to create meaningful change in their lives.",
+          "rawNotes": "Identify the key principles of leverage; how can you apply them to amplify your efforts?"
+        },
+        {
+          "id": "the-almanack-of-naval-ravikant-ch6",
+          "bookId": "the-almanack-of-naval-ravikant",
+          "chapter": 6,
+          "title": "Learning",
+          "dateNoted": "",
+          "keyThemes": [],
+          "rating": null,
+          "isEnriched": true,
+          "summary": "Chapter 6 emphasizes the importance of long-term thinking in shaping one's goals and daily decisions. It encourages readers to reflect on their aspirations and how these aspirations guide their everyday choices.",
+          "keyInsights": [
+            "Long-term goals should influence daily actions and decisions.",
+            "Reflecting on aspirations helps clarify priorities.",
+            "Daily choices can either align with or detract from long-term objectives.",
+            "Understanding the future can lead to better decision-making in the present.",
+            "Consistent long-term thinking fosters resilience and focus."
+          ],
+          "quotableIdeas": [
+            "Your long-term goals shape your daily choices.",
+            "Reflect on where you want to be in the future to guide your present actions."
+          ],
+          "concepts": [
+            "Long-term thinking",
+            "Goal setting",
+            "Decision making",
+            "Personal development"
+          ],
+          "actionableItems": [
+            "Write down your long-term goals and review them regularly.",
+            "Evaluate daily decisions to see if they align with your long-term aspirations.",
+            "Set aside time each week to reflect on your progress towards your goals."
+          ],
+          "connectedIdeas": [
+            "The importance of vision in personal development",
+            "Goal-setting frameworks in productivity literature",
+            "Mindfulness and intentional living"
+          ],
+          "emotionalResonance": "This chapter matters because it encourages readers to take control of their lives by aligning their daily actions with their deepest aspirations.",
+          "rawNotes": "Explore the idea of long-term thinking; what are your long-term goals and how do they influence your daily choices?"
+        },
+        {
+          "id": "the-almanack-of-naval-ravikant-ch7",
+          "bookId": "the-almanack-of-naval-ravikant",
+          "chapter": 7,
+          "title": "Play Long-Term Games",
+          "dateNoted": "",
+          "keyThemes": [],
+          "rating": null,
+          "isEnriched": true,
+          "summary": "Chapter 7 emphasizes the importance of evaluating your relationships and their impact on your overall happiness and success. It suggests that nurturing long-term, meaningful connections can lead to greater fulfillment and achievement in life.",
+          "keyInsights": [
+            "Assessing relationships is crucial for personal happiness.",
+            "Long-term relationships contribute significantly to success.",
+            "Quality of connections often outweighs quantity.",
+            "Investing in relationships can yield compounding benefits over time.",
+            "Healthy relationships provide support and motivation."
+          ],
+          "quotableIdeas": [
+            "Your relationships are a reflection of your values.",
+            "Success is often a team sport; choose your teammates wisely.",
+            "The best investments are in people."
+          ],
+          "concepts": [
+            "Relationship building",
+            "Long-term thinking",
+            "Personal development",
+            "Happiness",
+            "Success"
+          ],
+          "actionableItems": [
+            "Reflect on your current relationships and their impact on your life.",
+            "Identify key relationships to nurture and invest in.",
+            "Set aside regular time to connect with important people in your life."
+          ],
+          "connectedIdeas": [
+            "The importance of community in 'The Power of Habit' by Charles Duhigg",
+            "Building networks in 'Never Eat Alone' by Keith Ferrazzi",
+            "The role of relationships in happiness in 'The Happiness Project' by Gretchen Rubin"
+          ],
+          "emotionalResonance": "This chapter matters because it highlights that the quality of our relationships can profoundly shape our life experiences and outcomes.",
+          "rawNotes": "Assess your relationships; how do they contribute to your happiness and success?"
+        },
+        {
+          "id": "the-almanack-of-naval-ravikant-ch8",
+          "bookId": "the-almanack-of-naval-ravikant",
+          "chapter": 8,
+          "title": "Health",
+          "dateNoted": "",
+          "keyThemes": [],
+          "rating": null,
+          "isEnriched": true,
+          "summary": "Health is a foundational aspect of well-being that requires intentional practices and reflection. Prioritizing health leads to improved quality of life and productivity.",
+          "keyInsights": [
+            "Health is essential for overall well-being and success.",
+            "Intentional practices are necessary to maintain physical and mental health.",
+            "Reflecting on health can help identify personal priorities and areas for improvement."
+          ],
+          "quotableIdeas": [
+            "Your health is your greatest asset.",
+            "Prioritize practices that enhance your well-being."
+          ],
+          "concepts": [
+            "Wellness",
+            "Self-care",
+            "Mindfulness"
+          ],
+          "actionableItems": [
+            "Create a daily routine that includes physical activity.",
+            "Incorporate mindfulness practices such as meditation or journaling.",
+            "Regularly assess and adjust your health practices based on personal needs."
+          ],
+          "connectedIdeas": [
+            "Personal development",
+            "Productivity",
+            "Mental health"
+          ],
+          "emotionalResonance": "This chapter emphasizes that taking care of our health is not just a necessity but a pathway to a fulfilling life.",
+          "rawNotes": "Reflect on the importance of health; what practices do you prioritize to maintain your well-being?"
+        },
+        {
+          "id": "the-almanack-of-naval-ravikant-ch9",
+          "bookId": "the-almanack-of-naval-ravikant",
+          "chapter": 9,
+          "title": "Relationships",
+          "dateNoted": "",
+          "keyThemes": [],
+          "rating": null,
+          "isEnriched": true,
+          "summary": "Chapter 9 emphasizes the importance of balancing work and play in life. It encourages readers to reflect on how they can enjoy both aspects to lead a fulfilling existence.",
+          "keyInsights": [
+            "Finding a balance between work and leisure is essential for overall happiness.",
+            "Engaging in both work and play can enhance personal satisfaction and productivity.",
+            "Self-reflection on how to integrate enjoyment into daily routines is crucial."
+          ],
+          "quotableIdeas": [
+            "Balance is the key to a fulfilling life.",
+            "Work and play are not mutually exclusive; they can enhance each other."
+          ],
+          "concepts": [
+            "Work-life balance",
+            "Personal fulfillment",
+            "Self-reflection"
+          ],
+          "actionableItems": [
+            "Set aside time each week for leisure activities.",
+            "Reflect on daily routines to identify opportunities for enjoyment.",
+            "Create a list of activities that bring joy and schedule them into your calendar."
+          ],
+          "connectedIdeas": [
+            "Mindfulness in daily life",
+            "The importance of hobbies and interests",
+            "Work-life integration strategies"
+          ],
+          "emotionalResonance": "This chapter matters because it highlights the necessity of enjoying life, not just surviving it.",
+          "rawNotes": "Consider the balance between work and play; how do you ensure you enjoy both aspects of life?"
+        }
+      ]
+    },
+    {
+      "id": "the-intelligent-investor",
+      "title": "The Intelligent Investor",
+      "author": "Benjamin Graham",
+      "cover": "https://covers.openlibrary.org/b/id/36434-M.jpg",
+      "color": "#8B949E",
+      "rating": null,
+      "status": "reading",
+      "tags": [],
+      "dateFinished": "",
+      "totalChapters": 20,
+      "chapters": [
+        {
+          "id": "the-intelligent-investor-ch1",
+          "bookId": "the-intelligent-investor",
+          "chapter": 1,
+          "title": "Investment versus Speculation: Results to Be Expected by the Intelligent Investor",
+          "dateNoted": "",
+          "keyThemes": [],
+          "rating": null,
+          "isEnriched": true,
+          "summary": "Chapter 1 distinguishes between investing and speculation, emphasizing the importance of understanding one's financial goals. It encourages readers to adopt a disciplined approach to investing, focusing on long-term results rather than short-term gains.",
+          "keyInsights": [
+            "Investing is a long-term strategy focused on wealth accumulation, while speculation is short-term and often driven by market trends.",
+            "Intelligent investors prioritize risk management and thorough analysis over mere market timing.",
+            "Understanding personal financial goals is crucial in determining the appropriate investment approach."
+          ],
+          "quotableIdeas": [
+            "Investment is the process of laying out money now to receive more money in the future.",
+            "Speculation is the act of buying and selling based on market fluctuations rather than intrinsic value."
+          ],
+          "concepts": [
+            "Investment strategy",
+            "Risk management",
+            "Financial goals"
+          ],
+          "actionableItems": [
+            "Reflect on your own financial goals and how they align with your investment strategy.",
+            "Develop a disciplined investment plan that prioritizes long-term growth."
+          ],
+          "connectedIdeas": [
+            "Behavioral finance",
+            "Market psychology",
+            "Long-term investing strategies"
+          ],
+          "emotionalResonance": "This chapter matters because it lays the foundation for a thoughtful and strategic approach to building wealth.",
+          "rawNotes": "Reflect on the concept of investing versus speculation and how it applies to your financial goals."
+        },
+        {
+          "id": "the-intelligent-investor-ch10",
+          "bookId": "the-intelligent-investor",
+          "chapter": 10,
+          "title": "The Investor and His Advisers",
+          "dateNoted": "",
+          "keyThemes": [],
+          "rating": null,
+          "isEnriched": true,
+          "summary": "Chapter 10 emphasizes the importance of understanding historical stock market performance to inform future investment strategies. It encourages investors to learn from past trends and behaviors to make more informed decisions.",
+          "keyInsights": [
+            "Historical performance can provide valuable lessons for future investing.",
+            "Investors should analyze past market trends to identify patterns.",
+            "Understanding market cycles can help in timing investments.",
+            "Advisers play a crucial role in guiding investors based on historical data.",
+            "Relying solely on past performance can be misleading; context matters."
+          ],
+          "quotableIdeas": [
+            "History is a guide, not a guarantee.",
+            "Investing is as much about psychology as it is about numbers.",
+            "The market's past can illuminate the investor's path forward."
+          ],
+          "concepts": [
+            "Historical Analysis",
+            "Market Psychology",
+            "Investment Strategy",
+            "Advisory Relationships"
+          ],
+          "actionableItems": [
+            "Review historical stock market data to identify trends.",
+            "Consult with financial advisers who understand historical contexts.",
+            "Develop a strategy that incorporates lessons from past market cycles."
+          ],
+          "connectedIdeas": [
+            "Behavioral Finance",
+            "Market Efficiency",
+            "Risk Management"
+          ],
+          "emotionalResonance": "This chapter matters because it empowers investors to make informed decisions by learning from the past, ultimately fostering a more resilient investment approach.",
+          "rawNotes": "Reflect on the historical performance of the stock market and what lessons can be learned for future investing."
+        },
+        {
+          "id": "the-intelligent-investor-ch11",
+          "bookId": "the-intelligent-investor",
+          "chapter": 11,
+          "title": "Security Analysis for the Lay Investor: General Approach",
+          "dateNoted": "",
+          "keyThemes": [],
+          "rating": null,
           "isEnriched": false,
           "summary": null,
           "keyInsights": [],
           "quotableIdeas": [],
-          "concepts": [
-            "compounding",
-            "systems",
-            "identity"
-          ],
+          "concepts": [],
           "actionableItems": [],
           "connectedIdeas": [],
           "emotionalResonance": null,
-          "rawNotes": "# Raw notes from Chapter 1\n\nThe key idea: **1% better every day** compounds to 37x improvement over a year.\n\n- Habits are the compound interest of self-improvement\n- Identity-based habits > outcome-based habits\n- Focus on who you wish to become, not what you want to achieve\n- Small wins build momentum\n\nSystems beat goals. A goal is a direction; a system is the vehicle."
+          "rawNotes": ""
+        },
+        {
+          "id": "the-intelligent-investor-ch12",
+          "bookId": "the-intelligent-investor",
+          "chapter": 12,
+          "title": "Things to Consider About Per-Share Earnings",
+          "dateNoted": "",
+          "keyThemes": [],
+          "rating": null,
+          "isEnriched": false,
+          "summary": null,
+          "keyInsights": [],
+          "quotableIdeas": [],
+          "concepts": [],
+          "actionableItems": [],
+          "connectedIdeas": [],
+          "emotionalResonance": null,
+          "rawNotes": ""
+        },
+        {
+          "id": "the-intelligent-investor-ch13",
+          "bookId": "the-intelligent-investor",
+          "chapter": 13,
+          "title": "A Comparison of Four Listed Companies",
+          "dateNoted": "",
+          "keyThemes": [],
+          "rating": null,
+          "isEnriched": false,
+          "summary": null,
+          "keyInsights": [],
+          "quotableIdeas": [],
+          "concepts": [],
+          "actionableItems": [],
+          "connectedIdeas": [],
+          "emotionalResonance": null,
+          "rawNotes": ""
+        },
+        {
+          "id": "the-intelligent-investor-ch14",
+          "bookId": "the-intelligent-investor",
+          "chapter": 14,
+          "title": "Stock Selection for the Defensive Investor",
+          "dateNoted": "",
+          "keyThemes": [],
+          "rating": null,
+          "isEnriched": false,
+          "summary": null,
+          "keyInsights": [],
+          "quotableIdeas": [],
+          "concepts": [],
+          "actionableItems": [],
+          "connectedIdeas": [],
+          "emotionalResonance": null,
+          "rawNotes": ""
+        },
+        {
+          "id": "the-intelligent-investor-ch15",
+          "bookId": "the-intelligent-investor",
+          "chapter": 15,
+          "title": "Stock Selection for the Enterprising Investor",
+          "dateNoted": "",
+          "keyThemes": [],
+          "rating": null,
+          "isEnriched": false,
+          "summary": null,
+          "keyInsights": [],
+          "quotableIdeas": [],
+          "concepts": [],
+          "actionableItems": [],
+          "connectedIdeas": [],
+          "emotionalResonance": null,
+          "rawNotes": ""
+        },
+        {
+          "id": "the-intelligent-investor-ch16",
+          "bookId": "the-intelligent-investor",
+          "chapter": 16,
+          "title": "Convertible Issues and Warrants",
+          "dateNoted": "",
+          "keyThemes": [],
+          "rating": null,
+          "isEnriched": false,
+          "summary": null,
+          "keyInsights": [],
+          "quotableIdeas": [],
+          "concepts": [],
+          "actionableItems": [],
+          "connectedIdeas": [],
+          "emotionalResonance": null,
+          "rawNotes": ""
+        },
+        {
+          "id": "the-intelligent-investor-ch17",
+          "bookId": "the-intelligent-investor",
+          "chapter": 17,
+          "title": "Four Extremely Instructive Case Histories",
+          "dateNoted": "",
+          "keyThemes": [],
+          "rating": null,
+          "isEnriched": false,
+          "summary": null,
+          "keyInsights": [],
+          "quotableIdeas": [],
+          "concepts": [],
+          "actionableItems": [],
+          "connectedIdeas": [],
+          "emotionalResonance": null,
+          "rawNotes": ""
+        },
+        {
+          "id": "the-intelligent-investor-ch18",
+          "bookId": "the-intelligent-investor",
+          "chapter": 18,
+          "title": "A Comparison of the Investment Results of Two Investors",
+          "dateNoted": "",
+          "keyThemes": [],
+          "rating": null,
+          "isEnriched": false,
+          "summary": null,
+          "keyInsights": [],
+          "quotableIdeas": [],
+          "concepts": [],
+          "actionableItems": [],
+          "connectedIdeas": [],
+          "emotionalResonance": null,
+          "rawNotes": ""
+        },
+        {
+          "id": "the-intelligent-investor-ch19",
+          "bookId": "the-intelligent-investor",
+          "chapter": 19,
+          "title": "Shareholder Activism: The Role of the Investor",
+          "dateNoted": "",
+          "keyThemes": [],
+          "rating": null,
+          "isEnriched": false,
+          "summary": null,
+          "keyInsights": [],
+          "quotableIdeas": [],
+          "concepts": [],
+          "actionableItems": [],
+          "connectedIdeas": [],
+          "emotionalResonance": null,
+          "rawNotes": ""
+        },
+        {
+          "id": "the-intelligent-investor-ch2",
+          "bookId": "the-intelligent-investor",
+          "chapter": 2,
+          "title": "The Investor and Inflation",
+          "dateNoted": "",
+          "keyThemes": [],
+          "rating": null,
+          "isEnriched": true,
+          "summary": "Chapter 2 emphasizes the significance of adopting a long-term investment strategy to effectively manage risks associated with market volatility. By focusing on long-term goals, investors can better navigate the challenges posed by inflation and market fluctuations.",
+          "keyInsights": [
+            "Long-term investment strategies can reduce exposure to market volatility.",
+            "Inflation can erode purchasing power, making it crucial for investors to consider it in their strategies.",
+            "A disciplined approach to investing helps in maintaining focus during turbulent market conditions."
+          ],
+          "quotableIdeas": [
+            "Investing is not about timing the market, but about time in the market.",
+            "A sound investment strategy is a buffer against the unpredictability of inflation."
+          ],
+          "concepts": [
+            "Long-term investing",
+            "Market volatility",
+            "Inflation risk",
+            "Investment strategy"
+          ],
+          "actionableItems": [
+            "Develop a long-term investment plan that accounts for inflation.",
+            "Regularly review and adjust your investment portfolio to align with long-term goals."
+          ],
+          "connectedIdeas": [
+            "Behavioral finance",
+            "Risk management",
+            "Investment psychology"
+          ],
+          "emotionalResonance": "This chapter underscores the importance of patience and foresight in investing, reminding us that enduring financial health requires strategic planning amidst uncertainty.",
+          "rawNotes": "Consider the importance of a long-term investment strategy and how it can mitigate risks in volatile markets."
+        },
+        {
+          "id": "the-intelligent-investor-ch20",
+          "bookId": "the-intelligent-investor",
+          "chapter": 20,
+          "title": "Conclusion: The Intelligent Investor's Philosophy",
+          "dateNoted": "",
+          "keyThemes": [],
+          "rating": null,
+          "isEnriched": false,
+          "summary": null,
+          "keyInsights": [],
+          "quotableIdeas": [],
+          "concepts": [],
+          "actionableItems": [],
+          "connectedIdeas": [],
+          "emotionalResonance": null,
+          "rawNotes": ""
+        },
+        {
+          "id": "the-intelligent-investor-ch3",
+          "bookId": "the-intelligent-investor",
+          "chapter": 3,
+          "title": "A Century of Stock-Market History: The Level of Stock Prices in the Long Run",
+          "dateNoted": "",
+          "keyThemes": [],
+          "rating": null,
+          "isEnriched": true,
+          "summary": "Chapter 3 emphasizes the importance of understanding different types of investors and how their risk tolerance and investment styles influence their approach to the stock market. It encourages readers to assess their own investment profile to make informed decisions.",
+          "keyInsights": [
+            "Investors can be categorized based on their risk tolerance and investment strategies.",
+            "Understanding your investor type helps in making better investment choices.",
+            "Long-term stock market trends can inform individual investment strategies."
+          ],
+          "quotableIdeas": [
+            "Identify which category you fall into based on your risk tolerance.",
+            "Your investment style should align with your personal financial goals."
+          ],
+          "concepts": [
+            "Investor Types",
+            "Risk Tolerance",
+            "Investment Strategies"
+          ],
+          "actionableItems": [
+            "Assess your own risk tolerance.",
+            "Determine your investment style and align it with your financial goals."
+          ],
+          "connectedIdeas": [
+            "Behavioral Finance",
+            "Risk Management",
+            "Investment Philosophy"
+          ],
+          "emotionalResonance": "This chapter matters because it empowers investors to make choices that align with their personal values and financial situations.",
+          "rawNotes": "Take note of the different types of investors and identify which category you fall into based on your risk tolerance and investment style."
+        },
+        {
+          "id": "the-intelligent-investor-ch4",
+          "bookId": "the-intelligent-investor",
+          "chapter": 4,
+          "title": "General Portfolio Policy: The Defensive Investor",
+          "dateNoted": "",
+          "keyThemes": [],
+          "rating": null,
+          "isEnriched": true,
+          "summary": "Chapter 4 emphasizes the importance of value investing principles and provides guidance on assessing a stock's intrinsic value. It highlights the defensive investor's approach to building a portfolio that prioritizes safety and long-term growth.",
+          "keyInsights": [
+            "Value investing focuses on purchasing stocks at a price lower than their intrinsic value.",
+            "Assessing intrinsic value involves analyzing financial statements and market conditions.",
+            "Defensive investors should prioritize stable, dividend-paying stocks to mitigate risk.",
+            "Diversification is crucial for reducing portfolio volatility and protecting against market downturns.",
+            "Long-term investment strategies are favored over short-term speculation."
+          ],
+          "quotableIdeas": [
+            "Investing isn't about timing the market, but rather time in the market.",
+            "The essence of investment is the ability to assess value accurately."
+          ],
+          "concepts": [
+            "Value Investing",
+            "Intrinsic Value",
+            "Defensive Investing",
+            "Portfolio Diversification",
+            "Long-term Strategy"
+          ],
+          "actionableItems": [
+            "Conduct a thorough analysis of a company's financial statements before investing.",
+            "Create a diversified portfolio that includes a mix of stocks and bonds.",
+            "Focus on companies with a history of stable dividends."
+          ],
+          "connectedIdeas": [
+            "Behavioral Finance",
+            "Risk Management",
+            "Market Psychology",
+            "Long-term Financial Planning"
+          ],
+          "emotionalResonance": "This chapter matters because it equips investors with the tools to make informed decisions that can lead to financial security and peace of mind.",
+          "rawNotes": "Examine the principles of value investing and how to assess the intrinsic value of a stock."
+        },
+        {
+          "id": "the-intelligent-investor-ch5",
+          "bookId": "the-intelligent-investor",
+          "chapter": 5,
+          "title": "The Defensive Investor and Common Stocks",
+          "dateNoted": "",
+          "keyThemes": [],
+          "rating": null,
+          "isEnriched": true,
+          "summary": "Chapter 5 emphasizes the importance of understanding market fluctuations and their potential effects on investment decisions. It highlights the need for defensive investors to remain rational and disciplined amidst market volatility.",
+          "keyInsights": [
+            "Market fluctuations can create both opportunities and risks for investors.",
+            "Defensive investors should focus on long-term strategies rather than reacting to short-term market movements.",
+            "Understanding the psychological impact of market changes is crucial for making informed investment decisions.",
+            "A well-diversified portfolio can help mitigate the risks associated with market volatility.",
+            "Investors should maintain a clear investment strategy to avoid emotional decision-making during market fluctuations."
+          ],
+          "quotableIdeas": [
+            "Market fluctuations are not just noise; they can signal opportunities.",
+            "The key to successful investing is not to predict the market, but to prepare for it."
+          ],
+          "concepts": [
+            "Market Volatility",
+            "Defensive Investing",
+            "Investment Psychology",
+            "Portfolio Diversification"
+          ],
+          "actionableItems": [
+            "Review and adjust your investment strategy to ensure it aligns with long-term goals.",
+            "Create a diversified portfolio to reduce exposure to market fluctuations.",
+            "Practice emotional discipline by setting rules for buying and selling investments."
+          ],
+          "connectedIdeas": [
+            "Behavioral Finance",
+            "Risk Management",
+            "Long-term Investing Strategies"
+          ],
+          "emotionalResonance": "This chapter matters because it empowers investors to navigate uncertainty with confidence and clarity.",
+          "rawNotes": "Analyze the significance of market fluctuations and how they can impact your investment decisions."
+        },
+        {
+          "id": "the-intelligent-investor-ch6",
+          "bookId": "the-intelligent-investor",
+          "chapter": 6,
+          "title": "Portfolio Policy for the Enterprising Investor: Negative Approach",
+          "dateNoted": "",
+          "keyThemes": [],
+          "rating": null,
+          "isEnriched": true,
+          "summary": "Chapter 6 emphasizes the importance of diversification in an investment portfolio, particularly for enterprising investors. It discusses how a well-diversified portfolio can serve as a protective measure against market downturns, reducing risk and enhancing potential returns.",
+          "keyInsights": [
+            "Diversification helps mitigate risks associated with market volatility.",
+            "A negative approach to portfolio policy focuses on avoiding significant losses rather than chasing high returns.",
+            "Investors should consider a mix of asset classes to balance their portfolios.",
+            "Regularly reviewing and adjusting the portfolio is crucial for maintaining diversification.",
+            "Understanding the correlation between different investments can enhance portfolio resilience."
+          ],
+          "quotableIdeas": [
+            "Diversification is the only free lunch in investing.",
+            "Protecting against loss is as important as seeking gains."
+          ],
+          "concepts": [
+            "Diversification",
+            "Risk Management",
+            "Investment Strategy",
+            "Portfolio Management"
+          ],
+          "actionableItems": [
+            "Assess the current level of diversification in your portfolio.",
+            "Identify asset classes that are underrepresented in your investments.",
+            "Set a schedule for regular portfolio reviews to ensure continued diversification."
+          ],
+          "connectedIdeas": [
+            "Modern Portfolio Theory",
+            "Risk-Return Tradeoff",
+            "Behavioral Finance"
+          ],
+          "emotionalResonance": "This chapter matters because it empowers investors to take control of their financial future by understanding the protective benefits of diversification.",
+          "rawNotes": "Explore the role of diversification in your portfolio and how it can protect against market downturns."
+        },
+        {
+          "id": "the-intelligent-investor-ch7",
+          "bookId": "the-intelligent-investor",
+          "chapter": 7,
+          "title": "Portfolio Policy for the Enterprising Investor: Positive Approach",
+          "dateNoted": "",
+          "keyThemes": [],
+          "rating": null,
+          "isEnriched": true,
+          "summary": "Chapter 7 emphasizes the importance of understanding the psychological aspects of investing, particularly how emotions can significantly impact decision-making. It encourages investors to adopt a positive approach by being aware of their emotional responses and biases.",
+          "keyInsights": [
+            "Emotions play a crucial role in investment decisions.",
+            "Understanding psychological biases can lead to better investment outcomes.",
+            "A positive mindset can enhance an investor's ability to make rational choices."
+          ],
+          "quotableIdeas": [
+            "Investing is as much about psychology as it is about numbers.",
+            "Awareness of emotions can be a powerful tool in decision-making."
+          ],
+          "concepts": [
+            "Behavioral Finance",
+            "Investor Psychology",
+            "Emotional Intelligence in Investing"
+          ],
+          "actionableItems": [
+            "Reflect on personal emotional triggers when making investment decisions.",
+            "Develop strategies to mitigate emotional biases, such as setting predefined rules for buying and selling."
+          ],
+          "connectedIdeas": [
+            "Cognitive Biases in Decision Making",
+            "The Role of Emotions in Financial Markets"
+          ],
+          "emotionalResonance": "This chapter matters because it highlights the often-overlooked emotional dimensions of investing, which can lead to more informed and rational investment strategies.",
+          "rawNotes": "Think about the psychological aspects of investing and how emotions can influence your decision-making process."
+        },
+        {
+          "id": "the-intelligent-investor-ch8",
+          "bookId": "the-intelligent-investor",
+          "chapter": 8,
+          "title": "The Investor and Market Fluctuations",
+          "dateNoted": "",
+          "keyThemes": [],
+          "rating": null,
+          "isEnriched": true,
+          "summary": "Chapter 8 emphasizes the significance of maintaining a margin of safety in investments, which acts as a buffer against unexpected market downturns. This principle helps investors make more informed decisions and protects their capital in volatile conditions.",
+          "keyInsights": [
+            "A margin of safety provides a cushion against errors in judgment or unforeseen market events.",
+            "Investors should always assess the intrinsic value of an investment relative to its market price.",
+            "Market fluctuations can create opportunities for investors who are prepared and disciplined."
+          ],
+          "quotableIdeas": [
+            "Investing without a margin of safety is akin to gambling.",
+            "The intelligent investor is one who understands the market's irrationality."
+          ],
+          "concepts": [
+            "Margin of Safety",
+            "Value Investing",
+            "Market Psychology"
+          ],
+          "actionableItems": [
+            "Calculate the intrinsic value of potential investments to determine an appropriate margin of safety.",
+            "Develop a disciplined investment strategy that accounts for market fluctuations."
+          ],
+          "connectedIdeas": [
+            "Behavioral Finance",
+            "Risk Management",
+            "Long-term Investment Strategies"
+          ],
+          "emotionalResonance": "This chapter matters because it empowers investors to navigate uncertainty with confidence and resilience.",
+          "rawNotes": "Review the importance of a margin of safety in investments and how it can safeguard against unforeseen losses."
+        },
+        {
+          "id": "the-intelligent-investor-ch9",
+          "bookId": "the-intelligent-investor",
+          "chapter": 9,
+          "title": "Investing in Investment Funds",
+          "dateNoted": "",
+          "keyThemes": [],
+          "rating": null,
+          "isEnriched": true,
+          "summary": "Chapter 9 emphasizes the importance of understanding economic factors that influence stock prices and highlights the necessity of staying informed about market trends to make informed investment decisions. It encourages investors to consider the broader economic environment when evaluating investment funds.",
+          "keyInsights": [
+            "Economic factors significantly impact stock prices.",
+            "Staying informed about market trends is crucial for successful investing.",
+            "Investors should analyze both macroeconomic and microeconomic indicators.",
+            "Investment funds can provide diversification and professional management.",
+            "Understanding market cycles can aid in timing investment decisions."
+          ],
+          "quotableIdeas": [
+            "Investing is not just about picking stocks; it's about understanding the economic landscape.",
+            "Knowledge of market trends is a vital tool for any investor."
+          ],
+          "concepts": [
+            "Market Analysis",
+            "Economic Indicators",
+            "Investment Strategy",
+            "Diversification",
+            "Fund Management"
+          ],
+          "actionableItems": [
+            "Regularly review economic news and reports to stay updated on market trends.",
+            "Analyze the performance of different investment funds in relation to economic conditions.",
+            "Consider subscribing to financial analysis services for deeper insights."
+          ],
+          "connectedIdeas": [
+            "Behavioral Finance",
+            "Market Psychology",
+            "Asset Allocation Strategies",
+            "Risk Management"
+          ],
+          "emotionalResonance": "This chapter matters because it empowers investors to navigate the complexities of the market with a deeper understanding of the forces at play.",
+          "rawNotes": "Investigate the impact of economic factors on stock prices and how to stay informed about market trends."
         }
       ]
     }
   ],
   "conceptGraph": {
-    "nodes": [],
-    "edges": []
+    "nodes": [
+      {
+        "id": "Happiness",
+        "label": "Happiness",
+        "chapters": [
+          "the-almanack-of-naval-ravikant-ch1",
+          "the-almanack-of-naval-ravikant-ch7"
+        ],
+        "weight": 2
+      },
+      {
+        "id": "Self-Reflection",
+        "label": "Self Reflection",
+        "chapters": [
+          "the-almanack-of-naval-ravikant-ch1",
+          "the-almanack-of-naval-ravikant-ch10",
+          "the-almanack-of-naval-ravikant-ch4"
+        ],
+        "weight": 3
+      },
+      {
+        "id": "Specific Knowledge",
+        "label": "Specific Knowledge",
+        "chapters": [
+          "the-almanack-of-naval-ravikant-ch2",
+          "the-almanack-of-naval-ravikant-ch5"
+        ],
+        "weight": 2
+      },
+      {
+        "id": "Personal Development",
+        "label": "Personal Development",
+        "chapters": [
+          "the-almanack-of-naval-ravikant-ch2",
+          "the-almanack-of-naval-ravikant-ch5"
+        ],
+        "weight": 2
+      },
+      {
+        "id": "Decision Making",
+        "label": "Decision Making",
+        "chapters": [
+          "the-almanack-of-naval-ravikant-ch3",
+          "the-almanack-of-naval-ravikant-ch4"
+        ],
+        "weight": 2
+      },
+      {
+        "id": "Long-term thinking",
+        "label": "Long Term Thinking",
+        "chapters": [
+          "the-almanack-of-naval-ravikant-ch6",
+          "the-almanack-of-naval-ravikant-ch7"
+        ],
+        "weight": 2
+      },
+      {
+        "id": "Personal development",
+        "label": "Personal Development",
+        "chapters": [
+          "the-almanack-of-naval-ravikant-ch6",
+          "the-almanack-of-naval-ravikant-ch7"
+        ],
+        "weight": 2
+      },
+      {
+        "id": "Investment strategy",
+        "label": "Investment Strategy",
+        "chapters": [
+          "the-intelligent-investor-ch1",
+          "the-intelligent-investor-ch2"
+        ],
+        "weight": 2
+      },
+      {
+        "id": "Market Psychology",
+        "label": "Market Psychology",
+        "chapters": [
+          "the-intelligent-investor-ch10",
+          "the-intelligent-investor-ch8"
+        ],
+        "weight": 2
+      },
+      {
+        "id": "Investment Strategy",
+        "label": "Investment Strategy",
+        "chapters": [
+          "the-intelligent-investor-ch10",
+          "the-intelligent-investor-ch6",
+          "the-intelligent-investor-ch9"
+        ],
+        "weight": 3
+      },
+      {
+        "id": "Value Investing",
+        "label": "Value Investing",
+        "chapters": [
+          "the-intelligent-investor-ch4",
+          "the-intelligent-investor-ch8"
+        ],
+        "weight": 2
+      },
+      {
+        "id": "Defensive Investing",
+        "label": "Defensive Investing",
+        "chapters": [
+          "the-intelligent-investor-ch4",
+          "the-intelligent-investor-ch5"
+        ],
+        "weight": 2
+      },
+      {
+        "id": "Portfolio Diversification",
+        "label": "Portfolio Diversification",
+        "chapters": [
+          "the-intelligent-investor-ch4",
+          "the-intelligent-investor-ch5"
+        ],
+        "weight": 2
+      },
+      {
+        "id": "Diversification",
+        "label": "Diversification",
+        "chapters": [
+          "the-intelligent-investor-ch6",
+          "the-intelligent-investor-ch9"
+        ],
+        "weight": 2
+      }
+    ],
+    "edges": [
+      {
+        "source": "the-almanack-of-naval-ravikant-ch1",
+        "target": "the-almanack-of-naval-ravikant-ch7",
+        "concept": "Happiness"
+      },
+      {
+        "source": "the-almanack-of-naval-ravikant-ch1",
+        "target": "the-almanack-of-naval-ravikant-ch10",
+        "concept": "Self-Reflection"
+      },
+      {
+        "source": "the-almanack-of-naval-ravikant-ch1",
+        "target": "the-almanack-of-naval-ravikant-ch4",
+        "concept": "Self-Reflection"
+      },
+      {
+        "source": "the-almanack-of-naval-ravikant-ch10",
+        "target": "the-almanack-of-naval-ravikant-ch4",
+        "concept": "Self-Reflection"
+      },
+      {
+        "source": "the-almanack-of-naval-ravikant-ch2",
+        "target": "the-almanack-of-naval-ravikant-ch5",
+        "concept": "Specific Knowledge"
+      },
+      {
+        "source": "the-almanack-of-naval-ravikant-ch2",
+        "target": "the-almanack-of-naval-ravikant-ch5",
+        "concept": "Personal Development"
+      },
+      {
+        "source": "the-almanack-of-naval-ravikant-ch3",
+        "target": "the-almanack-of-naval-ravikant-ch4",
+        "concept": "Decision Making"
+      },
+      {
+        "source": "the-almanack-of-naval-ravikant-ch6",
+        "target": "the-almanack-of-naval-ravikant-ch7",
+        "concept": "Long-term thinking"
+      },
+      {
+        "source": "the-almanack-of-naval-ravikant-ch6",
+        "target": "the-almanack-of-naval-ravikant-ch7",
+        "concept": "Personal development"
+      },
+      {
+        "source": "the-intelligent-investor-ch1",
+        "target": "the-intelligent-investor-ch2",
+        "concept": "Investment strategy"
+      },
+      {
+        "source": "the-intelligent-investor-ch10",
+        "target": "the-intelligent-investor-ch8",
+        "concept": "Market Psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch10",
+        "target": "the-intelligent-investor-ch6",
+        "concept": "Investment Strategy"
+      },
+      {
+        "source": "the-intelligent-investor-ch10",
+        "target": "the-intelligent-investor-ch9",
+        "concept": "Investment Strategy"
+      },
+      {
+        "source": "the-intelligent-investor-ch6",
+        "target": "the-intelligent-investor-ch9",
+        "concept": "Investment Strategy"
+      },
+      {
+        "source": "the-intelligent-investor-ch4",
+        "target": "the-intelligent-investor-ch8",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch4",
+        "target": "the-intelligent-investor-ch5",
+        "concept": "Defensive Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch4",
+        "target": "the-intelligent-investor-ch5",
+        "concept": "Portfolio Diversification"
+      },
+      {
+        "source": "the-intelligent-investor-ch6",
+        "target": "the-intelligent-investor-ch9",
+        "concept": "Diversification"
+      }
+    ]
   }
 }
