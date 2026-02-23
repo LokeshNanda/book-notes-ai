@@ -1,10 +1,10 @@
 {
-  "generated": "2026-02-23T08:32:03.057751+00:00",
+  "generated": "2026-02-23T09:42:22.220907+00:00",
   "stats": {
     "totalBooks": 4,
     "totalChapters": 41,
-    "totalConcepts": 62,
-    "enrichedChapters": 21
+    "totalConcepts": 91,
+    "enrichedChapters": 41
   },
   "books": [
     {
@@ -117,42 +117,6 @@
           ],
           "emotionalResonance": "This chapter matters because it sets the foundation for a deeper exploration of how to achieve a balanced and meaningful life.",
           "rawNotes": "Reflect on the importance of wealth and happiness in your life; what do they mean to you?"
-        },
-        {
-          "id": "the-almanack-of-naval-ravikant-ch10",
-          "bookId": "the-almanack-of-naval-ravikant",
-          "chapter": 10,
-          "title": "Conclusion",
-          "dateNoted": "",
-          "keyThemes": [],
-          "rating": null,
-          "isEnriched": true,
-          "summary": "Chapter 10 encourages readers to reflect on the meaning of freedom in their lives and explore practical ways to achieve it. It emphasizes the personal nature of freedom and the importance of defining it for oneself.",
-          "keyInsights": [
-            "Freedom is a personal and subjective concept that varies from person to person.",
-            "Achieving freedom requires self-reflection and understanding one's own values and desires.",
-            "Practical steps can be taken to move towards a more liberated life."
-          ],
-          "quotableIdeas": [
-            "What does freedom mean to you?",
-            "Define your own path to achieve freedom."
-          ],
-          "concepts": [
-            "Personal Freedom",
-            "Self-Reflection",
-            "Life Design"
-          ],
-          "actionableItems": [
-            "Take time to write down what freedom means to you.",
-            "Identify specific actions you can take to move closer to your definition of freedom."
-          ],
-          "connectedIdeas": [
-            "Philosophy of Freedom",
-            "Personal Development",
-            "Mindfulness"
-          ],
-          "emotionalResonance": "This chapter matters because it empowers readers to take control of their lives by defining and pursuing their own version of freedom.",
-          "rawNotes": "Think about the concept of freedom; what does it mean to you and how can you achieve it?"
         },
         {
           "id": "the-almanack-of-naval-ravikant-ch2",
@@ -457,6 +421,42 @@
           ],
           "emotionalResonance": "This chapter matters because it highlights the necessity of enjoying life, not just surviving it.",
           "rawNotes": "Consider the balance between work and play; how do you ensure you enjoy both aspects of life?"
+        },
+        {
+          "id": "the-almanack-of-naval-ravikant-ch10",
+          "bookId": "the-almanack-of-naval-ravikant",
+          "chapter": 10,
+          "title": "Conclusion",
+          "dateNoted": "",
+          "keyThemes": [],
+          "rating": null,
+          "isEnriched": true,
+          "summary": "Chapter 10 encourages readers to reflect on the meaning of freedom in their lives and explore practical ways to achieve it. It emphasizes the personal nature of freedom and the importance of defining it for oneself.",
+          "keyInsights": [
+            "Freedom is a personal and subjective concept that varies from person to person.",
+            "Achieving freedom requires self-reflection and understanding one's own values and desires.",
+            "Practical steps can be taken to move towards a more liberated life."
+          ],
+          "quotableIdeas": [
+            "What does freedom mean to you?",
+            "Define your own path to achieve freedom."
+          ],
+          "concepts": [
+            "Personal Freedom",
+            "Self-Reflection",
+            "Life Design"
+          ],
+          "actionableItems": [
+            "Take time to write down what freedom means to you.",
+            "Identify specific actions you can take to move closer to your definition of freedom."
+          ],
+          "connectedIdeas": [
+            "Philosophy of Freedom",
+            "Personal Development",
+            "Mindfulness"
+          ],
+          "emotionalResonance": "This chapter matters because it empowers readers to take control of their lives by defining and pursuing their own version of freedom.",
+          "rawNotes": "Think about the concept of freedom; what does it mean to you and how can you achieve it?"
         }
       ]
     },
@@ -509,209 +509,6 @@
           "rawNotes": "Reflect on the concept of investing versus speculation and how it applies to your financial goals."
         },
         {
-          "id": "the-intelligent-investor-ch10",
-          "bookId": "the-intelligent-investor",
-          "chapter": 10,
-          "title": "The Investor and His Advisers",
-          "dateNoted": "",
-          "keyThemes": [],
-          "rating": null,
-          "isEnriched": true,
-          "summary": "Chapter 10 emphasizes the importance of understanding historical stock market performance to inform future investment strategies. It encourages investors to learn from past trends and behaviors to make more informed decisions.",
-          "keyInsights": [
-            "Historical performance can provide valuable lessons for future investing.",
-            "Investors should analyze past market trends to identify patterns.",
-            "Understanding market cycles can help in timing investments.",
-            "Advisers play a crucial role in guiding investors based on historical data.",
-            "Relying solely on past performance can be misleading; context matters."
-          ],
-          "quotableIdeas": [
-            "History is a guide, not a guarantee.",
-            "Investing is as much about psychology as it is about numbers.",
-            "The market's past can illuminate the investor's path forward."
-          ],
-          "concepts": [
-            "Historical Analysis",
-            "Market Psychology",
-            "Investment Strategy",
-            "Advisory Relationships"
-          ],
-          "actionableItems": [
-            "Review historical stock market data to identify trends.",
-            "Consult with financial advisers who understand historical contexts.",
-            "Develop a strategy that incorporates lessons from past market cycles."
-          ],
-          "connectedIdeas": [
-            "Behavioral Finance",
-            "Market Efficiency",
-            "Risk Management"
-          ],
-          "emotionalResonance": "This chapter matters because it empowers investors to make informed decisions by learning from the past, ultimately fostering a more resilient investment approach.",
-          "rawNotes": "Reflect on the historical performance of the stock market and what lessons can be learned for future investing."
-        },
-        {
-          "id": "the-intelligent-investor-ch11",
-          "bookId": "the-intelligent-investor",
-          "chapter": 11,
-          "title": "Security Analysis for the Lay Investor: General Approach",
-          "dateNoted": "",
-          "keyThemes": [],
-          "rating": null,
-          "isEnriched": false,
-          "summary": null,
-          "keyInsights": [],
-          "quotableIdeas": [],
-          "concepts": [],
-          "actionableItems": [],
-          "connectedIdeas": [],
-          "emotionalResonance": null,
-          "rawNotes": ""
-        },
-        {
-          "id": "the-intelligent-investor-ch12",
-          "bookId": "the-intelligent-investor",
-          "chapter": 12,
-          "title": "Things to Consider About Per-Share Earnings",
-          "dateNoted": "",
-          "keyThemes": [],
-          "rating": null,
-          "isEnriched": false,
-          "summary": null,
-          "keyInsights": [],
-          "quotableIdeas": [],
-          "concepts": [],
-          "actionableItems": [],
-          "connectedIdeas": [],
-          "emotionalResonance": null,
-          "rawNotes": ""
-        },
-        {
-          "id": "the-intelligent-investor-ch13",
-          "bookId": "the-intelligent-investor",
-          "chapter": 13,
-          "title": "A Comparison of Four Listed Companies",
-          "dateNoted": "",
-          "keyThemes": [],
-          "rating": null,
-          "isEnriched": false,
-          "summary": null,
-          "keyInsights": [],
-          "quotableIdeas": [],
-          "concepts": [],
-          "actionableItems": [],
-          "connectedIdeas": [],
-          "emotionalResonance": null,
-          "rawNotes": ""
-        },
-        {
-          "id": "the-intelligent-investor-ch14",
-          "bookId": "the-intelligent-investor",
-          "chapter": 14,
-          "title": "Stock Selection for the Defensive Investor",
-          "dateNoted": "",
-          "keyThemes": [],
-          "rating": null,
-          "isEnriched": false,
-          "summary": null,
-          "keyInsights": [],
-          "quotableIdeas": [],
-          "concepts": [],
-          "actionableItems": [],
-          "connectedIdeas": [],
-          "emotionalResonance": null,
-          "rawNotes": ""
-        },
-        {
-          "id": "the-intelligent-investor-ch15",
-          "bookId": "the-intelligent-investor",
-          "chapter": 15,
-          "title": "Stock Selection for the Enterprising Investor",
-          "dateNoted": "",
-          "keyThemes": [],
-          "rating": null,
-          "isEnriched": false,
-          "summary": null,
-          "keyInsights": [],
-          "quotableIdeas": [],
-          "concepts": [],
-          "actionableItems": [],
-          "connectedIdeas": [],
-          "emotionalResonance": null,
-          "rawNotes": ""
-        },
-        {
-          "id": "the-intelligent-investor-ch16",
-          "bookId": "the-intelligent-investor",
-          "chapter": 16,
-          "title": "Convertible Issues and Warrants",
-          "dateNoted": "",
-          "keyThemes": [],
-          "rating": null,
-          "isEnriched": false,
-          "summary": null,
-          "keyInsights": [],
-          "quotableIdeas": [],
-          "concepts": [],
-          "actionableItems": [],
-          "connectedIdeas": [],
-          "emotionalResonance": null,
-          "rawNotes": ""
-        },
-        {
-          "id": "the-intelligent-investor-ch17",
-          "bookId": "the-intelligent-investor",
-          "chapter": 17,
-          "title": "Four Extremely Instructive Case Histories",
-          "dateNoted": "",
-          "keyThemes": [],
-          "rating": null,
-          "isEnriched": false,
-          "summary": null,
-          "keyInsights": [],
-          "quotableIdeas": [],
-          "concepts": [],
-          "actionableItems": [],
-          "connectedIdeas": [],
-          "emotionalResonance": null,
-          "rawNotes": ""
-        },
-        {
-          "id": "the-intelligent-investor-ch18",
-          "bookId": "the-intelligent-investor",
-          "chapter": 18,
-          "title": "A Comparison of the Investment Results of Two Investors",
-          "dateNoted": "",
-          "keyThemes": [],
-          "rating": null,
-          "isEnriched": false,
-          "summary": null,
-          "keyInsights": [],
-          "quotableIdeas": [],
-          "concepts": [],
-          "actionableItems": [],
-          "connectedIdeas": [],
-          "emotionalResonance": null,
-          "rawNotes": ""
-        },
-        {
-          "id": "the-intelligent-investor-ch19",
-          "bookId": "the-intelligent-investor",
-          "chapter": 19,
-          "title": "Shareholder Activism: The Role of the Investor",
-          "dateNoted": "",
-          "keyThemes": [],
-          "rating": null,
-          "isEnriched": false,
-          "summary": null,
-          "keyInsights": [],
-          "quotableIdeas": [],
-          "concepts": [],
-          "actionableItems": [],
-          "connectedIdeas": [],
-          "emotionalResonance": null,
-          "rawNotes": ""
-        },
-        {
           "id": "the-intelligent-investor-ch2",
           "bookId": "the-intelligent-investor",
           "chapter": 2,
@@ -747,24 +544,6 @@
           ],
           "emotionalResonance": "This chapter underscores the importance of patience and foresight in investing, reminding us that enduring financial health requires strategic planning amidst uncertainty.",
           "rawNotes": "Consider the importance of a long-term investment strategy and how it can mitigate risks in volatile markets."
-        },
-        {
-          "id": "the-intelligent-investor-ch20",
-          "bookId": "the-intelligent-investor",
-          "chapter": 20,
-          "title": "Conclusion: The Intelligent Investor's Philosophy",
-          "dateNoted": "",
-          "keyThemes": [],
-          "rating": null,
-          "isEnriched": false,
-          "summary": null,
-          "keyInsights": [],
-          "quotableIdeas": [],
-          "concepts": [],
-          "actionableItems": [],
-          "connectedIdeas": [],
-          "emotionalResonance": null,
-          "rawNotes": ""
         },
         {
           "id": "the-intelligent-investor-ch3",
@@ -1036,6 +815,459 @@
           ],
           "emotionalResonance": "This chapter matters because it empowers investors to navigate the complexities of the market with a deeper understanding of the forces at play.",
           "rawNotes": "Investigate the impact of economic factors on stock prices and how to stay informed about market trends."
+        },
+        {
+          "id": "the-intelligent-investor-ch10",
+          "bookId": "the-intelligent-investor",
+          "chapter": 10,
+          "title": "The Investor and His Advisers",
+          "dateNoted": "",
+          "keyThemes": [],
+          "rating": null,
+          "isEnriched": true,
+          "summary": "Chapter 10 emphasizes the importance of understanding historical stock market performance to inform future investment strategies. It encourages investors to learn from past trends and behaviors to make more informed decisions.",
+          "keyInsights": [
+            "Historical performance can provide valuable lessons for future investing.",
+            "Investors should analyze past market trends to identify patterns.",
+            "Understanding market cycles can help in timing investments.",
+            "Advisers play a crucial role in guiding investors based on historical data.",
+            "Relying solely on past performance can be misleading; context matters."
+          ],
+          "quotableIdeas": [
+            "History is a guide, not a guarantee.",
+            "Investing is as much about psychology as it is about numbers.",
+            "The market's past can illuminate the investor's path forward."
+          ],
+          "concepts": [
+            "Historical Analysis",
+            "Market Psychology",
+            "Investment Strategy",
+            "Advisory Relationships"
+          ],
+          "actionableItems": [
+            "Review historical stock market data to identify trends.",
+            "Consult with financial advisers who understand historical contexts.",
+            "Develop a strategy that incorporates lessons from past market cycles."
+          ],
+          "connectedIdeas": [
+            "Behavioral Finance",
+            "Market Efficiency",
+            "Risk Management"
+          ],
+          "emotionalResonance": "This chapter matters because it empowers investors to make informed decisions by learning from the past, ultimately fostering a more resilient investment approach.",
+          "rawNotes": "Reflect on the historical performance of the stock market and what lessons can be learned for future investing."
+        },
+        {
+          "id": "the-intelligent-investor-ch11",
+          "bookId": "the-intelligent-investor",
+          "chapter": 11,
+          "title": "Security Analysis for the Lay Investor: General Approach",
+          "dateNoted": "",
+          "keyThemes": [],
+          "rating": null,
+          "isEnriched": true,
+          "summary": "Chapter 11 emphasizes the importance of a systematic approach to security analysis for individual investors. It encourages lay investors to focus on fundamental analysis and to understand the intrinsic value of securities rather than relying on market trends or speculation.",
+          "keyInsights": [
+            "Investors should prioritize understanding the underlying value of a security.",
+            "A disciplined approach to analysis can help mitigate risks.",
+            "Emotional decision-making can lead to poor investment choices.",
+            "Long-term perspective is crucial for successful investing.",
+            "Diversification is key to reducing risk in an investment portfolio."
+          ],
+          "quotableIdeas": [
+            "Investing is not about timing the market, but about time in the market.",
+            "The intelligent investor is a realist who sells to optimists and buys from pessimists."
+          ],
+          "concepts": [
+            "Fundamental Analysis",
+            "Intrinsic Value",
+            "Risk Management",
+            "Long-term Investing",
+            "Market Psychology"
+          ],
+          "actionableItems": [
+            "Conduct a thorough analysis of a company's financial statements before investing.",
+            "Create a diversified portfolio to spread risk.",
+            "Set clear investment goals and stick to them without succumbing to market emotions."
+          ],
+          "connectedIdeas": [
+            "Behavioral Finance",
+            "Value Investing",
+            "Market Efficiency",
+            "Risk Assessment"
+          ],
+          "emotionalResonance": "This chapter matters because it empowers individual investors to make informed decisions, fostering confidence and resilience in a complex financial landscape.",
+          "rawNotes": ""
+        },
+        {
+          "id": "the-intelligent-investor-ch12",
+          "bookId": "the-intelligent-investor",
+          "chapter": 12,
+          "title": "Things to Consider About Per-Share Earnings",
+          "dateNoted": "",
+          "keyThemes": [],
+          "rating": null,
+          "isEnriched": true,
+          "summary": "Chapter 12 emphasizes the importance of understanding per-share earnings when evaluating a company's financial health. It discusses how these earnings can be manipulated and the need for investors to look beyond the surface figures to assess true value.",
+          "keyInsights": [
+            "Per-share earnings can be influenced by accounting practices and should be scrutinized.",
+            "Investors must consider the quality of earnings, not just the quantity.",
+            "Earnings growth should be evaluated in the context of the company's overall financial situation.",
+            "Comparative analysis with industry peers can provide better insights into earnings performance.",
+            "Long-term trends in earnings are more significant than short-term fluctuations."
+          ],
+          "quotableIdeas": [
+            "Earnings can be a double-edged sword; they can illuminate or obscure a company's true value.",
+            "Don't take earnings at face value; investigate the underlying factors.",
+            "Quality of earnings is as crucial as the earnings themselves."
+          ],
+          "concepts": [
+            "Earnings Quality",
+            "Financial Analysis",
+            "Value Investing",
+            "Accounting Practices",
+            "Long-term Investment Strategy"
+          ],
+          "actionableItems": [
+            "Analyze the earnings reports of companies with a critical eye on accounting methods used.",
+            "Compare a company's per-share earnings with its competitors to gauge relative performance.",
+            "Look for patterns in earnings over multiple years rather than focusing solely on the most recent quarter."
+          ],
+          "connectedIdeas": [
+            "Financial Ratios in 'The Intelligent Investor'",
+            "Value vs. Growth Investing in 'Common Stocks and Uncommon Profits' by Philip Fisher",
+            "The importance of cash flow in 'The Cash Flow Quadrant' by Robert Kiyosaki"
+          ],
+          "emotionalResonance": "Understanding per-share earnings is crucial for making informed investment decisions and avoiding pitfalls in the stock market.",
+          "rawNotes": ""
+        },
+        {
+          "id": "the-intelligent-investor-ch13",
+          "bookId": "the-intelligent-investor",
+          "chapter": 13,
+          "title": "A Comparison of Four Listed Companies",
+          "dateNoted": "",
+          "keyThemes": [],
+          "rating": null,
+          "isEnriched": true,
+          "summary": "Chapter 13 compares four listed companies to illustrate the principles of value investing and the importance of thorough analysis before making investment decisions. It emphasizes the need to evaluate financial health, market position, and growth potential.",
+          "keyInsights": [
+            "Investors should analyze multiple companies to understand different business models and market conditions.",
+            "Financial metrics are critical in assessing a company's value and potential for growth.",
+            "Diversification across different sectors can mitigate risks associated with individual investments."
+          ],
+          "quotableIdeas": [
+            "Investment success is rooted in careful analysis rather than speculation.",
+            "Understanding a company's fundamentals is essential for long-term investment strategies."
+          ],
+          "concepts": [
+            "Value Investing",
+            "Financial Analysis",
+            "Diversification",
+            "Market Positioning"
+          ],
+          "actionableItems": [
+            "Conduct a comparative analysis of at least four companies in a sector of interest.",
+            "Focus on key financial metrics such as P/E ratio, debt-to-equity ratio, and profit margins."
+          ],
+          "connectedIdeas": [
+            "Fundamental Analysis in 'Security Analysis' by Benjamin Graham",
+            "Investment Strategies in 'Common Stocks and Uncommon Profits' by Philip Fisher"
+          ],
+          "emotionalResonance": "This chapter underscores the importance of informed decision-making in investing, which can lead to financial security and confidence.",
+          "rawNotes": ""
+        },
+        {
+          "id": "the-intelligent-investor-ch14",
+          "bookId": "the-intelligent-investor",
+          "chapter": 14,
+          "title": "Stock Selection for the Defensive Investor",
+          "dateNoted": "",
+          "keyThemes": [],
+          "rating": null,
+          "isEnriched": true,
+          "summary": "Chapter 14 emphasizes the importance of a disciplined approach to stock selection for defensive investors, focusing on safety and long-term stability rather than speculative gains. It outlines criteria for evaluating stocks, including financial strength, earnings stability, and dividend history.",
+          "keyInsights": [
+            "Defensive investors should prioritize companies with strong balance sheets and consistent earnings.",
+            "Investing in dividend-paying stocks can provide a buffer against market volatility.",
+            "Diversification is crucial to mitigate risk in a defensive investment strategy."
+          ],
+          "quotableIdeas": [
+            "Investing is not about predicting the future, but about managing risk.",
+            "The defensive investor seeks to minimize losses rather than maximize gains."
+          ],
+          "concepts": [
+            "Defensive Investing",
+            "Value Investing",
+            "Risk Management",
+            "Dividend Stocks",
+            "Market Volatility"
+          ],
+          "actionableItems": [
+            "Create a checklist of financial metrics to evaluate potential stock investments.",
+            "Consider building a portfolio that includes a mix of dividend-paying stocks.",
+            "Regularly review and adjust your investment strategy based on market conditions."
+          ],
+          "connectedIdeas": [
+            "The concept of risk management in 'A Random Walk Down Wall Street' by Burton Malkiel.",
+            "The principles of value investing in 'Common Stocks and Uncommon Profits' by Philip Fisher."
+          ],
+          "emotionalResonance": "This chapter matters because it empowers investors to make informed decisions that prioritize financial security and long-term growth.",
+          "rawNotes": ""
+        },
+        {
+          "id": "the-intelligent-investor-ch15",
+          "bookId": "the-intelligent-investor",
+          "chapter": 15,
+          "title": "Stock Selection for the Enterprising Investor",
+          "dateNoted": "",
+          "keyThemes": [],
+          "rating": null,
+          "isEnriched": true,
+          "summary": "Chapter 15 focuses on the principles and strategies for selecting stocks that align with an enterprising investor's goals. It emphasizes the importance of thorough analysis and a disciplined approach to investing in order to achieve superior returns.",
+          "keyInsights": [
+            "Enterprising investors should seek undervalued stocks with strong fundamentals.",
+            "A comprehensive analysis of a company's financial health is crucial before making investment decisions.",
+            "Diversification is important, but enterprising investors can afford to take calculated risks on fewer stocks.",
+            "Investors should remain patient and avoid emotional decision-making in volatile markets.",
+            "Understanding market psychology can provide an edge in stock selection."
+          ],
+          "quotableIdeas": [
+            "Investing is not about timing the market, but about time in the market.",
+            "The intelligent investor is a realist who sells to optimists and buys from pessimists."
+          ],
+          "concepts": [
+            "Value Investing",
+            "Market Psychology",
+            "Risk Management",
+            "Fundamental Analysis"
+          ],
+          "actionableItems": [
+            "Conduct a thorough analysis of potential stocks before investing.",
+            "Create a diversified portfolio while focusing on a few high-potential stocks.",
+            "Monitor market trends and investor sentiment to inform stock selection."
+          ],
+          "connectedIdeas": [
+            "Behavioral Finance",
+            "Investment Strategies",
+            "Risk Assessment",
+            "Long-Term Investing"
+          ],
+          "emotionalResonance": "This chapter matters because it empowers investors to make informed decisions that can lead to financial independence and success.",
+          "rawNotes": ""
+        },
+        {
+          "id": "the-intelligent-investor-ch16",
+          "bookId": "the-intelligent-investor",
+          "chapter": 16,
+          "title": "Convertible Issues and Warrants",
+          "dateNoted": "",
+          "keyThemes": [],
+          "rating": null,
+          "isEnriched": true,
+          "summary": "Chapter 16 discusses the nature and benefits of convertible issues and warrants as investment vehicles. It emphasizes their potential for capital appreciation while also providing some downside protection.",
+          "keyInsights": [
+            "Convertible issues allow investors to convert bonds into stock, offering potential upside.",
+            "Warrants give the holder the right to purchase stock at a set price, which can be advantageous in a rising market.",
+            "Both instruments can enhance portfolio diversification and risk management.",
+            "Investors should assess the terms and conditions of convertibles and warrants carefully.",
+            "Market conditions and the issuing company's performance significantly impact the value of these securities."
+          ],
+          "quotableIdeas": [
+            "Convertible securities can be a bridge between fixed income and equity investments.",
+            "Warrants are like options, providing leverage with the potential for high returns."
+          ],
+          "concepts": [
+            "Convertible Securities",
+            "Warrants",
+            "Investment Strategies",
+            "Risk Management",
+            "Portfolio Diversification"
+          ],
+          "actionableItems": [
+            "Research and analyze the convertible bonds available in the market.",
+            "Evaluate the terms of any warrants before investing.",
+            "Consider the role of convertibles and warrants in your overall investment strategy."
+          ],
+          "connectedIdeas": [
+            "Options trading strategies",
+            "Fixed income investments",
+            "Equity market dynamics",
+            "Risk vs. reward in investing"
+          ],
+          "emotionalResonance": "Understanding convertible issues and warrants can empower investors to make informed decisions that balance risk and reward in their portfolios.",
+          "rawNotes": ""
+        },
+        {
+          "id": "the-intelligent-investor-ch17",
+          "bookId": "the-intelligent-investor",
+          "chapter": 17,
+          "title": "Four Extremely Instructive Case Histories",
+          "dateNoted": "",
+          "keyThemes": [],
+          "rating": null,
+          "isEnriched": true,
+          "summary": "Chapter 17 presents four case histories that illustrate the principles of value investing and the importance of thorough analysis. These examples serve to highlight the potential pitfalls and rewards of investment decisions based on sound reasoning rather than speculation.",
+          "keyInsights": [
+            "Investing based on thorough analysis can lead to better outcomes.",
+            "Case studies provide real-world examples of investment principles in action.",
+            "Emotional discipline is crucial in navigating market fluctuations.",
+            "Understanding the underlying value of investments is key to long-term success."
+          ],
+          "quotableIdeas": [
+            "Investing is more about the process than the outcome.",
+            "The market is a voting machine in the short run and a weighing machine in the long run."
+          ],
+          "concepts": [
+            "Value Investing",
+            "Market Psychology",
+            "Risk Management",
+            "Investment Analysis"
+          ],
+          "actionableItems": [
+            "Conduct thorough research before making investment decisions.",
+            "Analyze historical case studies to learn from past successes and failures.",
+            "Maintain emotional discipline during market volatility."
+          ],
+          "connectedIdeas": [
+            "Behavioral Finance",
+            "Risk Assessment in Investments",
+            "Long-term vs. Short-term Investing Strategies"
+          ],
+          "emotionalResonance": "This chapter emphasizes the importance of learning from real-world examples, making it a valuable resource for both novice and experienced investors.",
+          "rawNotes": ""
+        },
+        {
+          "id": "the-intelligent-investor-ch18",
+          "bookId": "the-intelligent-investor",
+          "chapter": 18,
+          "title": "A Comparison of the Investment Results of Two Investors",
+          "dateNoted": "",
+          "keyThemes": [],
+          "rating": null,
+          "isEnriched": true,
+          "summary": "This chapter compares the investment results of two distinct investors, highlighting the impact of different strategies and mindsets on financial outcomes. It emphasizes the importance of a disciplined approach to investing and the psychological factors that influence decision-making.",
+          "keyInsights": [
+            "Investment results can vary significantly based on the investor's approach and mindset.",
+            "Discipline and a long-term perspective are crucial for successful investing.",
+            "Emotional factors can lead to poor investment decisions.",
+            "Understanding the differences between investors can provide valuable lessons for personal investment strategies.",
+            "Consistent evaluation of investment performance is essential for growth."
+          ],
+          "quotableIdeas": [
+            "The investor's mindset can be as important as the investment itself.",
+            "Success in investing is not just about knowledge, but also about emotional control.",
+            "A disciplined investor will outperform a speculative one over the long term."
+          ],
+          "concepts": [
+            "Investment Strategies",
+            "Investor Psychology",
+            "Long-term Investing",
+            "Performance Evaluation",
+            "Discipline in Investing"
+          ],
+          "actionableItems": [
+            "Reflect on your own investment mindset and identify emotional triggers.",
+            "Establish a disciplined investment plan and stick to it.",
+            "Regularly review and evaluate your investment performance against your goals."
+          ],
+          "connectedIdeas": [
+            "Behavioral Finance",
+            "Risk Management",
+            "Value Investing",
+            "Market Psychology"
+          ],
+          "emotionalResonance": "This chapter matters because it underscores the profound influence of our psychological makeup on financial success, reminding us that investing is as much about mindset as it is about strategy.",
+          "rawNotes": ""
+        },
+        {
+          "id": "the-intelligent-investor-ch19",
+          "bookId": "the-intelligent-investor",
+          "chapter": 19,
+          "title": "Shareholder Activism: The Role of the Investor",
+          "dateNoted": "",
+          "keyThemes": [],
+          "rating": null,
+          "isEnriched": true,
+          "summary": "Chapter 19 emphasizes the importance of shareholder activism and the role investors play in influencing corporate governance. It discusses how active participation can lead to better management decisions and ultimately enhance shareholder value.",
+          "keyInsights": [
+            "Shareholders have the power to influence corporate policies and practices.",
+            "Active engagement can lead to improved accountability from management.",
+            "Investors should be informed and proactive in their investment strategies.",
+            "Collaboration among shareholders can amplify their impact.",
+            "Understanding the rights and responsibilities of shareholders is crucial."
+          ],
+          "quotableIdeas": [
+            "Investors are not just passive observers; they are active participants in the corporate landscape.",
+            "The voice of the shareholder can be a powerful tool for change.",
+            "Effective activism requires knowledge, strategy, and persistence."
+          ],
+          "concepts": [
+            "Shareholder Rights",
+            "Corporate Governance",
+            "Investor Activism",
+            "Accountability",
+            "Engagement Strategies"
+          ],
+          "actionableItems": [
+            "Research and understand your rights as a shareholder.",
+            "Engage with other shareholders to discuss common concerns.",
+            "Attend annual meetings and voice your opinions.",
+            "Consider joining or forming shareholder advocacy groups.",
+            "Stay informed about corporate governance issues affecting your investments."
+          ],
+          "connectedIdeas": [
+            "Corporate Social Responsibility",
+            "Ethical Investing",
+            "Stakeholder Theory",
+            "Financial Regulation",
+            "Behavioral Finance"
+          ],
+          "emotionalResonance": "This chapter highlights the empowering role of investors in shaping the future of companies, reminding us that our voices can drive meaningful change.",
+          "rawNotes": ""
+        },
+        {
+          "id": "the-intelligent-investor-ch20",
+          "bookId": "the-intelligent-investor",
+          "chapter": 20,
+          "title": "Conclusion: The Intelligent Investor's Philosophy",
+          "dateNoted": "",
+          "keyThemes": [],
+          "rating": null,
+          "isEnriched": true,
+          "summary": "In the conclusion of 'The Intelligent Investor,' Benjamin Graham emphasizes the importance of a disciplined investment philosophy grounded in value investing principles. He advocates for a long-term perspective and the need for investors to remain rational and unemotional in their decision-making.",
+          "keyInsights": [
+            "Investing is more about behavior than intelligence.",
+            "A sound investment strategy should prioritize risk management.",
+            "Market fluctuations should be viewed as opportunities rather than threats.",
+            "The intelligent investor must have a margin of safety in their investments.",
+            "Long-term success in investing requires patience and discipline."
+          ],
+          "quotableIdeas": [
+            "Investing isn't about predicting the future; it's about managing risk.",
+            "The market is a voting machine in the short term and a weighing machine in the long term.",
+            "Emotional resilience is key to navigating market volatility."
+          ],
+          "concepts": [
+            "Value Investing",
+            "Risk Management",
+            "Behavioral Finance",
+            "Long-term Investment Strategy",
+            "Market Psychology"
+          ],
+          "actionableItems": [
+            "Develop a personal investment philosophy based on value principles.",
+            "Create a plan to manage emotional responses to market changes.",
+            "Regularly review and adjust your portfolio with a focus on risk and value."
+          ],
+          "connectedIdeas": [
+            "Behavioral Economics",
+            "Market Efficiency Theory",
+            "Investment Psychology",
+            "Financial Independence"
+          ],
+          "emotionalResonance": "This chapter serves as a reminder that the true essence of investing lies in understanding oneself and the market, fostering a mindset that can weather the storms of financial uncertainty.",
+          "rawNotes": ""
         }
       ]
     },
@@ -1059,33 +1291,38 @@
           "dateNoted": "",
           "keyThemes": [],
           "rating": null,
-          "isEnriched": false,
-          "summary": null,
-          "keyInsights": [],
-          "quotableIdeas": [],
-          "concepts": [],
-          "actionableItems": [],
-          "connectedIdeas": [],
-          "emotionalResonance": null,
+          "isEnriched": true,
+          "summary": "Chapter 1 introduces the essential principles of value investing, emphasizing its importance in navigating financial markets. It lays the groundwork for understanding how value investing can lead to long-term financial success.",
+          "keyInsights": [
+            "Value investing focuses on identifying undervalued assets in the market.",
+            "The significance of value investing lies in its ability to provide a margin of safety.",
+            "Behavioral finance plays a crucial role in understanding market inefficiencies.",
+            "Long-term investment strategies often outperform short-term speculation.",
+            "Emotional discipline is vital for successful value investing."
+          ],
+          "quotableIdeas": [
+            "Value investing is about buying dollars for fifty cents.",
+            "The market is not always efficient; it often misprices assets.",
+            "Investing is more about psychology than numbers."
+          ],
+          "concepts": [
+            "Value Investing",
+            "Behavioral Finance",
+            "Market Efficiency",
+            "Investment Psychology"
+          ],
+          "actionableItems": [
+            "Research and identify undervalued stocks in the market.",
+            "Develop a personal investment strategy focused on long-term value.",
+            "Practice emotional discipline by avoiding impulsive investment decisions."
+          ],
+          "connectedIdeas": [
+            "Efficient Market Hypothesis",
+            "Fundamental Analysis",
+            "Risk Management in Investing"
+          ],
+          "emotionalResonance": "This chapter highlights the transformative potential of value investing, encouraging readers to adopt a disciplined approach to wealth creation.",
           "rawNotes": "Introduce the fundamental concepts of value investing and its significance in the financial markets."
-        },
-        {
-          "id": "value-investing-and-behavioral-finance-ch10",
-          "bookId": "value-investing-and-behavioral-finance",
-          "chapter": 10,
-          "title": "Conclusion and Future Outlook",
-          "dateNoted": "",
-          "keyThemes": [],
-          "rating": null,
-          "isEnriched": false,
-          "summary": null,
-          "keyInsights": [],
-          "quotableIdeas": [],
-          "concepts": [],
-          "actionableItems": [],
-          "connectedIdeas": [],
-          "emotionalResonance": null,
-          "rawNotes": ""
         },
         {
           "id": "value-investing-and-behavioral-finance-ch2",
@@ -1095,14 +1332,37 @@
           "dateNoted": "",
           "keyThemes": [],
           "rating": null,
-          "isEnriched": false,
-          "summary": null,
-          "keyInsights": [],
-          "quotableIdeas": [],
-          "concepts": [],
-          "actionableItems": [],
-          "connectedIdeas": [],
-          "emotionalResonance": null,
+          "isEnriched": true,
+          "summary": "Chapter 2 delves into the principles of behavioral finance, highlighting how psychological factors shape investor behavior and decision-making. It emphasizes the importance of understanding these biases to improve investment outcomes.",
+          "keyInsights": [
+            "Behavioral finance examines the psychological influences on investor behavior.",
+            "Cognitive biases can lead to irrational decision-making in investing.",
+            "Understanding these biases is crucial for making informed investment choices.",
+            "Investor emotions often drive market trends and can create volatility.",
+            "Awareness of behavioral finance principles can enhance investment strategies."
+          ],
+          "quotableIdeas": [
+            "Investors are not always rational; emotions play a significant role in decision-making.",
+            "Recognizing our biases is the first step towards better investing."
+          ],
+          "concepts": [
+            "Behavioral finance",
+            "Cognitive biases",
+            "Investor psychology",
+            "Market sentiment"
+          ],
+          "actionableItems": [
+            "Reflect on personal investment decisions to identify any biases.",
+            "Educate oneself about common cognitive biases in investing.",
+            "Develop a strategy to counteract emotional decision-making."
+          ],
+          "connectedIdeas": [
+            "Cognitive psychology",
+            "Market efficiency",
+            "Risk management",
+            "Investment strategies"
+          ],
+          "emotionalResonance": "Understanding the psychology of investing empowers individuals to make more rational and informed financial decisions.",
           "rawNotes": "Explore the principles of behavioral finance and how they influence investor decision-making."
         },
         {
@@ -1113,14 +1373,36 @@
           "dateNoted": "",
           "keyThemes": [],
           "rating": null,
-          "isEnriched": false,
-          "summary": null,
-          "keyInsights": [],
-          "quotableIdeas": [],
-          "concepts": [],
-          "actionableItems": [],
-          "connectedIdeas": [],
-          "emotionalResonance": null,
+          "isEnriched": true,
+          "summary": "Chapter 3 emphasizes the significance of intrinsic value in investment decisions and provides methods for evaluating it across different opportunities. Understanding intrinsic value helps investors make informed choices that align with their long-term financial goals.",
+          "keyInsights": [
+            "Intrinsic value is a critical factor in determining the worth of an investment.",
+            "Assessing intrinsic value requires a thorough analysis of a company's fundamentals.",
+            "Different investment opportunities may necessitate unique approaches to evaluating intrinsic value.",
+            "Investors should focus on long-term value rather than short-term market fluctuations.",
+            "Behavioral biases can cloud judgment when assessing intrinsic value."
+          ],
+          "quotableIdeas": [
+            "Intrinsic value is the true measure of an investment's worth.",
+            "Understanding market behavior is key to recognizing intrinsic value."
+          ],
+          "concepts": [
+            "Intrinsic Value",
+            "Investment Analysis",
+            "Behavioral Finance",
+            "Market Psychology"
+          ],
+          "actionableItems": [
+            "Conduct a detailed analysis of a company's financial statements to determine its intrinsic value.",
+            "Create a checklist of factors to consider when assessing different investment opportunities.",
+            "Regularly review and adjust your investment strategy based on intrinsic value evaluations."
+          ],
+          "connectedIdeas": [
+            "Fundamental Analysis",
+            "Value Investing Principles",
+            "Behavioral Biases in Investing"
+          ],
+          "emotionalResonance": "This chapter matters because it equips investors with the tools to make sound decisions based on true value, fostering confidence in their investment choices.",
           "rawNotes": "Discuss the importance of intrinsic value and how to assess it in various investment opportunities."
         },
         {
@@ -1131,14 +1413,36 @@
           "dateNoted": "",
           "keyThemes": [],
           "rating": null,
-          "isEnriched": false,
-          "summary": null,
-          "keyInsights": [],
-          "quotableIdeas": [],
-          "concepts": [],
-          "actionableItems": [],
-          "connectedIdeas": [],
-          "emotionalResonance": null,
+          "isEnriched": true,
+          "summary": "Chapter 4 delves into the impact of psychological biases on investment decisions, highlighting the importance of recognizing and mitigating these biases to improve investment strategies. It emphasizes that understanding human behavior is crucial for successful value investing.",
+          "keyInsights": [
+            "Psychological biases can significantly distort investment choices.",
+            "Awareness of these biases is the first step in mitigating their effects.",
+            "Strategies such as disciplined decision-making can help counteract biases.",
+            "Investors should regularly review their thought processes and decisions.",
+            "Behavioral finance provides tools to enhance traditional fundamental analysis."
+          ],
+          "quotableIdeas": [
+            "Understanding your mind is as important as understanding the market.",
+            "Investment success is not just about numbers, but also about psychology."
+          ],
+          "concepts": [
+            "Behavioral Finance",
+            "Psychological Biases",
+            "Investment Strategies",
+            "Fundamental Analysis"
+          ],
+          "actionableItems": [
+            "Keep a journal to track emotional responses to investment decisions.",
+            "Set predefined rules for buying and selling to minimize emotional trading.",
+            "Regularly educate yourself on common psychological biases."
+          ],
+          "connectedIdeas": [
+            "Cognitive Dissonance in Decision Making",
+            "The Role of Emotion in Financial Markets",
+            "Risk Perception and Management"
+          ],
+          "emotionalResonance": "This chapter matters because it empowers investors to recognize and overcome the mental traps that can lead to poor financial decisions.",
           "rawNotes": "Examine the psychological biases that can affect investment choices and strategies to mitigate them."
         },
         {
@@ -1149,14 +1453,37 @@
           "dateNoted": "",
           "keyThemes": [],
           "rating": null,
-          "isEnriched": false,
-          "summary": null,
-          "keyInsights": [],
-          "quotableIdeas": [],
-          "concepts": [],
-          "actionableItems": [],
-          "connectedIdeas": [],
-          "emotionalResonance": null,
+          "isEnriched": true,
+          "summary": "Chapter 5 emphasizes the importance of analyzing case studies of successful value investors to extract valuable lessons from their investment strategies. By understanding their approaches, readers can apply these insights to enhance their own valuation techniques.",
+          "keyInsights": [
+            "Successful value investors often have a disciplined approach to valuation.",
+            "Learning from case studies can provide practical insights into investment decision-making.",
+            "Understanding the psychological aspects of investing can improve valuation accuracy.",
+            "Value investing requires patience and a long-term perspective.",
+            "Analyzing failures alongside successes can provide a more comprehensive understanding of value investing."
+          ],
+          "quotableIdeas": [
+            "Success in value investing is often about learning from others' experiences.",
+            "Valuation is as much an art as it is a science."
+          ],
+          "concepts": [
+            "Value Investing",
+            "Behavioral Finance",
+            "Case Studies",
+            "Investment Strategies",
+            "Valuation Techniques"
+          ],
+          "actionableItems": [
+            "Research and analyze case studies of renowned value investors.",
+            "Reflect on personal investment decisions and identify lessons learned.",
+            "Develop a checklist of valuation criteria based on successful investor strategies."
+          ],
+          "connectedIdeas": [
+            "Behavioral biases in investing",
+            "Long-term investment strategies",
+            "Risk management in value investing"
+          ],
+          "emotionalResonance": "This chapter matters because it bridges theory and practice, showing how real-world examples can guide better investment decisions.",
           "rawNotes": "Analyze case studies of successful value investors and the lessons learned from their approaches."
         },
         {
@@ -1167,14 +1494,35 @@
           "dateNoted": "",
           "keyThemes": [],
           "rating": null,
-          "isEnriched": false,
-          "summary": null,
-          "keyInsights": [],
-          "quotableIdeas": [],
-          "concepts": [],
-          "actionableItems": [],
-          "connectedIdeas": [],
-          "emotionalResonance": null,
+          "isEnriched": true,
+          "summary": "Chapter 6 emphasizes the significance of understanding market cycles in the context of value investing. It provides strategies for effectively navigating these cycles to enhance investment decisions and mitigate risks.",
+          "keyInsights": [
+            "Market cycles significantly influence investment opportunities and risks.",
+            "Value investors must recognize the phases of market cycles to make informed decisions.",
+            "Effective navigation of market cycles can lead to better long-term investment outcomes."
+          ],
+          "quotableIdeas": [
+            "Understanding market cycles is crucial for successful value investing.",
+            "Navigating through market fluctuations can separate successful investors from the rest."
+          ],
+          "concepts": [
+            "Market Cycles",
+            "Value Investing",
+            "Behavioral Finance",
+            "Investment Strategies"
+          ],
+          "actionableItems": [
+            "Monitor economic indicators to identify market cycle phases.",
+            "Develop a flexible investment strategy that adapts to changing market conditions.",
+            "Reflect on past investment decisions during different market cycles to improve future choices."
+          ],
+          "connectedIdeas": [
+            "Market Psychology",
+            "Risk Management",
+            "Investment Timing",
+            "Economic Indicators"
+          ],
+          "emotionalResonance": "This chapter matters because it empowers investors to make informed decisions amidst the unpredictability of market fluctuations.",
           "rawNotes": "Highlight the role of market cycles in value investing and how to navigate them effectively."
         },
         {
@@ -1185,14 +1533,36 @@
           "dateNoted": "",
           "keyThemes": [],
           "rating": null,
-          "isEnriched": false,
-          "summary": null,
-          "keyInsights": [],
-          "quotableIdeas": [],
-          "concepts": [],
-          "actionableItems": [],
-          "connectedIdeas": [],
-          "emotionalResonance": null,
+          "isEnriched": true,
+          "summary": "Chapter 7 emphasizes the importance of a disciplined investment strategy grounded in value investing principles. It provides practical tips to help investors navigate risks effectively while adhering to their investment philosophy.",
+          "keyInsights": [
+            "A disciplined investment strategy is essential for long-term success in value investing.",
+            "Risk management should be integrated into the investment decision-making process.",
+            "Investors must remain consistent with their value investing principles, even during market volatility.",
+            "Understanding personal risk tolerance is crucial for developing a tailored investment approach.",
+            "Regularly reviewing and adjusting the investment strategy can help mitigate risks."
+          ],
+          "quotableIdeas": [
+            "Discipline in investing is as important as the principles of value investing.",
+            "Risk management is not just about avoiding losses, but about enhancing overall investment performance."
+          ],
+          "concepts": [
+            "Value Investing",
+            "Risk Management",
+            "Investment Strategy",
+            "Behavioral Finance"
+          ],
+          "actionableItems": [
+            "Create a personal investment plan that outlines your value investing principles and risk tolerance.",
+            "Establish regular check-ins to review and adjust your investment strategy based on market conditions.",
+            "Educate yourself on behavioral biases that may affect your investment decisions."
+          ],
+          "connectedIdeas": [
+            "Behavioral finance principles from other chapters",
+            "Investment strategies discussed in other investment literature",
+            "Risk assessment techniques in finance"
+          ],
+          "emotionalResonance": "This chapter matters because it empowers investors to navigate uncertainty with confidence and discipline, ultimately leading to more informed and resilient investment decisions.",
           "rawNotes": "Provide practical tips for developing a disciplined investment strategy based on value investing principles."
         },
         {
@@ -1203,14 +1573,42 @@
           "dateNoted": "",
           "keyThemes": [],
           "rating": null,
-          "isEnriched": false,
-          "summary": null,
-          "keyInsights": [],
-          "quotableIdeas": [],
-          "concepts": [],
-          "actionableItems": [],
-          "connectedIdeas": [],
-          "emotionalResonance": null,
+          "isEnriched": true,
+          "summary": "Chapter 8 discusses various investment strategies that align with the principles of value investing and the insights from behavioral finance. It emphasizes the importance of understanding market psychology and the long-term perspective in crafting effective investment approaches.",
+          "keyInsights": [
+            "Value investing requires a deep understanding of a company's intrinsic value.",
+            "Behavioral biases can significantly impact investment decisions and market outcomes.",
+            "A disciplined approach to investing can mitigate the effects of emotional decision-making.",
+            "Diversification is essential to manage risk while pursuing value opportunities.",
+            "Long-term investment strategies tend to outperform short-term speculative approaches."
+          ],
+          "quotableIdeas": [
+            "Investing is not just about numbers; it's about understanding human behavior.",
+            "The market is a voting machine in the short term and a weighing machine in the long term.",
+            "Patience is a virtue in value investing."
+          ],
+          "concepts": [
+            "Value Investing",
+            "Behavioral Finance",
+            "Market Psychology",
+            "Risk Management",
+            "Long-term Investing"
+          ],
+          "actionableItems": [
+            "Conduct thorough research to assess a company's intrinsic value before investing.",
+            "Keep a journal to track emotional responses to market fluctuations.",
+            "Create a diversified portfolio to spread risk across different assets.",
+            "Set long-term investment goals and stick to them despite market volatility.",
+            "Regularly review and adjust your investment strategy based on performance and market conditions."
+          ],
+          "connectedIdeas": [
+            "The Efficient Market Hypothesis",
+            "Cognitive Biases in Decision Making",
+            "Investment Psychology",
+            "Risk and Return Trade-off",
+            "Portfolio Management Strategies"
+          ],
+          "emotionalResonance": "This chapter matters because it equips investors with the tools to navigate the complexities of the market while staying true to their long-term financial goals.",
           "rawNotes": ""
         },
         {
@@ -1221,14 +1619,80 @@
           "dateNoted": "",
           "keyThemes": [],
           "rating": null,
-          "isEnriched": false,
-          "summary": null,
-          "keyInsights": [],
-          "quotableIdeas": [],
-          "concepts": [],
-          "actionableItems": [],
-          "connectedIdeas": [],
-          "emotionalResonance": null,
+          "isEnriched": true,
+          "summary": "Chapter 9 presents various case studies that illustrate the principles of value investing in real-world scenarios. It emphasizes the importance of understanding market psychology and behavioral biases that can affect investment decisions.",
+          "keyInsights": [
+            "Value investing requires a deep understanding of a company's fundamentals.",
+            "Behavioral finance highlights how emotions can lead to irrational investment choices.",
+            "Case studies provide practical examples of successful value investing strategies.",
+            "Long-term investment perspectives often yield better results than short-term speculation.",
+            "Analyzing past investment failures can provide valuable lessons for future decisions."
+          ],
+          "quotableIdeas": [
+            "Investing is as much about psychology as it is about numbers.",
+            "Understanding the market's mood is crucial for a value investor.",
+            "Every investment tells a story; learn from both successes and failures."
+          ],
+          "concepts": [
+            "Value Investing",
+            "Behavioral Finance",
+            "Market Psychology",
+            "Investment Case Studies",
+            "Long-term Strategy"
+          ],
+          "actionableItems": [
+            "Analyze a recent investment decision and identify any emotional biases.",
+            "Study a successful value investor's case to understand their approach.",
+            "Create a checklist of fundamental metrics to evaluate potential investments."
+          ],
+          "connectedIdeas": [
+            "Behavioral Economics",
+            "Risk Management in Investing",
+            "Investment Strategies from Other Financial Literature"
+          ],
+          "emotionalResonance": "This chapter matters because it bridges theory and practice, showing how real-world examples can enhance our understanding of value investing.",
+          "rawNotes": ""
+        },
+        {
+          "id": "value-investing-and-behavioral-finance-ch10",
+          "bookId": "value-investing-and-behavioral-finance",
+          "chapter": 10,
+          "title": "Conclusion and Future Outlook",
+          "dateNoted": "",
+          "keyThemes": [],
+          "rating": null,
+          "isEnriched": true,
+          "summary": "Chapter 10 encapsulates the core principles of value investing while highlighting the importance of understanding behavioral finance. It emphasizes the need for investors to remain disciplined and aware of psychological biases that can impact decision-making.",
+          "keyInsights": [
+            "Value investing is not just about numbers; it requires an understanding of human behavior.",
+            "Psychological biases can lead to poor investment decisions, making self-awareness crucial.",
+            "The future of investing will increasingly integrate behavioral finance concepts.",
+            "Long-term success in investing relies on patience and a disciplined approach.",
+            "Continuous learning and adaptation are essential for investors in a changing market."
+          ],
+          "quotableIdeas": [
+            "Investing is as much about psychology as it is about finance.",
+            "Discipline in investing is the antidote to emotional decision-making.",
+            "The market is not always rational; understanding this is key to value investing."
+          ],
+          "concepts": [
+            "Value Investing",
+            "Behavioral Finance",
+            "Psychological Biases",
+            "Investment Discipline",
+            "Market Psychology"
+          ],
+          "actionableItems": [
+            "Reflect on personal biases before making investment decisions.",
+            "Create a checklist to maintain discipline in investment strategies.",
+            "Engage in continuous education about market trends and behavioral finance."
+          ],
+          "connectedIdeas": [
+            "Cognitive biases in decision-making from psychology literature.",
+            "Investment strategies discussed in other finance books.",
+            "The role of emotions in trading from behavioral economics."
+          ],
+          "emotionalResonance": "This chapter matters because it reinforces the idea that successful investing is a blend of analytical skills and emotional intelligence.",
           "rawNotes": ""
         }
       ]
@@ -1250,8 +1714,8 @@
         "label": "Self Reflection",
         "chapters": [
           "the-almanack-of-naval-ravikant-ch1",
-          "the-almanack-of-naval-ravikant-ch10",
-          "the-almanack-of-naval-ravikant-ch4"
+          "the-almanack-of-naval-ravikant-ch4",
+          "the-almanack-of-naval-ravikant-ch10"
         ],
         "weight": 3
       },
@@ -1310,48 +1774,94 @@
         "weight": 2
       },
       {
-        "id": "Market Psychology",
-        "label": "Market Psychology",
+        "id": "Investment Strategies",
+        "label": "Investment Strategies",
         "chapters": [
-          "the-intelligent-investor-ch10",
-          "the-intelligent-investor-ch8"
+          "the-intelligent-investor-ch3",
+          "the-intelligent-investor-ch16",
+          "the-intelligent-investor-ch18",
+          "value-investing-and-behavioral-finance-ch4",
+          "value-investing-and-behavioral-finance-ch5",
+          "value-investing-and-behavioral-finance-ch6"
         ],
-        "weight": 2
-      },
-      {
-        "id": "Investment Strategy",
-        "label": "Investment Strategy",
-        "chapters": [
-          "the-intelligent-investor-ch10",
-          "the-intelligent-investor-ch6",
-          "the-intelligent-investor-ch9"
-        ],
-        "weight": 3
+        "weight": 6
       },
       {
         "id": "Value Investing",
         "label": "Value Investing",
         "chapters": [
           "the-intelligent-investor-ch4",
-          "the-intelligent-investor-ch8"
+          "the-intelligent-investor-ch8",
+          "the-intelligent-investor-ch12",
+          "the-intelligent-investor-ch13",
+          "the-intelligent-investor-ch14",
+          "the-intelligent-investor-ch15",
+          "the-intelligent-investor-ch17",
+          "the-intelligent-investor-ch20",
+          "value-investing-and-behavioral-finance-ch1",
+          "value-investing-and-behavioral-finance-ch5",
+          "value-investing-and-behavioral-finance-ch6",
+          "value-investing-and-behavioral-finance-ch7",
+          "value-investing-and-behavioral-finance-ch8",
+          "value-investing-and-behavioral-finance-ch9",
+          "value-investing-and-behavioral-finance-ch10"
         ],
-        "weight": 2
+        "weight": 15
+      },
+      {
+        "id": "Intrinsic Value",
+        "label": "Intrinsic Value",
+        "chapters": [
+          "the-intelligent-investor-ch4",
+          "the-intelligent-investor-ch11",
+          "value-investing-and-behavioral-finance-ch3"
+        ],
+        "weight": 3
       },
       {
         "id": "Defensive Investing",
         "label": "Defensive Investing",
         "chapters": [
           "the-intelligent-investor-ch4",
-          "the-intelligent-investor-ch5"
+          "the-intelligent-investor-ch5",
+          "the-intelligent-investor-ch14"
         ],
-        "weight": 2
+        "weight": 3
       },
       {
         "id": "Portfolio Diversification",
         "label": "Portfolio Diversification",
         "chapters": [
           "the-intelligent-investor-ch4",
-          "the-intelligent-investor-ch5"
+          "the-intelligent-investor-ch5",
+          "the-intelligent-investor-ch16"
+        ],
+        "weight": 3
+      },
+      {
+        "id": "Long-term Strategy",
+        "label": "Long Term Strategy",
+        "chapters": [
+          "the-intelligent-investor-ch4",
+          "value-investing-and-behavioral-finance-ch9"
+        ],
+        "weight": 2
+      },
+      {
+        "id": "Market Volatility",
+        "label": "Market Volatility",
+        "chapters": [
+          "the-intelligent-investor-ch5",
+          "the-intelligent-investor-ch14"
+        ],
+        "weight": 2
+      },
+      {
+        "id": "Investment Psychology",
+        "label": "Investment Psychology",
+        "chapters": [
+          "the-intelligent-investor-ch5",
+          "value-investing-and-behavioral-finance-ch1"
         ],
         "weight": 2
       },
@@ -1360,7 +1870,135 @@
         "label": "Diversification",
         "chapters": [
           "the-intelligent-investor-ch6",
-          "the-intelligent-investor-ch9"
+          "the-intelligent-investor-ch9",
+          "the-intelligent-investor-ch13"
+        ],
+        "weight": 3
+      },
+      {
+        "id": "Risk Management",
+        "label": "Risk Management",
+        "chapters": [
+          "the-intelligent-investor-ch6",
+          "the-intelligent-investor-ch11",
+          "the-intelligent-investor-ch14",
+          "the-intelligent-investor-ch15",
+          "the-intelligent-investor-ch16",
+          "the-intelligent-investor-ch17",
+          "the-intelligent-investor-ch20",
+          "value-investing-and-behavioral-finance-ch7",
+          "value-investing-and-behavioral-finance-ch8"
+        ],
+        "weight": 9
+      },
+      {
+        "id": "Investment Strategy",
+        "label": "Investment Strategy",
+        "chapters": [
+          "the-intelligent-investor-ch6",
+          "the-intelligent-investor-ch9",
+          "the-intelligent-investor-ch10",
+          "value-investing-and-behavioral-finance-ch7"
+        ],
+        "weight": 4
+      },
+      {
+        "id": "Behavioral Finance",
+        "label": "Behavioral Finance",
+        "chapters": [
+          "the-intelligent-investor-ch7",
+          "the-intelligent-investor-ch20",
+          "value-investing-and-behavioral-finance-ch1",
+          "value-investing-and-behavioral-finance-ch3",
+          "value-investing-and-behavioral-finance-ch4",
+          "value-investing-and-behavioral-finance-ch5",
+          "value-investing-and-behavioral-finance-ch6",
+          "value-investing-and-behavioral-finance-ch7",
+          "value-investing-and-behavioral-finance-ch8",
+          "value-investing-and-behavioral-finance-ch9",
+          "value-investing-and-behavioral-finance-ch10"
+        ],
+        "weight": 11
+      },
+      {
+        "id": "Investor Psychology",
+        "label": "Investor Psychology",
+        "chapters": [
+          "the-intelligent-investor-ch7",
+          "the-intelligent-investor-ch18"
+        ],
+        "weight": 2
+      },
+      {
+        "id": "Market Psychology",
+        "label": "Market Psychology",
+        "chapters": [
+          "the-intelligent-investor-ch8",
+          "the-intelligent-investor-ch10",
+          "the-intelligent-investor-ch11",
+          "the-intelligent-investor-ch15",
+          "the-intelligent-investor-ch17",
+          "the-intelligent-investor-ch20",
+          "value-investing-and-behavioral-finance-ch3",
+          "value-investing-and-behavioral-finance-ch8",
+          "value-investing-and-behavioral-finance-ch9",
+          "value-investing-and-behavioral-finance-ch10"
+        ],
+        "weight": 10
+      },
+      {
+        "id": "Fundamental Analysis",
+        "label": "Fundamental Analysis",
+        "chapters": [
+          "the-intelligent-investor-ch11",
+          "the-intelligent-investor-ch15",
+          "value-investing-and-behavioral-finance-ch4"
+        ],
+        "weight": 3
+      },
+      {
+        "id": "Long-term Investing",
+        "label": "Long Term Investing",
+        "chapters": [
+          "the-intelligent-investor-ch11",
+          "the-intelligent-investor-ch18",
+          "value-investing-and-behavioral-finance-ch8"
+        ],
+        "weight": 3
+      },
+      {
+        "id": "Financial Analysis",
+        "label": "Financial Analysis",
+        "chapters": [
+          "the-intelligent-investor-ch12",
+          "the-intelligent-investor-ch13"
+        ],
+        "weight": 2
+      },
+      {
+        "id": "Long-term Investment Strategy",
+        "label": "Long Term Investment Strategy",
+        "chapters": [
+          "the-intelligent-investor-ch12",
+          "the-intelligent-investor-ch20"
+        ],
+        "weight": 2
+      },
+      {
+        "id": "Investment Analysis",
+        "label": "Investment Analysis",
+        "chapters": [
+          "the-intelligent-investor-ch17",
+          "value-investing-and-behavioral-finance-ch3"
+        ],
+        "weight": 2
+      },
+      {
+        "id": "Psychological Biases",
+        "label": "Psychological Biases",
+        "chapters": [
+          "value-investing-and-behavioral-finance-ch4",
+          "value-investing-and-behavioral-finance-ch10"
         ],
         "weight": 2
       }
@@ -1373,17 +2011,17 @@
       },
       {
         "source": "the-almanack-of-naval-ravikant-ch1",
-        "target": "the-almanack-of-naval-ravikant-ch10",
+        "target": "the-almanack-of-naval-ravikant-ch4",
         "concept": "Self-Reflection"
       },
       {
         "source": "the-almanack-of-naval-ravikant-ch1",
-        "target": "the-almanack-of-naval-ravikant-ch4",
+        "target": "the-almanack-of-naval-ravikant-ch10",
         "concept": "Self-Reflection"
       },
       {
-        "source": "the-almanack-of-naval-ravikant-ch10",
-        "target": "the-almanack-of-naval-ravikant-ch4",
+        "source": "the-almanack-of-naval-ravikant-ch4",
+        "target": "the-almanack-of-naval-ravikant-ch10",
         "concept": "Self-Reflection"
       },
       {
@@ -1417,24 +2055,79 @@
         "concept": "Investment strategy"
       },
       {
-        "source": "the-intelligent-investor-ch10",
-        "target": "the-intelligent-investor-ch8",
-        "concept": "Market Psychology"
+        "source": "the-intelligent-investor-ch3",
+        "target": "the-intelligent-investor-ch16",
+        "concept": "Investment Strategies"
       },
       {
-        "source": "the-intelligent-investor-ch10",
-        "target": "the-intelligent-investor-ch6",
-        "concept": "Investment Strategy"
+        "source": "the-intelligent-investor-ch3",
+        "target": "the-intelligent-investor-ch18",
+        "concept": "Investment Strategies"
       },
       {
-        "source": "the-intelligent-investor-ch10",
-        "target": "the-intelligent-investor-ch9",
-        "concept": "Investment Strategy"
+        "source": "the-intelligent-investor-ch3",
+        "target": "value-investing-and-behavioral-finance-ch4",
+        "concept": "Investment Strategies"
       },
       {
-        "source": "the-intelligent-investor-ch6",
-        "target": "the-intelligent-investor-ch9",
-        "concept": "Investment Strategy"
+        "source": "the-intelligent-investor-ch3",
+        "target": "value-investing-and-behavioral-finance-ch5",
+        "concept": "Investment Strategies"
+      },
+      {
+        "source": "the-intelligent-investor-ch3",
+        "target": "value-investing-and-behavioral-finance-ch6",
+        "concept": "Investment Strategies"
+      },
+      {
+        "source": "the-intelligent-investor-ch16",
+        "target": "the-intelligent-investor-ch18",
+        "concept": "Investment Strategies"
+      },
+      {
+        "source": "the-intelligent-investor-ch16",
+        "target": "value-investing-and-behavioral-finance-ch4",
+        "concept": "Investment Strategies"
+      },
+      {
+        "source": "the-intelligent-investor-ch16",
+        "target": "value-investing-and-behavioral-finance-ch5",
+        "concept": "Investment Strategies"
+      },
+      {
+        "source": "the-intelligent-investor-ch16",
+        "target": "value-investing-and-behavioral-finance-ch6",
+        "concept": "Investment Strategies"
+      },
+      {
+        "source": "the-intelligent-investor-ch18",
+        "target": "value-investing-and-behavioral-finance-ch4",
+        "concept": "Investment Strategies"
+      },
+      {
+        "source": "the-intelligent-investor-ch18",
+        "target": "value-investing-and-behavioral-finance-ch5",
+        "concept": "Investment Strategies"
+      },
+      {
+        "source": "the-intelligent-investor-ch18",
+        "target": "value-investing-and-behavioral-finance-ch6",
+        "concept": "Investment Strategies"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch4",
+        "target": "value-investing-and-behavioral-finance-ch5",
+        "concept": "Investment Strategies"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch4",
+        "target": "value-investing-and-behavioral-finance-ch6",
+        "concept": "Investment Strategies"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch5",
+        "target": "value-investing-and-behavioral-finance-ch6",
+        "concept": "Investment Strategies"
       },
       {
         "source": "the-intelligent-investor-ch4",
@@ -1443,7 +2136,552 @@
       },
       {
         "source": "the-intelligent-investor-ch4",
+        "target": "the-intelligent-investor-ch12",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch4",
+        "target": "the-intelligent-investor-ch13",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch4",
+        "target": "the-intelligent-investor-ch14",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch4",
+        "target": "the-intelligent-investor-ch15",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch4",
+        "target": "the-intelligent-investor-ch17",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch4",
+        "target": "the-intelligent-investor-ch20",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch4",
+        "target": "value-investing-and-behavioral-finance-ch1",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch4",
+        "target": "value-investing-and-behavioral-finance-ch5",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch4",
+        "target": "value-investing-and-behavioral-finance-ch6",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch4",
+        "target": "value-investing-and-behavioral-finance-ch7",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch4",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch4",
+        "target": "value-investing-and-behavioral-finance-ch9",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch4",
+        "target": "value-investing-and-behavioral-finance-ch10",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch8",
+        "target": "the-intelligent-investor-ch12",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch8",
+        "target": "the-intelligent-investor-ch13",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch8",
+        "target": "the-intelligent-investor-ch14",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch8",
+        "target": "the-intelligent-investor-ch15",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch8",
+        "target": "the-intelligent-investor-ch17",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch8",
+        "target": "the-intelligent-investor-ch20",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch8",
+        "target": "value-investing-and-behavioral-finance-ch1",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch8",
+        "target": "value-investing-and-behavioral-finance-ch5",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch8",
+        "target": "value-investing-and-behavioral-finance-ch6",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch8",
+        "target": "value-investing-and-behavioral-finance-ch7",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch8",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch8",
+        "target": "value-investing-and-behavioral-finance-ch9",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch8",
+        "target": "value-investing-and-behavioral-finance-ch10",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch12",
+        "target": "the-intelligent-investor-ch13",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch12",
+        "target": "the-intelligent-investor-ch14",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch12",
+        "target": "the-intelligent-investor-ch15",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch12",
+        "target": "the-intelligent-investor-ch17",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch12",
+        "target": "the-intelligent-investor-ch20",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch12",
+        "target": "value-investing-and-behavioral-finance-ch1",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch12",
+        "target": "value-investing-and-behavioral-finance-ch5",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch12",
+        "target": "value-investing-and-behavioral-finance-ch6",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch12",
+        "target": "value-investing-and-behavioral-finance-ch7",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch12",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch12",
+        "target": "value-investing-and-behavioral-finance-ch9",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch12",
+        "target": "value-investing-and-behavioral-finance-ch10",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch13",
+        "target": "the-intelligent-investor-ch14",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch13",
+        "target": "the-intelligent-investor-ch15",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch13",
+        "target": "the-intelligent-investor-ch17",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch13",
+        "target": "the-intelligent-investor-ch20",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch13",
+        "target": "value-investing-and-behavioral-finance-ch1",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch13",
+        "target": "value-investing-and-behavioral-finance-ch5",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch13",
+        "target": "value-investing-and-behavioral-finance-ch6",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch13",
+        "target": "value-investing-and-behavioral-finance-ch7",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch13",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch13",
+        "target": "value-investing-and-behavioral-finance-ch9",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch13",
+        "target": "value-investing-and-behavioral-finance-ch10",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch14",
+        "target": "the-intelligent-investor-ch15",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch14",
+        "target": "the-intelligent-investor-ch17",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch14",
+        "target": "the-intelligent-investor-ch20",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch14",
+        "target": "value-investing-and-behavioral-finance-ch1",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch14",
+        "target": "value-investing-and-behavioral-finance-ch5",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch14",
+        "target": "value-investing-and-behavioral-finance-ch6",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch14",
+        "target": "value-investing-and-behavioral-finance-ch7",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch14",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch14",
+        "target": "value-investing-and-behavioral-finance-ch9",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch14",
+        "target": "value-investing-and-behavioral-finance-ch10",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch15",
+        "target": "the-intelligent-investor-ch17",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch15",
+        "target": "the-intelligent-investor-ch20",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch15",
+        "target": "value-investing-and-behavioral-finance-ch1",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch15",
+        "target": "value-investing-and-behavioral-finance-ch5",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch15",
+        "target": "value-investing-and-behavioral-finance-ch6",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch15",
+        "target": "value-investing-and-behavioral-finance-ch7",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch15",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch15",
+        "target": "value-investing-and-behavioral-finance-ch9",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch15",
+        "target": "value-investing-and-behavioral-finance-ch10",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch17",
+        "target": "the-intelligent-investor-ch20",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch17",
+        "target": "value-investing-and-behavioral-finance-ch1",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch17",
+        "target": "value-investing-and-behavioral-finance-ch5",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch17",
+        "target": "value-investing-and-behavioral-finance-ch6",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch17",
+        "target": "value-investing-and-behavioral-finance-ch7",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch17",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch17",
+        "target": "value-investing-and-behavioral-finance-ch9",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch17",
+        "target": "value-investing-and-behavioral-finance-ch10",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch20",
+        "target": "value-investing-and-behavioral-finance-ch1",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch20",
+        "target": "value-investing-and-behavioral-finance-ch5",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch20",
+        "target": "value-investing-and-behavioral-finance-ch6",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch20",
+        "target": "value-investing-and-behavioral-finance-ch7",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch20",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch20",
+        "target": "value-investing-and-behavioral-finance-ch9",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch20",
+        "target": "value-investing-and-behavioral-finance-ch10",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch1",
+        "target": "value-investing-and-behavioral-finance-ch5",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch1",
+        "target": "value-investing-and-behavioral-finance-ch6",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch1",
+        "target": "value-investing-and-behavioral-finance-ch7",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch1",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch1",
+        "target": "value-investing-and-behavioral-finance-ch9",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch1",
+        "target": "value-investing-and-behavioral-finance-ch10",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch5",
+        "target": "value-investing-and-behavioral-finance-ch6",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch5",
+        "target": "value-investing-and-behavioral-finance-ch7",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch5",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch5",
+        "target": "value-investing-and-behavioral-finance-ch9",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch5",
+        "target": "value-investing-and-behavioral-finance-ch10",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch6",
+        "target": "value-investing-and-behavioral-finance-ch7",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch6",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch6",
+        "target": "value-investing-and-behavioral-finance-ch9",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch6",
+        "target": "value-investing-and-behavioral-finance-ch10",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch7",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch7",
+        "target": "value-investing-and-behavioral-finance-ch9",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch7",
+        "target": "value-investing-and-behavioral-finance-ch10",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch8",
+        "target": "value-investing-and-behavioral-finance-ch9",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch8",
+        "target": "value-investing-and-behavioral-finance-ch10",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch9",
+        "target": "value-investing-and-behavioral-finance-ch10",
+        "concept": "Value Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch4",
+        "target": "the-intelligent-investor-ch11",
+        "concept": "Intrinsic Value"
+      },
+      {
+        "source": "the-intelligent-investor-ch4",
+        "target": "value-investing-and-behavioral-finance-ch3",
+        "concept": "Intrinsic Value"
+      },
+      {
+        "source": "the-intelligent-investor-ch11",
+        "target": "value-investing-and-behavioral-finance-ch3",
+        "concept": "Intrinsic Value"
+      },
+      {
+        "source": "the-intelligent-investor-ch4",
         "target": "the-intelligent-investor-ch5",
+        "concept": "Defensive Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch4",
+        "target": "the-intelligent-investor-ch14",
+        "concept": "Defensive Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch5",
+        "target": "the-intelligent-investor-ch14",
         "concept": "Defensive Investing"
       },
       {
@@ -1452,9 +2690,809 @@
         "concept": "Portfolio Diversification"
       },
       {
+        "source": "the-intelligent-investor-ch4",
+        "target": "the-intelligent-investor-ch16",
+        "concept": "Portfolio Diversification"
+      },
+      {
+        "source": "the-intelligent-investor-ch5",
+        "target": "the-intelligent-investor-ch16",
+        "concept": "Portfolio Diversification"
+      },
+      {
+        "source": "the-intelligent-investor-ch4",
+        "target": "value-investing-and-behavioral-finance-ch9",
+        "concept": "Long-term Strategy"
+      },
+      {
+        "source": "the-intelligent-investor-ch5",
+        "target": "the-intelligent-investor-ch14",
+        "concept": "Market Volatility"
+      },
+      {
+        "source": "the-intelligent-investor-ch5",
+        "target": "value-investing-and-behavioral-finance-ch1",
+        "concept": "Investment Psychology"
+      },
+      {
         "source": "the-intelligent-investor-ch6",
         "target": "the-intelligent-investor-ch9",
         "concept": "Diversification"
+      },
+      {
+        "source": "the-intelligent-investor-ch6",
+        "target": "the-intelligent-investor-ch13",
+        "concept": "Diversification"
+      },
+      {
+        "source": "the-intelligent-investor-ch9",
+        "target": "the-intelligent-investor-ch13",
+        "concept": "Diversification"
+      },
+      {
+        "source": "the-intelligent-investor-ch6",
+        "target": "the-intelligent-investor-ch11",
+        "concept": "Risk Management"
+      },
+      {
+        "source": "the-intelligent-investor-ch6",
+        "target": "the-intelligent-investor-ch14",
+        "concept": "Risk Management"
+      },
+      {
+        "source": "the-intelligent-investor-ch6",
+        "target": "the-intelligent-investor-ch15",
+        "concept": "Risk Management"
+      },
+      {
+        "source": "the-intelligent-investor-ch6",
+        "target": "the-intelligent-investor-ch16",
+        "concept": "Risk Management"
+      },
+      {
+        "source": "the-intelligent-investor-ch6",
+        "target": "the-intelligent-investor-ch17",
+        "concept": "Risk Management"
+      },
+      {
+        "source": "the-intelligent-investor-ch6",
+        "target": "the-intelligent-investor-ch20",
+        "concept": "Risk Management"
+      },
+      {
+        "source": "the-intelligent-investor-ch6",
+        "target": "value-investing-and-behavioral-finance-ch7",
+        "concept": "Risk Management"
+      },
+      {
+        "source": "the-intelligent-investor-ch6",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "Risk Management"
+      },
+      {
+        "source": "the-intelligent-investor-ch11",
+        "target": "the-intelligent-investor-ch14",
+        "concept": "Risk Management"
+      },
+      {
+        "source": "the-intelligent-investor-ch11",
+        "target": "the-intelligent-investor-ch15",
+        "concept": "Risk Management"
+      },
+      {
+        "source": "the-intelligent-investor-ch11",
+        "target": "the-intelligent-investor-ch16",
+        "concept": "Risk Management"
+      },
+      {
+        "source": "the-intelligent-investor-ch11",
+        "target": "the-intelligent-investor-ch17",
+        "concept": "Risk Management"
+      },
+      {
+        "source": "the-intelligent-investor-ch11",
+        "target": "the-intelligent-investor-ch20",
+        "concept": "Risk Management"
+      },
+      {
+        "source": "the-intelligent-investor-ch11",
+        "target": "value-investing-and-behavioral-finance-ch7",
+        "concept": "Risk Management"
+      },
+      {
+        "source": "the-intelligent-investor-ch11",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "Risk Management"
+      },
+      {
+        "source": "the-intelligent-investor-ch14",
+        "target": "the-intelligent-investor-ch15",
+        "concept": "Risk Management"
+      },
+      {
+        "source": "the-intelligent-investor-ch14",
+        "target": "the-intelligent-investor-ch16",
+        "concept": "Risk Management"
+      },
+      {
+        "source": "the-intelligent-investor-ch14",
+        "target": "the-intelligent-investor-ch17",
+        "concept": "Risk Management"
+      },
+      {
+        "source": "the-intelligent-investor-ch14",
+        "target": "the-intelligent-investor-ch20",
+        "concept": "Risk Management"
+      },
+      {
+        "source": "the-intelligent-investor-ch14",
+        "target": "value-investing-and-behavioral-finance-ch7",
+        "concept": "Risk Management"
+      },
+      {
+        "source": "the-intelligent-investor-ch14",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "Risk Management"
+      },
+      {
+        "source": "the-intelligent-investor-ch15",
+        "target": "the-intelligent-investor-ch16",
+        "concept": "Risk Management"
+      },
+      {
+        "source": "the-intelligent-investor-ch15",
+        "target": "the-intelligent-investor-ch17",
+        "concept": "Risk Management"
+      },
+      {
+        "source": "the-intelligent-investor-ch15",
+        "target": "the-intelligent-investor-ch20",
+        "concept": "Risk Management"
+      },
+      {
+        "source": "the-intelligent-investor-ch15",
+        "target": "value-investing-and-behavioral-finance-ch7",
+        "concept": "Risk Management"
+      },
+      {
+        "source": "the-intelligent-investor-ch15",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "Risk Management"
+      },
+      {
+        "source": "the-intelligent-investor-ch16",
+        "target": "the-intelligent-investor-ch17",
+        "concept": "Risk Management"
+      },
+      {
+        "source": "the-intelligent-investor-ch16",
+        "target": "the-intelligent-investor-ch20",
+        "concept": "Risk Management"
+      },
+      {
+        "source": "the-intelligent-investor-ch16",
+        "target": "value-investing-and-behavioral-finance-ch7",
+        "concept": "Risk Management"
+      },
+      {
+        "source": "the-intelligent-investor-ch16",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "Risk Management"
+      },
+      {
+        "source": "the-intelligent-investor-ch17",
+        "target": "the-intelligent-investor-ch20",
+        "concept": "Risk Management"
+      },
+      {
+        "source": "the-intelligent-investor-ch17",
+        "target": "value-investing-and-behavioral-finance-ch7",
+        "concept": "Risk Management"
+      },
+      {
+        "source": "the-intelligent-investor-ch17",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "Risk Management"
+      },
+      {
+        "source": "the-intelligent-investor-ch20",
+        "target": "value-investing-and-behavioral-finance-ch7",
+        "concept": "Risk Management"
+      },
+      {
+        "source": "the-intelligent-investor-ch20",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "Risk Management"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch7",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "Risk Management"
+      },
+      {
+        "source": "the-intelligent-investor-ch6",
+        "target": "the-intelligent-investor-ch9",
+        "concept": "Investment Strategy"
+      },
+      {
+        "source": "the-intelligent-investor-ch6",
+        "target": "the-intelligent-investor-ch10",
+        "concept": "Investment Strategy"
+      },
+      {
+        "source": "the-intelligent-investor-ch6",
+        "target": "value-investing-and-behavioral-finance-ch7",
+        "concept": "Investment Strategy"
+      },
+      {
+        "source": "the-intelligent-investor-ch9",
+        "target": "the-intelligent-investor-ch10",
+        "concept": "Investment Strategy"
+      },
+      {
+        "source": "the-intelligent-investor-ch9",
+        "target": "value-investing-and-behavioral-finance-ch7",
+        "concept": "Investment Strategy"
+      },
+      {
+        "source": "the-intelligent-investor-ch10",
+        "target": "value-investing-and-behavioral-finance-ch7",
+        "concept": "Investment Strategy"
+      },
+      {
+        "source": "the-intelligent-investor-ch7",
+        "target": "the-intelligent-investor-ch20",
+        "concept": "Behavioral Finance"
+      },
+      {
+        "source": "the-intelligent-investor-ch7",
+        "target": "value-investing-and-behavioral-finance-ch1",
+        "concept": "Behavioral Finance"
+      },
+      {
+        "source": "the-intelligent-investor-ch7",
+        "target": "value-investing-and-behavioral-finance-ch3",
+        "concept": "Behavioral Finance"
+      },
+      {
+        "source": "the-intelligent-investor-ch7",
+        "target": "value-investing-and-behavioral-finance-ch4",
+        "concept": "Behavioral Finance"
+      },
+      {
+        "source": "the-intelligent-investor-ch7",
+        "target": "value-investing-and-behavioral-finance-ch5",
+        "concept": "Behavioral Finance"
+      },
+      {
+        "source": "the-intelligent-investor-ch7",
+        "target": "value-investing-and-behavioral-finance-ch6",
+        "concept": "Behavioral Finance"
+      },
+      {
+        "source": "the-intelligent-investor-ch7",
+        "target": "value-investing-and-behavioral-finance-ch7",
+        "concept": "Behavioral Finance"
+      },
+      {
+        "source": "the-intelligent-investor-ch7",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "Behavioral Finance"
+      },
+      {
+        "source": "the-intelligent-investor-ch7",
+        "target": "value-investing-and-behavioral-finance-ch9",
+        "concept": "Behavioral Finance"
+      },
+      {
+        "source": "the-intelligent-investor-ch7",
+        "target": "value-investing-and-behavioral-finance-ch10",
+        "concept": "Behavioral Finance"
+      },
+      {
+        "source": "the-intelligent-investor-ch20",
+        "target": "value-investing-and-behavioral-finance-ch1",
+        "concept": "Behavioral Finance"
+      },
+      {
+        "source": "the-intelligent-investor-ch20",
+        "target": "value-investing-and-behavioral-finance-ch3",
+        "concept": "Behavioral Finance"
+      },
+      {
+        "source": "the-intelligent-investor-ch20",
+        "target": "value-investing-and-behavioral-finance-ch4",
+        "concept": "Behavioral Finance"
+      },
+      {
+        "source": "the-intelligent-investor-ch20",
+        "target": "value-investing-and-behavioral-finance-ch5",
+        "concept": "Behavioral Finance"
+      },
+      {
+        "source": "the-intelligent-investor-ch20",
+        "target": "value-investing-and-behavioral-finance-ch6",
+        "concept": "Behavioral Finance"
+      },
+      {
+        "source": "the-intelligent-investor-ch20",
+        "target": "value-investing-and-behavioral-finance-ch7",
+        "concept": "Behavioral Finance"
+      },
+      {
+        "source": "the-intelligent-investor-ch20",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "Behavioral Finance"
+      },
+      {
+        "source": "the-intelligent-investor-ch20",
+        "target": "value-investing-and-behavioral-finance-ch9",
+        "concept": "Behavioral Finance"
+      },
+      {
+        "source": "the-intelligent-investor-ch20",
+        "target": "value-investing-and-behavioral-finance-ch10",
+        "concept": "Behavioral Finance"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch1",
+        "target": "value-investing-and-behavioral-finance-ch3",
+        "concept": "Behavioral Finance"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch1",
+        "target": "value-investing-and-behavioral-finance-ch4",
+        "concept": "Behavioral Finance"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch1",
+        "target": "value-investing-and-behavioral-finance-ch5",
+        "concept": "Behavioral Finance"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch1",
+        "target": "value-investing-and-behavioral-finance-ch6",
+        "concept": "Behavioral Finance"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch1",
+        "target": "value-investing-and-behavioral-finance-ch7",
+        "concept": "Behavioral Finance"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch1",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "Behavioral Finance"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch1",
+        "target": "value-investing-and-behavioral-finance-ch9",
+        "concept": "Behavioral Finance"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch1",
+        "target": "value-investing-and-behavioral-finance-ch10",
+        "concept": "Behavioral Finance"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch3",
+        "target": "value-investing-and-behavioral-finance-ch4",
+        "concept": "Behavioral Finance"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch3",
+        "target": "value-investing-and-behavioral-finance-ch5",
+        "concept": "Behavioral Finance"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch3",
+        "target": "value-investing-and-behavioral-finance-ch6",
+        "concept": "Behavioral Finance"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch3",
+        "target": "value-investing-and-behavioral-finance-ch7",
+        "concept": "Behavioral Finance"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch3",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "Behavioral Finance"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch3",
+        "target": "value-investing-and-behavioral-finance-ch9",
+        "concept": "Behavioral Finance"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch3",
+        "target": "value-investing-and-behavioral-finance-ch10",
+        "concept": "Behavioral Finance"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch4",
+        "target": "value-investing-and-behavioral-finance-ch5",
+        "concept": "Behavioral Finance"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch4",
+        "target": "value-investing-and-behavioral-finance-ch6",
+        "concept": "Behavioral Finance"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch4",
+        "target": "value-investing-and-behavioral-finance-ch7",
+        "concept": "Behavioral Finance"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch4",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "Behavioral Finance"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch4",
+        "target": "value-investing-and-behavioral-finance-ch9",
+        "concept": "Behavioral Finance"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch4",
+        "target": "value-investing-and-behavioral-finance-ch10",
+        "concept": "Behavioral Finance"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch5",
+        "target": "value-investing-and-behavioral-finance-ch6",
+        "concept": "Behavioral Finance"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch5",
+        "target": "value-investing-and-behavioral-finance-ch7",
+        "concept": "Behavioral Finance"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch5",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "Behavioral Finance"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch5",
+        "target": "value-investing-and-behavioral-finance-ch9",
+        "concept": "Behavioral Finance"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch5",
+        "target": "value-investing-and-behavioral-finance-ch10",
+        "concept": "Behavioral Finance"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch6",
+        "target": "value-investing-and-behavioral-finance-ch7",
+        "concept": "Behavioral Finance"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch6",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "Behavioral Finance"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch6",
+        "target": "value-investing-and-behavioral-finance-ch9",
+        "concept": "Behavioral Finance"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch6",
+        "target": "value-investing-and-behavioral-finance-ch10",
+        "concept": "Behavioral Finance"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch7",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "Behavioral Finance"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch7",
+        "target": "value-investing-and-behavioral-finance-ch9",
+        "concept": "Behavioral Finance"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch7",
+        "target": "value-investing-and-behavioral-finance-ch10",
+        "concept": "Behavioral Finance"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch8",
+        "target": "value-investing-and-behavioral-finance-ch9",
+        "concept": "Behavioral Finance"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch8",
+        "target": "value-investing-and-behavioral-finance-ch10",
+        "concept": "Behavioral Finance"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch9",
+        "target": "value-investing-and-behavioral-finance-ch10",
+        "concept": "Behavioral Finance"
+      },
+      {
+        "source": "the-intelligent-investor-ch7",
+        "target": "the-intelligent-investor-ch18",
+        "concept": "Investor Psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch8",
+        "target": "the-intelligent-investor-ch10",
+        "concept": "Market Psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch8",
+        "target": "the-intelligent-investor-ch11",
+        "concept": "Market Psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch8",
+        "target": "the-intelligent-investor-ch15",
+        "concept": "Market Psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch8",
+        "target": "the-intelligent-investor-ch17",
+        "concept": "Market Psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch8",
+        "target": "the-intelligent-investor-ch20",
+        "concept": "Market Psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch8",
+        "target": "value-investing-and-behavioral-finance-ch3",
+        "concept": "Market Psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch8",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "Market Psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch8",
+        "target": "value-investing-and-behavioral-finance-ch9",
+        "concept": "Market Psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch8",
+        "target": "value-investing-and-behavioral-finance-ch10",
+        "concept": "Market Psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch10",
+        "target": "the-intelligent-investor-ch11",
+        "concept": "Market Psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch10",
+        "target": "the-intelligent-investor-ch15",
+        "concept": "Market Psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch10",
+        "target": "the-intelligent-investor-ch17",
+        "concept": "Market Psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch10",
+        "target": "the-intelligent-investor-ch20",
+        "concept": "Market Psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch10",
+        "target": "value-investing-and-behavioral-finance-ch3",
+        "concept": "Market Psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch10",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "Market Psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch10",
+        "target": "value-investing-and-behavioral-finance-ch9",
+        "concept": "Market Psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch10",
+        "target": "value-investing-and-behavioral-finance-ch10",
+        "concept": "Market Psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch11",
+        "target": "the-intelligent-investor-ch15",
+        "concept": "Market Psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch11",
+        "target": "the-intelligent-investor-ch17",
+        "concept": "Market Psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch11",
+        "target": "the-intelligent-investor-ch20",
+        "concept": "Market Psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch11",
+        "target": "value-investing-and-behavioral-finance-ch3",
+        "concept": "Market Psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch11",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "Market Psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch11",
+        "target": "value-investing-and-behavioral-finance-ch9",
+        "concept": "Market Psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch11",
+        "target": "value-investing-and-behavioral-finance-ch10",
+        "concept": "Market Psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch15",
+        "target": "the-intelligent-investor-ch17",
+        "concept": "Market Psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch15",
+        "target": "the-intelligent-investor-ch20",
+        "concept": "Market Psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch15",
+        "target": "value-investing-and-behavioral-finance-ch3",
+        "concept": "Market Psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch15",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "Market Psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch15",
+        "target": "value-investing-and-behavioral-finance-ch9",
+        "concept": "Market Psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch15",
+        "target": "value-investing-and-behavioral-finance-ch10",
+        "concept": "Market Psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch17",
+        "target": "the-intelligent-investor-ch20",
+        "concept": "Market Psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch17",
+        "target": "value-investing-and-behavioral-finance-ch3",
+        "concept": "Market Psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch17",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "Market Psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch17",
+        "target": "value-investing-and-behavioral-finance-ch9",
+        "concept": "Market Psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch17",
+        "target": "value-investing-and-behavioral-finance-ch10",
+        "concept": "Market Psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch20",
+        "target": "value-investing-and-behavioral-finance-ch3",
+        "concept": "Market Psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch20",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "Market Psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch20",
+        "target": "value-investing-and-behavioral-finance-ch9",
+        "concept": "Market Psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch20",
+        "target": "value-investing-and-behavioral-finance-ch10",
+        "concept": "Market Psychology"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch3",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "Market Psychology"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch3",
+        "target": "value-investing-and-behavioral-finance-ch9",
+        "concept": "Market Psychology"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch3",
+        "target": "value-investing-and-behavioral-finance-ch10",
+        "concept": "Market Psychology"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch8",
+        "target": "value-investing-and-behavioral-finance-ch9",
+        "concept": "Market Psychology"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch8",
+        "target": "value-investing-and-behavioral-finance-ch10",
+        "concept": "Market Psychology"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch9",
+        "target": "value-investing-and-behavioral-finance-ch10",
+        "concept": "Market Psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch11",
+        "target": "the-intelligent-investor-ch15",
+        "concept": "Fundamental Analysis"
+      },
+      {
+        "source": "the-intelligent-investor-ch11",
+        "target": "value-investing-and-behavioral-finance-ch4",
+        "concept": "Fundamental Analysis"
+      },
+      {
+        "source": "the-intelligent-investor-ch15",
+        "target": "value-investing-and-behavioral-finance-ch4",
+        "concept": "Fundamental Analysis"
+      },
+      {
+        "source": "the-intelligent-investor-ch11",
+        "target": "the-intelligent-investor-ch18",
+        "concept": "Long-term Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch11",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "Long-term Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch18",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "Long-term Investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch12",
+        "target": "the-intelligent-investor-ch13",
+        "concept": "Financial Analysis"
+      },
+      {
+        "source": "the-intelligent-investor-ch12",
+        "target": "the-intelligent-investor-ch20",
+        "concept": "Long-term Investment Strategy"
+      },
+      {
+        "source": "the-intelligent-investor-ch17",
+        "target": "value-investing-and-behavioral-finance-ch3",
+        "concept": "Investment Analysis"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch4",
+        "target": "value-investing-and-behavioral-finance-ch10",
+        "concept": "Psychological Biases"
       }
     ]
   }

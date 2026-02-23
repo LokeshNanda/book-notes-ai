@@ -50,6 +50,16 @@
   --duration-slow: 400ms;
 }
 
+@media (prefers-reduced-motion: reduce) {
+  :root {
+    --duration-fast: 0ms;
+    --duration-normal: 0ms;
+    --duration-slow: 0ms;
+    --ease-spring: linear;
+    --ease-smooth: linear;
+  }
+}
+
 *,
 *::before,
 *::after {
@@ -93,6 +103,33 @@ body {
   padding: 0 1.5rem;
   background: var(--bg-secondary);
   border-bottom: 1px solid var(--border);
+}
+
+.header-icon-btn {
+  display: none;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  padding: 0;
+  font-size: 1.25rem;
+  color: var(--text-secondary);
+  background: transparent;
+  border: none;
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  transition: color var(--duration-fast), background var(--duration-fast);
+}
+
+.header-icon-btn:hover {
+  color: var(--text-primary);
+  background: var(--bg-elevated);
+}
+
+@media (max-width: 768px) {
+  .header-icon-btn {
+    display: flex;
+  }
 }
 
 .logo {
@@ -252,6 +289,70 @@ body {
   border-left-color: attr(data-color color);
 }
 
+.book-card-header {
+  cursor: pointer;
+  outline: none;
+}
+
+.book-card-header:focus-visible {
+  outline: 2px solid var(--accent-warm);
+  outline-offset: 2px;
+}
+
+.book-card-title-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.5rem;
+}
+
+.book-expand-icon {
+  flex-shrink: 0;
+  font-size: 0.75rem;
+  color: var(--text-dim);
+  transition: transform var(--duration-fast);
+}
+
+.book-card.expanded .book-expand-icon {
+  transform: rotate(90deg);
+}
+
+.book-info {
+  flex: 1;
+  min-width: 0;
+}
+
+.book-chapters {
+  margin-top: 0.5rem;
+  padding-left: 1.25rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.book-chapters.hidden {
+  display: none;
+}
+
+.chapter-item {
+  display: block;
+  width: 100%;
+  padding: 0.375rem 0.5rem;
+  font-family: var(--font-body);
+  font-size: 0.8125rem;
+  color: var(--text-secondary);
+  background: transparent;
+  border: none;
+  border-radius: var(--radius-sm);
+  text-align: left;
+  cursor: pointer;
+  transition: background var(--duration-fast), color var(--duration-fast);
+}
+
+.chapter-item:hover {
+  background: var(--bg-elevated);
+  color: var(--text-primary);
+}
+
 .book-title {
   font-family: var(--font-display);
   font-size: 1rem;
@@ -292,6 +393,17 @@ body {
   border: 1px solid var(--border-accent);
   border-radius: 4px;
   color: var(--text-secondary);
+}
+
+.book-tag.concept-chip {
+  cursor: pointer;
+  transition: background var(--duration-fast), border-color var(--duration-fast), color var(--duration-fast);
+}
+
+.book-tag.concept-chip:hover {
+  background: var(--accent-warm-glow);
+  border-color: var(--accent-warm);
+  color: var(--accent-warm);
 }
 
 /* Mindmap canvas */
@@ -365,6 +477,54 @@ body {
 
 .notes-breadcrumb .book-title {
   font-style: italic;
+}
+
+.notes-breadcrumb .book-title-link {
+  cursor: pointer;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  transition: color var(--duration-fast);
+}
+
+.notes-breadcrumb .book-title-link:hover {
+  color: var(--accent-warm);
+}
+
+.chapter-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 1rem;
+  padding: 0.5rem 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.chapter-nav-btn {
+  padding: 0.375rem 0.75rem;
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  color: var(--text-secondary);
+  background: var(--bg-elevated);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  transition: border-color var(--duration-fast), color var(--duration-fast);
+}
+
+.chapter-nav-btn:hover {
+  color: var(--accent-warm);
+  border-color: var(--border-accent);
+}
+
+.chapter-nav-indicator {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  color: var(--text-dim);
+}
+
+.chapter-nav-placeholder {
+  min-width: 4rem;
 }
 
 .notes-chapter-title {
@@ -539,7 +699,23 @@ body {
   }
 }
 
+.sidebar-overlay {
+  display: none;
+  position: fixed;
+  inset: 0;
+  top: var(--header-height);
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 35;
+  opacity: 0;
+  transition: opacity var(--duration-normal) var(--ease-smooth);
+}
+
 @media (max-width: 768px) {
+  .sidebar-overlay.visible {
+    display: block;
+    opacity: 1;
+  }
+
   .sidebar {
     position: absolute;
     left: 0;
