@@ -3,8 +3,8 @@
  * Fetches graph data, orchestrates sidebar, mindmap, search, and notes panel.
  */
 
-const API_GRAPH = "/public/graph-data.json";
-const FALLBACK_GRAPH = "/public/graph-data.json";
+const API_GRAPH = "public/graph-data.json";
+const FALLBACK_GRAPH = "public/graph-data.json";
 
 let graphData = null;
 let onChapterSelect = null;
