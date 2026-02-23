@@ -1,5 +1,5 @@
 {
-  "generated": "2026-02-23T10:17:04.898078+00:00",
+  "generated": "2026-02-23T10:27:18.357355+00:00",
   "stats": {
     "totalBooks": 4,
     "totalChapters": 41,
@@ -75,10 +75,13 @@
       "title": "The Almanack of Naval Ravikant",
       "author": "Eric Jorgenson",
       "cover": "https://covers.openlibrary.org/b/id/10449931-M.jpg",
-      "color": "#8B949E",
-      "rating": null,
+      "color": "#DD4124",
+      "rating": 5,
       "status": "reading",
-      "tags": [],
+      "tags": [
+        "finance",
+        "life-advice"
+      ],
       "dateFinished": "",
       "totalChapters": 10,
       "chapters": [
@@ -465,10 +468,13 @@
       "title": "The Intelligent Investor",
       "author": "Benjamin Graham",
       "cover": "https://covers.openlibrary.org/b/id/36434-M.jpg",
-      "color": "#8B949E",
-      "rating": null,
+      "color": "#55B4B0",
+      "rating": 5,
       "status": "reading",
-      "tags": [],
+      "tags": [
+        "finance",
+        "investment"
+      ],
       "dateFinished": "",
       "totalChapters": 20,
       "chapters": [
@@ -1278,10 +1284,13 @@
       "title": "Value Investing and Behavioral Finance",
       "author": "Mr. Parag Parikh",
       "cover": "https://covers.openlibrary.org/b/id/11107314-M.jpg",
-      "color": "#8B949E",
-      "rating": null,
+      "color": "#6B5B95",
+      "rating": 5,
       "status": "reading",
-      "tags": [],
+      "tags": [
+        "finance",
+        "investment"
+      ],
       "dateFinished": "",
       "totalChapters": 10,
       "chapters": [
