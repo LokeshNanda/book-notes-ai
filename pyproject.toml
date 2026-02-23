@@ -21,3 +21,6 @@ dependencies = [
 
 [project.scripts]
 readbrain = "app.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["app*"]
