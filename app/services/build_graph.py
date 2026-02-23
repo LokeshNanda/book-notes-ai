@@ -1,5 +1,6 @@
 """Build graph-data.json from /books. Walks markdown notes, merges enrichment, outputs graph."""
 import json
+import re
 import yaml
 import frontmatter
 from pathlib import Path
@@ -8,6 +9,12 @@ from datetime import datetime, timezone
 PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent
 BOOKS_DIR = PROJECT_ROOT / "books"
 OUTPUT_FILE = PROJECT_ROOT / "site" / "public" / "graph-data.json"
+
+
+def _chapter_sort_key(md_file: Path) -> tuple:
+    """Sort key: numeric chapter number from filename (ch1, ch2, ch10, ...)."""
+    m = re.match(r"ch(\d+)", md_file.name, re.I)
+    return (int(m.group(1)),) if m else (9999,)
 
 
 def _build_concept_graph(concept_index: dict) -> dict:
@@ -47,7 +54,8 @@ async def build_graph() -> dict:
         book_id = book_dir.name
         chapters = []
 
-        for md_file in sorted(book_dir.glob("ch*.md")):
+        md_files = sorted(book_dir.glob("ch*.md"), key=_chapter_sort_key)
+        for md_file in md_files:
             post = frontmatter.load(md_file)
             enriched = {}
             enriched_file = md_file.parent / f"{md_file.stem}_enriched.json"
