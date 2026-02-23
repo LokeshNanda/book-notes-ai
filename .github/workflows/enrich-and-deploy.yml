@@ -41,7 +41,7 @@ jobs:
       - name: Prepare static site for GitHub Pages
         run: |
           cp -r site/src site/static
-          sed -i 's|/api/graph|/public/graph-data.json|g' site/static/main.js
+          sed -i 's|/api/graph|public/graph-data.json|g' site/static/main.js
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3

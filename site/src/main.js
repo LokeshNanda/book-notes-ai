@@ -4,7 +4,7 @@
  */
 
 const API_GRAPH = "/api/graph";
-const FALLBACK_GRAPH = "/public/graph-data.json";
+const FALLBACK_GRAPH = "public/graph-data.json";
 
 let graphData = null;
 let onChapterSelect = null;
