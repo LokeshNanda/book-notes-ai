@@ -1,0 +1,59 @@
+{
+  "generated": "2026-02-23T07:39:10.465741+00:00",
+  "stats": {
+    "totalBooks": 1,
+    "totalChapters": 1,
+    "totalConcepts": 3,
+    "enrichedChapters": 0
+  },
+  "books": [
+    {
+      "id": "example",
+      "title": "Example Book",
+      "author": "Jane Doe",
+      "cover": "",
+      "color": "#E76F51",
+      "rating": 5,
+      "status": "reading",
+      "tags": [
+        "example",
+        "habits",
+        "psychology"
+      ],
+      "dateFinished": "",
+      "totalChapters": 3,
+      "chapters": [
+        {
+          "id": "example-ch1",
+          "bookId": "example",
+          "chapter": 1,
+          "title": "The Power of Small Changes",
+          "dateNoted": "2024-01-15",
+          "keyThemes": [
+            "compounding",
+            "systems",
+            "identity"
+          ],
+          "rating": 5,
+          "isEnriched": false,
+          "summary": null,
+          "keyInsights": [],
+          "quotableIdeas": [],
+          "concepts": [
+            "compounding",
+            "systems",
+            "identity"
+          ],
+          "actionableItems": [],
+          "connectedIdeas": [],
+          "emotionalResonance": null,
+          "rawNotes": "# Raw notes from Chapter 1\n\nThe key idea: **1% better every day** compounds to 37x improvement over a year.\n\n- Habits are the compound interest of self-improvement\n- Identity-based habits > outcome-based habits\n- Focus on who you wish to become, not what you want to achieve\n- Small wins build momentum\n\nSystems beat goals. A goal is a direction; a system is the vehicle."
+        }
+      ]
+    }
+  ],
+  "conceptGraph": {
+    "nodes": [],
+    "edges": []
+  }
+}

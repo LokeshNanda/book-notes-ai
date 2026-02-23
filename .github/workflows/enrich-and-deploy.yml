@@ -1,0 +1,50 @@
+name: Enrich & Deploy
+on:
+  push:
+    paths: ["books/**"]
+  workflow_dispatch:
+
+jobs:
+  enrich-build-deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - run: pip install -r requirements.txt
+
+      - name: Enrich new chapters
+        run: python scripts/enrich.py
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+
+      - name: Build graph data
+        run: python scripts/build_graph.py
+
+      - name: Commit enriched files
+        run: |
+          git config user.email "readbrain-bot@github.com"
+          git config user.name "ReadBrain Bot"
+          git add "books/**/*_enriched.json" "site/public/graph-data.json"
+          git diff --staged --quiet || git commit -m "🤖 AI enrichment [skip ci]"
+          git push
+
+      - name: Prepare static site for GitHub Pages
+        run: |
+          cp -r site/src site/static
+          sed -i 's|/api/graph|/public/graph-data.json|g' site/static/main.js
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./site

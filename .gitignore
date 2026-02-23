@@ -1,0 +1,10 @@
+.venv/
+venv/
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.DS_Store
+.cursor/
+CURSOR_PROMPT.md
