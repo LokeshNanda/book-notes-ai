@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ReadBrain</title>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=DM+Sans:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/9.1.6/marked.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/7.0.0/fuse.min.js"></script>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <div class="grain-overlay"></div>
+  <div class="app-layout">
+    <header class="app-header">
+      <div class="logo">
+        <span class="logo-icon">✦</span>
+        <span class="logo-text">ReadBrain</span>
+      </div>
+      <div class="search-wrapper">
+        <input type="text" id="searchInput" placeholder="Search books, concepts, ideas..." />
+        <div id="searchResults" class="search-dropdown hidden"></div>
+      </div>
+      <div class="header-actions">
+        <button type="button" id="conceptsToggle" class="header-btn" title="Toggle concept view">Concepts</button>
+        <span class="header-stats" id="headerStats"></span>
+      </div>
+    </header>
+    <aside class="sidebar" id="sidebar">
+      <div class="sidebar-header">Library</div>
+      <div class="book-list" id="bookList"></div>
+    </aside>
+    <main class="mindmap-canvas" id="mindmapCanvas">
+      <svg id="mindmapSvg"></svg>
+    </main>
+    <aside class="notes-panel" id="notesPanel">
+      <button class="panel-close" id="panelClose">✕</button>
+      <div class="notes-content" id="notesContent"></div>
+    </aside>
+  </div>
+  <script type="module" src="/static/main.js"></script>
+</body>
+</html>
