@@ -54,6 +54,7 @@ bash scripts/bootstrap.sh
 |---------|-------------|
 | `readbrain enrich` | Enrich un-enriched chapters with AI |
 | `readbrain enrich --force` | Re-enrich all chapters |
+| `readbrain enrich --chapter atomic-habits-ch1` | Enrich only one chapter |
 | `readbrain build` | Build graph-data.json from books |
 | `readbrain serve` | Start web server (default port 8000) |
 | `readbrain serve -p 3000` | Start server on custom port |

@@ -19,12 +19,15 @@ def _load_dotenv():
         pass
 
 
-async def cmd_enrich(force: bool) -> int:
+async def cmd_enrich(force: bool, chapter: str | None) -> int:
     from app.services.enrich import enrich_new_chapters
 
     _load_dotenv()
-    print("🤖 Enriching chapters..." + (" (force re-enrich)" if force else ""))
-    results = await enrich_new_chapters(force=force)
+    if chapter:
+        print(f"🤖 Enriching chapter: {chapter}")
+    else:
+        print("🤖 Enriching chapters..." + (" (force re-enrich)" if force else ""))
+    results = await enrich_new_chapters(force=force, chapter_id=chapter)
     print(f"✅ Enriched: {results['enriched']} | Skipped: {results['skipped']} | Failed: {results['failed']}")
     print(f"   Estimated cost: ${results['cost_estimate']:.4f}")
     return 0 if results["failed"] == 0 else 1
@@ -84,7 +87,8 @@ def main() -> int:
     # enrich
     p_enrich = subparsers.add_parser("enrich", help="Enrich chapter notes with AI")
     p_enrich.add_argument("--force", action="store_true", help="Re-enrich all chapters")
-    p_enrich.set_defaults(func=lambda ns: asyncio.run(cmd_enrich(ns.force)))
+    p_enrich.add_argument("--chapter", metavar="ID", help="Enrich only this chapter (e.g. atomic-habits-ch1)")
+    p_enrich.set_defaults(func=lambda ns: asyncio.run(cmd_enrich(ns.force, ns.chapter)))
 
     # build
     p_build = subparsers.add_parser("build", help="Build graph-data.json from books")

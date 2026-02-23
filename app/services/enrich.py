@@ -60,7 +60,25 @@ Extract as JSON:
     return result
 
 
-async def enrich_new_chapters(force: bool = False) -> dict:
+def _resolve_chapter_file(chapter_id: str) -> Path | None:
+    """Resolve chapter_id (e.g. 'atomic-habits-ch1') to the corresponding .md file."""
+    m = re.match(r"^(.+)-ch(\d+)$", chapter_id, re.I)
+    if not m:
+        return None
+    book_id, ch_num = m.group(1), int(m.group(2))
+    book_dir = BOOKS_DIR / book_id
+    if not book_dir.is_dir():
+        return None
+    # Find ch{N}-*.md
+    candidates = list(book_dir.glob(f"ch{ch_num}-*.md"))
+    if len(candidates) == 1:
+        return candidates[0]
+    if len(candidates) > 1:
+        return sorted(candidates, key=_chapter_sort_key)[0]
+    return None
+
+
+async def enrich_new_chapters(force: bool = False, chapter_id: str | None = None) -> dict:
     results = {"enriched": 0, "skipped": 0, "failed": 0, "cost_estimate": 0.0}
 
     api_key = os.getenv("OPENAI_API_KEY")
@@ -70,49 +88,59 @@ async def enrich_new_chapters(force: bool = False) -> dict:
 
     client = AsyncOpenAI(api_key=api_key)
 
-    for book_dir in sorted(BOOKS_DIR.iterdir()):
-        if not book_dir.is_dir() or book_dir.name.startswith("_"):
-            continue
-        meta_file = book_dir / "meta.yaml"
-        if not meta_file.exists():
-            continue
+    items_to_process: list[tuple[Path, dict]] = []
 
-        with open(meta_file) as f:
+    if chapter_id:
+        md_file = _resolve_chapter_file(chapter_id)
+        if not md_file:
+            print(f"⚠️  Chapter not found: {chapter_id}")
+            return results
+        book_dir = md_file.parent
+        with open(book_dir / "meta.yaml") as f:
             meta = yaml.safe_load(f) or {}
-
-        md_files = list(book_dir.glob("ch*.md"))
-        md_files.sort(key=_chapter_sort_key)
-
-        for md_file in md_files:
-            enriched_file = md_file.parent / f"{md_file.stem}_enriched.json"
-            if enriched_file.exists() and not force:
-                results["skipped"] += 1
+        items_to_process = [(md_file, meta)]
+    else:
+        for book_dir in sorted(BOOKS_DIR.iterdir()):
+            if not book_dir.is_dir() or book_dir.name.startswith("_"):
                 continue
+            meta_file = book_dir / "meta.yaml"
+            if not meta_file.exists():
+                continue
+            with open(meta_file) as f:
+                meta = yaml.safe_load(f) or {}
+            for md_file in sorted(book_dir.glob("ch*.md"), key=_chapter_sort_key):
+                enriched_file = md_file.parent / f"{md_file.stem}_enriched.json"
+                if enriched_file.exists() and not force:
+                    results["skipped"] += 1
+                    continue
+                items_to_process.append((md_file, meta))
 
-            try:
-                post = frontmatter.load(md_file)
-                content = post.content.strip()
-                if not content:
-                    content = f"[No notes yet. Chapter: {post.metadata.get('title', md_file.stem)}]"
+    for md_file, meta in items_to_process:
+        enriched_file = md_file.parent / f"{md_file.stem}_enriched.json"
+        try:
+            post = frontmatter.load(md_file)
+            content = post.content.strip()
+            if not content:
+                content = f"[No notes yet. Chapter: {post.metadata.get('title', md_file.stem)}]"
 
-                enriched = await _call_openai(
-                    client=client,
-                    title=meta.get("title", book_dir.name),
-                    author=meta.get("author", "Unknown"),
-                    chapter_num=post.metadata.get("chapter", "?"),
-                    chapter_title=post.metadata.get("title", md_file.stem),
-                    content=content,
-                )
+            enriched = await _call_openai(
+                client=client,
+                title=meta.get("title", md_file.parent.name),
+                author=meta.get("author", "Unknown"),
+                chapter_num=post.metadata.get("chapter", "?"),
+                chapter_title=post.metadata.get("title", md_file.stem),
+                content=content,
+            )
 
-                with open(enriched_file, "w") as f:
-                    json.dump(enriched, f, indent=2)
+            with open(enriched_file, "w") as f:
+                json.dump(enriched, f, indent=2)
 
-                results["enriched"] += 1
-                results["cost_estimate"] += 0.002
-                print(f"  ✅ Enriched: {book_dir.name}/{md_file.name}")
+            results["enriched"] += 1
+            results["cost_estimate"] += 0.002
+            print(f"  ✅ Enriched: {md_file.parent.name}/{md_file.name}")
 
-            except Exception as e:
-                print(f"  ⚠️  Failed {md_file.name}: {e}")
-                results["failed"] += 1
+        except Exception as e:
+            print(f"  ⚠️  Failed {md_file.name}: {e}")
+            results["failed"] += 1
 
     return results

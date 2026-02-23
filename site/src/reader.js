@@ -82,9 +82,10 @@ export function renderChapter(chapterId, graphData, callbacks = {}) {
         <div class="book-tags">${tags.map((t) => {
           const isConcept = conceptIds.has(normalizeConceptForId(t));
           const clickable = isConcept && onConceptFilter;
+          const displayLabel = formatConceptForDisplay(t);
           return clickable
-            ? `<span class="book-tag concept-chip" data-concept="${escapeHtml(t)}" title="Filter by concept">${escapeHtml(t)}</span>`
-            : `<span class="book-tag">${escapeHtml(t)}</span>`;
+            ? `<span class="book-tag concept-chip" data-concept="${escapeHtml(t)}" title="Filter by concept">${escapeHtml(displayLabel)}</span>`
+            : `<span class="book-tag">${escapeHtml(displayLabel)}</span>`;
         }).join("")}</div>
       </div>
     `;
@@ -130,6 +131,11 @@ export function renderChapter(chapterId, graphData, callbacks = {}) {
 
 function normalizeConceptForId(concept) {
   return String(concept || "").toLowerCase().replace(/\s+/g, "-").trim();
+}
+
+function formatConceptForDisplay(concept) {
+  if (!concept) return "";
+  return String(concept).replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase());
 }
 
 function findChapter(chapterId, graphData) {

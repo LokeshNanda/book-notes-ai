@@ -17,6 +17,13 @@ def _chapter_sort_key(md_file: Path) -> tuple:
     return (int(m.group(1)),) if m else (9999,)
 
 
+def _normalize_concept(s: str) -> str:
+    """Normalize concept for deduplication: lowercase, collapse spaces to hyphens. Matches frontend."""
+    if not s or not isinstance(s, str):
+        return ""
+    return re.sub(r"\s+", "-", s.lower().strip()).strip("-") or ""
+
+
 def _build_concept_graph(concept_index: dict) -> dict:
     nodes, edges = [], []
     for concept, chapter_ids in concept_index.items():
@@ -65,9 +72,13 @@ async def build_graph() -> dict:
 
             chapter_num = post.metadata.get("chapter", 0)
             chapter_id = f"{book_id}-ch{chapter_num}"
-            concepts = enriched.get("concepts", post.metadata.get("keyThemes", []))
+            raw_concepts = enriched.get("concepts", post.metadata.get("keyThemes", []))
+            concepts_normalized = [
+                c for c in (_normalize_concept(x) for x in raw_concepts if x)
+            ]
+            concepts_deduped = list(dict.fromkeys(c for c in concepts_normalized if c))
 
-            for concept in concepts:
+            for concept in concepts_deduped:
                 concept_index.setdefault(concept, []).append(chapter_id)
 
             chapters.append({
@@ -82,7 +93,7 @@ async def build_graph() -> dict:
                 "summary": enriched.get("summary"),
                 "keyInsights": enriched.get("keyInsights", []),
                 "quotableIdeas": enriched.get("quotableIdeas", []),
-                "concepts": concepts,
+                "concepts": concepts_deduped,
                 "actionableItems": enriched.get("actionableItems", []),
                 "connectedIdeas": enriched.get("connectedIdeas", []),
                 "emotionalResonance": enriched.get("emotionalResonance"),
