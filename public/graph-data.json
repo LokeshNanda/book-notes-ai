@@ -1,9 +1,9 @@
 {
-  "generated": "2026-02-23T09:42:22.220907+00:00",
+  "generated": "2026-02-23T10:17:04.898078+00:00",
   "stats": {
     "totalBooks": 4,
     "totalChapters": 41,
-    "totalConcepts": 91,
+    "totalConcepts": 81,
     "enrichedChapters": 41
   },
   "books": [
@@ -49,11 +49,11 @@
             "Systems beat goals; a goal is a direction, a system is the vehicle."
           ],
           "concepts": [
-            "Habit Formation",
-            "Self-Improvement",
-            "Identity Change",
-            "Momentum",
-            "Systems Thinking"
+            "habit-formation",
+            "self-improvement",
+            "identity-change",
+            "momentum",
+            "systems-thinking"
           ],
           "actionableItems": [
             "Identify one small habit to improve by 1% each day.",
@@ -102,10 +102,10 @@
             "Happiness is a state of mind that can be cultivated."
           ],
           "concepts": [
-            "Wealth",
-            "Happiness",
-            "Personal Growth",
-            "Self-Reflection"
+            "wealth",
+            "happiness",
+            "personal-growth",
+            "self-reflection"
           ],
           "actionableItems": [
             "Take time to write down your definitions of wealth and happiness.",
@@ -140,10 +140,10 @@
             "Wealth creation is about leveraging what makes you unique."
           ],
           "concepts": [
-            "Specific Knowledge",
-            "Wealth Creation",
-            "Personal Development",
-            "Unique Skills"
+            "specific-knowledge",
+            "wealth-creation",
+            "personal-development",
+            "unique-skills"
           ],
           "actionableItems": [
             "Reflect on your unique skills and experiences.",
@@ -178,9 +178,9 @@
             "Our decisions are shaped by the responsibilities we choose to embrace."
           ],
           "concepts": [
-            "Personal Responsibility",
-            "Self-Accountability",
-            "Decision Making"
+            "personal-responsibility",
+            "self-accountability",
+            "decision-making"
           ],
           "actionableItems": [
             "Reflect on a recent decision and identify the role of accountability in it.",
@@ -213,9 +213,9 @@
             "Evaluate your approach to learning; what methods have been most effective for you?"
           ],
           "concepts": [
-            "Learning Strategies",
-            "Self-Reflection",
-            "Decision Making"
+            "learning-strategies",
+            "self-reflection",
+            "decision-making"
           ],
           "actionableItems": [
             "Reflect on past learning experiences to identify successful methods.",
@@ -250,9 +250,9 @@
             "Specific knowledge is the foundation of true expertise."
           ],
           "concepts": [
-            "Leverage",
-            "Specific Knowledge",
-            "Personal Development"
+            "leverage",
+            "specific-knowledge",
+            "personal-development"
           ],
           "actionableItems": [
             "Reflect on your unique skills and how they can be applied in your work.",
@@ -288,10 +288,10 @@
             "Reflect on where you want to be in the future to guide your present actions."
           ],
           "concepts": [
-            "Long-term thinking",
-            "Goal setting",
-            "Decision making",
-            "Personal development"
+            "long-term-thinking",
+            "goal-setting",
+            "decision-making",
+            "personal-development"
           ],
           "actionableItems": [
             "Write down your long-term goals and review them regularly.",
@@ -329,11 +329,11 @@
             "The best investments are in people."
           ],
           "concepts": [
-            "Relationship building",
-            "Long-term thinking",
-            "Personal development",
-            "Happiness",
-            "Success"
+            "relationship-building",
+            "long-term-thinking",
+            "personal-development",
+            "happiness",
+            "success"
           ],
           "actionableItems": [
             "Reflect on your current relationships and their impact on your life.",
@@ -368,9 +368,9 @@
             "Prioritize practices that enhance your well-being."
           ],
           "concepts": [
-            "Wellness",
-            "Self-care",
-            "Mindfulness"
+            "wellness",
+            "self-care",
+            "mindfulness"
           ],
           "actionableItems": [
             "Create a daily routine that includes physical activity.",
@@ -405,9 +405,9 @@
             "Work and play are not mutually exclusive; they can enhance each other."
           ],
           "concepts": [
-            "Work-life balance",
-            "Personal fulfillment",
-            "Self-reflection"
+            "work-life-balance",
+            "personal-fulfillment",
+            "self-reflection"
           ],
           "actionableItems": [
             "Set aside time each week for leisure activities.",
@@ -442,9 +442,9 @@
             "Define your own path to achieve freedom."
           ],
           "concepts": [
-            "Personal Freedom",
-            "Self-Reflection",
-            "Life Design"
+            "personal-freedom",
+            "self-reflection",
+            "life-design"
           ],
           "actionableItems": [
             "Take time to write down what freedom means to you.",
@@ -492,9 +492,9 @@
             "Speculation is the act of buying and selling based on market fluctuations rather than intrinsic value."
           ],
           "concepts": [
-            "Investment strategy",
-            "Risk management",
-            "Financial goals"
+            "investment-strategy",
+            "risk-management",
+            "financial-goals"
           ],
           "actionableItems": [
             "Reflect on your own financial goals and how they align with your investment strategy.",
@@ -528,10 +528,10 @@
             "A sound investment strategy is a buffer against the unpredictability of inflation."
           ],
           "concepts": [
-            "Long-term investing",
-            "Market volatility",
-            "Inflation risk",
-            "Investment strategy"
+            "long-term-investing",
+            "market-volatility",
+            "inflation-risk",
+            "investment-strategy"
           ],
           "actionableItems": [
             "Develop a long-term investment plan that accounts for inflation.",
@@ -565,9 +565,9 @@
             "Your investment style should align with your personal financial goals."
           ],
           "concepts": [
-            "Investor Types",
-            "Risk Tolerance",
-            "Investment Strategies"
+            "investor-types",
+            "risk-tolerance",
+            "investment-strategies"
           ],
           "actionableItems": [
             "Assess your own risk tolerance.",
@@ -603,11 +603,11 @@
             "The essence of investment is the ability to assess value accurately."
           ],
           "concepts": [
-            "Value Investing",
-            "Intrinsic Value",
-            "Defensive Investing",
-            "Portfolio Diversification",
-            "Long-term Strategy"
+            "value-investing",
+            "intrinsic-value",
+            "defensive-investing",
+            "portfolio-diversification",
+            "long-term-strategy"
           ],
           "actionableItems": [
             "Conduct a thorough analysis of a company's financial statements before investing.",
@@ -645,10 +645,10 @@
             "The key to successful investing is not to predict the market, but to prepare for it."
           ],
           "concepts": [
-            "Market Volatility",
-            "Defensive Investing",
-            "Investment Psychology",
-            "Portfolio Diversification"
+            "market-volatility",
+            "defensive-investing",
+            "investment-psychology",
+            "portfolio-diversification"
           ],
           "actionableItems": [
             "Review and adjust your investment strategy to ensure it aligns with long-term goals.",
@@ -685,10 +685,10 @@
             "Protecting against loss is as important as seeking gains."
           ],
           "concepts": [
-            "Diversification",
-            "Risk Management",
-            "Investment Strategy",
-            "Portfolio Management"
+            "diversification",
+            "risk-management",
+            "investment-strategy",
+            "portfolio-management"
           ],
           "actionableItems": [
             "Assess the current level of diversification in your portfolio.",
@@ -723,9 +723,9 @@
             "Awareness of emotions can be a powerful tool in decision-making."
           ],
           "concepts": [
-            "Behavioral Finance",
-            "Investor Psychology",
-            "Emotional Intelligence in Investing"
+            "behavioral-finance",
+            "investor-psychology",
+            "emotional-intelligence-in-investing"
           ],
           "actionableItems": [
             "Reflect on personal emotional triggers when making investment decisions.",
@@ -758,9 +758,9 @@
             "The intelligent investor is one who understands the market's irrationality."
           ],
           "concepts": [
-            "Margin of Safety",
-            "Value Investing",
-            "Market Psychology"
+            "margin-of-safety",
+            "value-investing",
+            "market-psychology"
           ],
           "actionableItems": [
             "Calculate the intrinsic value of potential investments to determine an appropriate margin of safety.",
@@ -796,11 +796,11 @@
             "Knowledge of market trends is a vital tool for any investor."
           ],
           "concepts": [
-            "Market Analysis",
-            "Economic Indicators",
-            "Investment Strategy",
-            "Diversification",
-            "Fund Management"
+            "market-analysis",
+            "economic-indicators",
+            "investment-strategy",
+            "diversification",
+            "fund-management"
           ],
           "actionableItems": [
             "Regularly review economic news and reports to stay updated on market trends.",
@@ -825,36 +825,38 @@
           "keyThemes": [],
           "rating": null,
           "isEnriched": true,
-          "summary": "Chapter 10 emphasizes the importance of understanding historical stock market performance to inform future investment strategies. It encourages investors to learn from past trends and behaviors to make more informed decisions.",
+          "summary": "Chapter 10 emphasizes the importance of understanding historical stock market performance to inform future investment decisions. Investors can learn valuable lessons from past trends and behaviors to navigate the complexities of the market more effectively.",
           "keyInsights": [
-            "Historical performance can provide valuable lessons for future investing.",
-            "Investors should analyze past market trends to identify patterns.",
-            "Understanding market cycles can help in timing investments.",
-            "Advisers play a crucial role in guiding investors based on historical data.",
-            "Relying solely on past performance can be misleading; context matters."
+            "Historical performance provides context for current market conditions.",
+            "Investors should analyze past market cycles to anticipate future trends.",
+            "Lessons from history can help mitigate risks in investment strategies.",
+            "Understanding market psychology is crucial for long-term success.",
+            "Advisers play a key role in interpreting historical data for clients."
           ],
           "quotableIdeas": [
-            "History is a guide, not a guarantee.",
-            "Investing is as much about psychology as it is about numbers.",
-            "The market's past can illuminate the investor's path forward."
+            "History tends to repeat itself in the stock market.",
+            "Investing without understanding the past is like sailing without a compass.",
+            "The market's past is a guide, not a guarantee."
           ],
           "concepts": [
-            "Historical Analysis",
-            "Market Psychology",
-            "Investment Strategy",
-            "Advisory Relationships"
+            "market-cycles",
+            "investment-strategy",
+            "risk-management",
+            "behavioral-finance",
+            "historical-analysis"
           ],
           "actionableItems": [
-            "Review historical stock market data to identify trends.",
-            "Consult with financial advisers who understand historical contexts.",
-            "Develop a strategy that incorporates lessons from past market cycles."
+            "Review historical stock market performance data.",
+            "Identify patterns in past market cycles that may inform current strategies.",
+            "Consult with a financial adviser to interpret historical trends."
           ],
           "connectedIdeas": [
-            "Behavioral Finance",
-            "Market Efficiency",
-            "Risk Management"
+            "Behavioral economics",
+            "Market psychology",
+            "Investment philosophy",
+            "Risk assessment in finance"
           ],
-          "emotionalResonance": "This chapter matters because it empowers investors to make informed decisions by learning from the past, ultimately fostering a more resilient investment approach.",
+          "emotionalResonance": "This chapter matters because it empowers investors to learn from the past, fostering a more informed and resilient approach to their financial future.",
           "rawNotes": "Reflect on the historical performance of the stock market and what lessons can be learned for future investing."
         },
         {
@@ -879,11 +881,11 @@
             "The intelligent investor is a realist who sells to optimists and buys from pessimists."
           ],
           "concepts": [
-            "Fundamental Analysis",
-            "Intrinsic Value",
-            "Risk Management",
-            "Long-term Investing",
-            "Market Psychology"
+            "fundamental-analysis",
+            "intrinsic-value",
+            "risk-management",
+            "long-term-investing",
+            "market-psychology"
           ],
           "actionableItems": [
             "Conduct a thorough analysis of a company's financial statements before investing.",
@@ -922,11 +924,11 @@
             "Quality of earnings is as crucial as the earnings themselves."
           ],
           "concepts": [
-            "Earnings Quality",
-            "Financial Analysis",
-            "Value Investing",
-            "Accounting Practices",
-            "Long-term Investment Strategy"
+            "earnings-quality",
+            "financial-analysis",
+            "value-investing",
+            "accounting-practices",
+            "long-term-investment-strategy"
           ],
           "actionableItems": [
             "Analyze the earnings reports of companies with a critical eye on accounting methods used.",
@@ -961,10 +963,10 @@
             "Understanding a company's fundamentals is essential for long-term investment strategies."
           ],
           "concepts": [
-            "Value Investing",
-            "Financial Analysis",
-            "Diversification",
-            "Market Positioning"
+            "value-investing",
+            "financial-analysis",
+            "diversification",
+            "market-positioning"
           ],
           "actionableItems": [
             "Conduct a comparative analysis of at least four companies in a sector of interest.",
@@ -997,11 +999,11 @@
             "The defensive investor seeks to minimize losses rather than maximize gains."
           ],
           "concepts": [
-            "Defensive Investing",
-            "Value Investing",
-            "Risk Management",
-            "Dividend Stocks",
-            "Market Volatility"
+            "defensive-investing",
+            "value-investing",
+            "risk-management",
+            "dividend-stocks",
+            "market-volatility"
           ],
           "actionableItems": [
             "Create a checklist of financial metrics to evaluate potential stock investments.",
@@ -1037,10 +1039,10 @@
             "The intelligent investor is a realist who sells to optimists and buys from pessimists."
           ],
           "concepts": [
-            "Value Investing",
-            "Market Psychology",
-            "Risk Management",
-            "Fundamental Analysis"
+            "value-investing",
+            "market-psychology",
+            "risk-management",
+            "fundamental-analysis"
           ],
           "actionableItems": [
             "Conduct a thorough analysis of potential stocks before investing.",
@@ -1078,11 +1080,11 @@
             "Warrants are like options, providing leverage with the potential for high returns."
           ],
           "concepts": [
-            "Convertible Securities",
-            "Warrants",
-            "Investment Strategies",
-            "Risk Management",
-            "Portfolio Diversification"
+            "convertible-securities",
+            "warrants",
+            "investment-strategies",
+            "risk-management",
+            "portfolio-diversification"
           ],
           "actionableItems": [
             "Research and analyze the convertible bonds available in the market.",
@@ -1119,10 +1121,10 @@
             "The market is a voting machine in the short run and a weighing machine in the long run."
           ],
           "concepts": [
-            "Value Investing",
-            "Market Psychology",
-            "Risk Management",
-            "Investment Analysis"
+            "value-investing",
+            "market-psychology",
+            "risk-management",
+            "investment-analysis"
           ],
           "actionableItems": [
             "Conduct thorough research before making investment decisions.",
@@ -1160,11 +1162,11 @@
             "A disciplined investor will outperform a speculative one over the long term."
           ],
           "concepts": [
-            "Investment Strategies",
-            "Investor Psychology",
-            "Long-term Investing",
-            "Performance Evaluation",
-            "Discipline in Investing"
+            "investment-strategies",
+            "investor-psychology",
+            "long-term-investing",
+            "performance-evaluation",
+            "discipline-in-investing"
           ],
           "actionableItems": [
             "Reflect on your own investment mindset and identify emotional triggers.",
@@ -1203,11 +1205,11 @@
             "Effective activism requires knowledge, strategy, and persistence."
           ],
           "concepts": [
-            "Shareholder Rights",
-            "Corporate Governance",
-            "Investor Activism",
-            "Accountability",
-            "Engagement Strategies"
+            "shareholder-rights",
+            "corporate-governance",
+            "investor-activism",
+            "accountability",
+            "engagement-strategies"
           ],
           "actionableItems": [
             "Research and understand your rights as a shareholder.",
@@ -1249,11 +1251,11 @@
             "Emotional resilience is key to navigating market volatility."
           ],
           "concepts": [
-            "Value Investing",
-            "Risk Management",
-            "Behavioral Finance",
-            "Long-term Investment Strategy",
-            "Market Psychology"
+            "value-investing",
+            "risk-management",
+            "behavioral-finance",
+            "long-term-investment-strategy",
+            "market-psychology"
           ],
           "actionableItems": [
             "Develop a personal investment philosophy based on value principles.",
@@ -1306,10 +1308,10 @@
             "Investing is more about psychology than numbers."
           ],
           "concepts": [
-            "Value Investing",
-            "Behavioral Finance",
-            "Market Efficiency",
-            "Investment Psychology"
+            "value-investing",
+            "behavioral-finance",
+            "market-efficiency",
+            "investment-psychology"
           ],
           "actionableItems": [
             "Research and identify undervalued stocks in the market.",
@@ -1346,10 +1348,10 @@
             "Recognizing our biases is the first step towards better investing."
           ],
           "concepts": [
-            "Behavioral finance",
-            "Cognitive biases",
-            "Investor psychology",
-            "Market sentiment"
+            "behavioral-finance",
+            "cognitive-biases",
+            "investor-psychology",
+            "market-sentiment"
           ],
           "actionableItems": [
             "Reflect on personal investment decisions to identify any biases.",
@@ -1387,10 +1389,10 @@
             "Understanding market behavior is key to recognizing intrinsic value."
           ],
           "concepts": [
-            "Intrinsic Value",
-            "Investment Analysis",
-            "Behavioral Finance",
-            "Market Psychology"
+            "intrinsic-value",
+            "investment-analysis",
+            "behavioral-finance",
+            "market-psychology"
           ],
           "actionableItems": [
             "Conduct a detailed analysis of a company's financial statements to determine its intrinsic value.",
@@ -1427,10 +1429,10 @@
             "Investment success is not just about numbers, but also about psychology."
           ],
           "concepts": [
-            "Behavioral Finance",
-            "Psychological Biases",
-            "Investment Strategies",
-            "Fundamental Analysis"
+            "behavioral-finance",
+            "psychological-biases",
+            "investment-strategies",
+            "fundamental-analysis"
           ],
           "actionableItems": [
             "Keep a journal to track emotional responses to investment decisions.",
@@ -1467,11 +1469,11 @@
             "Valuation is as much an art as it is a science."
           ],
           "concepts": [
-            "Value Investing",
-            "Behavioral Finance",
-            "Case Studies",
-            "Investment Strategies",
-            "Valuation Techniques"
+            "value-investing",
+            "behavioral-finance",
+            "case-studies",
+            "investment-strategies",
+            "valuation-techniques"
           ],
           "actionableItems": [
             "Research and analyze case studies of renowned value investors.",
@@ -1506,10 +1508,10 @@
             "Navigating through market fluctuations can separate successful investors from the rest."
           ],
           "concepts": [
-            "Market Cycles",
-            "Value Investing",
-            "Behavioral Finance",
-            "Investment Strategies"
+            "market-cycles",
+            "value-investing",
+            "behavioral-finance",
+            "investment-strategies"
           ],
           "actionableItems": [
             "Monitor economic indicators to identify market cycle phases.",
@@ -1547,10 +1549,10 @@
             "Risk management is not just about avoiding losses, but about enhancing overall investment performance."
           ],
           "concepts": [
-            "Value Investing",
-            "Risk Management",
-            "Investment Strategy",
-            "Behavioral Finance"
+            "value-investing",
+            "risk-management",
+            "investment-strategy",
+            "behavioral-finance"
           ],
           "actionableItems": [
             "Create a personal investment plan that outlines your value investing principles and risk tolerance.",
@@ -1588,11 +1590,11 @@
             "Patience is a virtue in value investing."
           ],
           "concepts": [
-            "Value Investing",
-            "Behavioral Finance",
-            "Market Psychology",
-            "Risk Management",
-            "Long-term Investing"
+            "value-investing",
+            "behavioral-finance",
+            "market-psychology",
+            "risk-management",
+            "long-term-investing"
           ],
           "actionableItems": [
             "Conduct thorough research to assess a company's intrinsic value before investing.",
@@ -1634,11 +1636,11 @@
             "Every investment tells a story; learn from both successes and failures."
           ],
           "concepts": [
-            "Value Investing",
-            "Behavioral Finance",
-            "Market Psychology",
-            "Investment Case Studies",
-            "Long-term Strategy"
+            "value-investing",
+            "behavioral-finance",
+            "market-psychology",
+            "investment-case-studies",
+            "long-term-strategy"
           ],
           "actionableItems": [
             "Analyze a recent investment decision and identify any emotional biases.",
@@ -1676,11 +1678,11 @@
             "The market is not always rational; understanding this is key to value investing."
           ],
           "concepts": [
-            "Value Investing",
-            "Behavioral Finance",
-            "Psychological Biases",
-            "Investment Discipline",
-            "Market Psychology"
+            "value-investing",
+            "behavioral-finance",
+            "psychological-biases",
+            "investment-discipline",
+            "market-psychology"
           ],
           "actionableItems": [
             "Reflect on personal biases before making investment decisions.",
@@ -1701,7 +1703,7 @@
   "conceptGraph": {
     "nodes": [
       {
-        "id": "Happiness",
+        "id": "happiness",
         "label": "Happiness",
         "chapters": [
           "the-almanack-of-naval-ravikant-ch1",
@@ -1710,17 +1712,18 @@
         "weight": 2
       },
       {
-        "id": "Self-Reflection",
+        "id": "self-reflection",
         "label": "Self Reflection",
         "chapters": [
           "the-almanack-of-naval-ravikant-ch1",
           "the-almanack-of-naval-ravikant-ch4",
+          "the-almanack-of-naval-ravikant-ch9",
           "the-almanack-of-naval-ravikant-ch10"
         ],
-        "weight": 3
+        "weight": 4
       },
       {
-        "id": "Specific Knowledge",
+        "id": "specific-knowledge",
         "label": "Specific Knowledge",
         "chapters": [
           "the-almanack-of-naval-ravikant-ch2",
@@ -1729,25 +1732,28 @@
         "weight": 2
       },
       {
-        "id": "Personal Development",
+        "id": "personal-development",
         "label": "Personal Development",
         "chapters": [
           "the-almanack-of-naval-ravikant-ch2",
-          "the-almanack-of-naval-ravikant-ch5"
+          "the-almanack-of-naval-ravikant-ch5",
+          "the-almanack-of-naval-ravikant-ch6",
+          "the-almanack-of-naval-ravikant-ch7"
         ],
-        "weight": 2
+        "weight": 4
       },
       {
-        "id": "Decision Making",
+        "id": "decision-making",
         "label": "Decision Making",
         "chapters": [
           "the-almanack-of-naval-ravikant-ch3",
-          "the-almanack-of-naval-ravikant-ch4"
+          "the-almanack-of-naval-ravikant-ch4",
+          "the-almanack-of-naval-ravikant-ch6"
         ],
-        "weight": 2
+        "weight": 3
       },
       {
-        "id": "Long-term thinking",
+        "id": "long-term-thinking",
         "label": "Long Term Thinking",
         "chapters": [
           "the-almanack-of-naval-ravikant-ch6",
@@ -1756,25 +1762,59 @@
         "weight": 2
       },
       {
-        "id": "Personal development",
-        "label": "Personal Development",
-        "chapters": [
-          "the-almanack-of-naval-ravikant-ch6",
-          "the-almanack-of-naval-ravikant-ch7"
-        ],
-        "weight": 2
-      },
-      {
-        "id": "Investment strategy",
+        "id": "investment-strategy",
         "label": "Investment Strategy",
         "chapters": [
           "the-intelligent-investor-ch1",
-          "the-intelligent-investor-ch2"
+          "the-intelligent-investor-ch2",
+          "the-intelligent-investor-ch6",
+          "the-intelligent-investor-ch9",
+          "the-intelligent-investor-ch10",
+          "value-investing-and-behavioral-finance-ch7"
         ],
-        "weight": 2
+        "weight": 6
       },
       {
-        "id": "Investment Strategies",
+        "id": "risk-management",
+        "label": "Risk Management",
+        "chapters": [
+          "the-intelligent-investor-ch1",
+          "the-intelligent-investor-ch6",
+          "the-intelligent-investor-ch10",
+          "the-intelligent-investor-ch11",
+          "the-intelligent-investor-ch14",
+          "the-intelligent-investor-ch15",
+          "the-intelligent-investor-ch16",
+          "the-intelligent-investor-ch17",
+          "the-intelligent-investor-ch20",
+          "value-investing-and-behavioral-finance-ch7",
+          "value-investing-and-behavioral-finance-ch8"
+        ],
+        "weight": 11
+      },
+      {
+        "id": "long-term-investing",
+        "label": "Long Term Investing",
+        "chapters": [
+          "the-intelligent-investor-ch2",
+          "the-intelligent-investor-ch11",
+          "the-intelligent-investor-ch18",
+          "value-investing-and-behavioral-finance-ch8"
+        ],
+        "weight": 4
+      },
+      {
+        "id": "market-volatility",
+        "label": "Market Volatility",
+        "chapters": [
+          "the-intelligent-investor-ch2",
+          "the-intelligent-investor-ch5",
+          "the-intelligent-investor-ch14"
+        ],
+        "weight": 3
+      },
+      {
+        "id": "investment-strategies",
         "label": "Investment Strategies",
         "chapters": [
           "the-intelligent-investor-ch3",
@@ -1787,7 +1827,7 @@
         "weight": 6
       },
       {
-        "id": "Value Investing",
+        "id": "value-investing",
         "label": "Value Investing",
         "chapters": [
           "the-intelligent-investor-ch4",
@@ -1809,7 +1849,7 @@
         "weight": 15
       },
       {
-        "id": "Intrinsic Value",
+        "id": "intrinsic-value",
         "label": "Intrinsic Value",
         "chapters": [
           "the-intelligent-investor-ch4",
@@ -1819,7 +1859,7 @@
         "weight": 3
       },
       {
-        "id": "Defensive Investing",
+        "id": "defensive-investing",
         "label": "Defensive Investing",
         "chapters": [
           "the-intelligent-investor-ch4",
@@ -1829,7 +1869,7 @@
         "weight": 3
       },
       {
-        "id": "Portfolio Diversification",
+        "id": "portfolio-diversification",
         "label": "Portfolio Diversification",
         "chapters": [
           "the-intelligent-investor-ch4",
@@ -1839,7 +1879,7 @@
         "weight": 3
       },
       {
-        "id": "Long-term Strategy",
+        "id": "long-term-strategy",
         "label": "Long Term Strategy",
         "chapters": [
           "the-intelligent-investor-ch4",
@@ -1848,16 +1888,7 @@
         "weight": 2
       },
       {
-        "id": "Market Volatility",
-        "label": "Market Volatility",
-        "chapters": [
-          "the-intelligent-investor-ch5",
-          "the-intelligent-investor-ch14"
-        ],
-        "weight": 2
-      },
-      {
-        "id": "Investment Psychology",
+        "id": "investment-psychology",
         "label": "Investment Psychology",
         "chapters": [
           "the-intelligent-investor-ch5",
@@ -1866,7 +1897,7 @@
         "weight": 2
       },
       {
-        "id": "Diversification",
+        "id": "diversification",
         "label": "Diversification",
         "chapters": [
           "the-intelligent-investor-ch6",
@@ -1876,39 +1907,14 @@
         "weight": 3
       },
       {
-        "id": "Risk Management",
-        "label": "Risk Management",
-        "chapters": [
-          "the-intelligent-investor-ch6",
-          "the-intelligent-investor-ch11",
-          "the-intelligent-investor-ch14",
-          "the-intelligent-investor-ch15",
-          "the-intelligent-investor-ch16",
-          "the-intelligent-investor-ch17",
-          "the-intelligent-investor-ch20",
-          "value-investing-and-behavioral-finance-ch7",
-          "value-investing-and-behavioral-finance-ch8"
-        ],
-        "weight": 9
-      },
-      {
-        "id": "Investment Strategy",
-        "label": "Investment Strategy",
-        "chapters": [
-          "the-intelligent-investor-ch6",
-          "the-intelligent-investor-ch9",
-          "the-intelligent-investor-ch10",
-          "value-investing-and-behavioral-finance-ch7"
-        ],
-        "weight": 4
-      },
-      {
-        "id": "Behavioral Finance",
+        "id": "behavioral-finance",
         "label": "Behavioral Finance",
         "chapters": [
           "the-intelligent-investor-ch7",
+          "the-intelligent-investor-ch10",
           "the-intelligent-investor-ch20",
           "value-investing-and-behavioral-finance-ch1",
+          "value-investing-and-behavioral-finance-ch2",
           "value-investing-and-behavioral-finance-ch3",
           "value-investing-and-behavioral-finance-ch4",
           "value-investing-and-behavioral-finance-ch5",
@@ -1918,23 +1924,23 @@
           "value-investing-and-behavioral-finance-ch9",
           "value-investing-and-behavioral-finance-ch10"
         ],
-        "weight": 11
+        "weight": 13
       },
       {
-        "id": "Investor Psychology",
+        "id": "investor-psychology",
         "label": "Investor Psychology",
         "chapters": [
           "the-intelligent-investor-ch7",
-          "the-intelligent-investor-ch18"
+          "the-intelligent-investor-ch18",
+          "value-investing-and-behavioral-finance-ch2"
         ],
-        "weight": 2
+        "weight": 3
       },
       {
-        "id": "Market Psychology",
+        "id": "market-psychology",
         "label": "Market Psychology",
         "chapters": [
           "the-intelligent-investor-ch8",
-          "the-intelligent-investor-ch10",
           "the-intelligent-investor-ch11",
           "the-intelligent-investor-ch15",
           "the-intelligent-investor-ch17",
@@ -1944,10 +1950,19 @@
           "value-investing-and-behavioral-finance-ch9",
           "value-investing-and-behavioral-finance-ch10"
         ],
-        "weight": 10
+        "weight": 9
       },
       {
-        "id": "Fundamental Analysis",
+        "id": "market-cycles",
+        "label": "Market Cycles",
+        "chapters": [
+          "the-intelligent-investor-ch10",
+          "value-investing-and-behavioral-finance-ch6"
+        ],
+        "weight": 2
+      },
+      {
+        "id": "fundamental-analysis",
         "label": "Fundamental Analysis",
         "chapters": [
           "the-intelligent-investor-ch11",
@@ -1957,17 +1972,7 @@
         "weight": 3
       },
       {
-        "id": "Long-term Investing",
-        "label": "Long Term Investing",
-        "chapters": [
-          "the-intelligent-investor-ch11",
-          "the-intelligent-investor-ch18",
-          "value-investing-and-behavioral-finance-ch8"
-        ],
-        "weight": 3
-      },
-      {
-        "id": "Financial Analysis",
+        "id": "financial-analysis",
         "label": "Financial Analysis",
         "chapters": [
           "the-intelligent-investor-ch12",
@@ -1976,7 +1981,7 @@
         "weight": 2
       },
       {
-        "id": "Long-term Investment Strategy",
+        "id": "long-term-investment-strategy",
         "label": "Long Term Investment Strategy",
         "chapters": [
           "the-intelligent-investor-ch12",
@@ -1985,7 +1990,7 @@
         "weight": 2
       },
       {
-        "id": "Investment Analysis",
+        "id": "investment-analysis",
         "label": "Investment Analysis",
         "chapters": [
           "the-intelligent-investor-ch17",
@@ -1994,7 +1999,7 @@
         "weight": 2
       },
       {
-        "id": "Psychological Biases",
+        "id": "psychological-biases",
         "label": "Psychological Biases",
         "chapters": [
           "value-investing-and-behavioral-finance-ch4",
@@ -2007,1492 +2012,1782 @@
       {
         "source": "the-almanack-of-naval-ravikant-ch1",
         "target": "the-almanack-of-naval-ravikant-ch7",
-        "concept": "Happiness"
+        "concept": "happiness"
       },
       {
         "source": "the-almanack-of-naval-ravikant-ch1",
         "target": "the-almanack-of-naval-ravikant-ch4",
-        "concept": "Self-Reflection"
+        "concept": "self-reflection"
+      },
+      {
+        "source": "the-almanack-of-naval-ravikant-ch1",
+        "target": "the-almanack-of-naval-ravikant-ch9",
+        "concept": "self-reflection"
       },
       {
         "source": "the-almanack-of-naval-ravikant-ch1",
         "target": "the-almanack-of-naval-ravikant-ch10",
-        "concept": "Self-Reflection"
+        "concept": "self-reflection"
+      },
+      {
+        "source": "the-almanack-of-naval-ravikant-ch4",
+        "target": "the-almanack-of-naval-ravikant-ch9",
+        "concept": "self-reflection"
       },
       {
         "source": "the-almanack-of-naval-ravikant-ch4",
         "target": "the-almanack-of-naval-ravikant-ch10",
-        "concept": "Self-Reflection"
+        "concept": "self-reflection"
+      },
+      {
+        "source": "the-almanack-of-naval-ravikant-ch9",
+        "target": "the-almanack-of-naval-ravikant-ch10",
+        "concept": "self-reflection"
       },
       {
         "source": "the-almanack-of-naval-ravikant-ch2",
         "target": "the-almanack-of-naval-ravikant-ch5",
-        "concept": "Specific Knowledge"
+        "concept": "specific-knowledge"
       },
       {
         "source": "the-almanack-of-naval-ravikant-ch2",
         "target": "the-almanack-of-naval-ravikant-ch5",
-        "concept": "Personal Development"
+        "concept": "personal-development"
+      },
+      {
+        "source": "the-almanack-of-naval-ravikant-ch2",
+        "target": "the-almanack-of-naval-ravikant-ch6",
+        "concept": "personal-development"
+      },
+      {
+        "source": "the-almanack-of-naval-ravikant-ch2",
+        "target": "the-almanack-of-naval-ravikant-ch7",
+        "concept": "personal-development"
+      },
+      {
+        "source": "the-almanack-of-naval-ravikant-ch5",
+        "target": "the-almanack-of-naval-ravikant-ch6",
+        "concept": "personal-development"
+      },
+      {
+        "source": "the-almanack-of-naval-ravikant-ch5",
+        "target": "the-almanack-of-naval-ravikant-ch7",
+        "concept": "personal-development"
+      },
+      {
+        "source": "the-almanack-of-naval-ravikant-ch6",
+        "target": "the-almanack-of-naval-ravikant-ch7",
+        "concept": "personal-development"
       },
       {
         "source": "the-almanack-of-naval-ravikant-ch3",
         "target": "the-almanack-of-naval-ravikant-ch4",
-        "concept": "Decision Making"
+        "concept": "decision-making"
+      },
+      {
+        "source": "the-almanack-of-naval-ravikant-ch3",
+        "target": "the-almanack-of-naval-ravikant-ch6",
+        "concept": "decision-making"
+      },
+      {
+        "source": "the-almanack-of-naval-ravikant-ch4",
+        "target": "the-almanack-of-naval-ravikant-ch6",
+        "concept": "decision-making"
       },
       {
         "source": "the-almanack-of-naval-ravikant-ch6",
         "target": "the-almanack-of-naval-ravikant-ch7",
-        "concept": "Long-term thinking"
-      },
-      {
-        "source": "the-almanack-of-naval-ravikant-ch6",
-        "target": "the-almanack-of-naval-ravikant-ch7",
-        "concept": "Personal development"
+        "concept": "long-term-thinking"
       },
       {
         "source": "the-intelligent-investor-ch1",
         "target": "the-intelligent-investor-ch2",
-        "concept": "Investment strategy"
+        "concept": "investment-strategy"
+      },
+      {
+        "source": "the-intelligent-investor-ch1",
+        "target": "the-intelligent-investor-ch6",
+        "concept": "investment-strategy"
+      },
+      {
+        "source": "the-intelligent-investor-ch1",
+        "target": "the-intelligent-investor-ch9",
+        "concept": "investment-strategy"
+      },
+      {
+        "source": "the-intelligent-investor-ch1",
+        "target": "the-intelligent-investor-ch10",
+        "concept": "investment-strategy"
+      },
+      {
+        "source": "the-intelligent-investor-ch1",
+        "target": "value-investing-and-behavioral-finance-ch7",
+        "concept": "investment-strategy"
+      },
+      {
+        "source": "the-intelligent-investor-ch2",
+        "target": "the-intelligent-investor-ch6",
+        "concept": "investment-strategy"
+      },
+      {
+        "source": "the-intelligent-investor-ch2",
+        "target": "the-intelligent-investor-ch9",
+        "concept": "investment-strategy"
+      },
+      {
+        "source": "the-intelligent-investor-ch2",
+        "target": "the-intelligent-investor-ch10",
+        "concept": "investment-strategy"
+      },
+      {
+        "source": "the-intelligent-investor-ch2",
+        "target": "value-investing-and-behavioral-finance-ch7",
+        "concept": "investment-strategy"
+      },
+      {
+        "source": "the-intelligent-investor-ch6",
+        "target": "the-intelligent-investor-ch9",
+        "concept": "investment-strategy"
+      },
+      {
+        "source": "the-intelligent-investor-ch6",
+        "target": "the-intelligent-investor-ch10",
+        "concept": "investment-strategy"
+      },
+      {
+        "source": "the-intelligent-investor-ch6",
+        "target": "value-investing-and-behavioral-finance-ch7",
+        "concept": "investment-strategy"
+      },
+      {
+        "source": "the-intelligent-investor-ch9",
+        "target": "the-intelligent-investor-ch10",
+        "concept": "investment-strategy"
+      },
+      {
+        "source": "the-intelligent-investor-ch9",
+        "target": "value-investing-and-behavioral-finance-ch7",
+        "concept": "investment-strategy"
+      },
+      {
+        "source": "the-intelligent-investor-ch10",
+        "target": "value-investing-and-behavioral-finance-ch7",
+        "concept": "investment-strategy"
+      },
+      {
+        "source": "the-intelligent-investor-ch1",
+        "target": "the-intelligent-investor-ch6",
+        "concept": "risk-management"
+      },
+      {
+        "source": "the-intelligent-investor-ch1",
+        "target": "the-intelligent-investor-ch10",
+        "concept": "risk-management"
+      },
+      {
+        "source": "the-intelligent-investor-ch1",
+        "target": "the-intelligent-investor-ch11",
+        "concept": "risk-management"
+      },
+      {
+        "source": "the-intelligent-investor-ch1",
+        "target": "the-intelligent-investor-ch14",
+        "concept": "risk-management"
+      },
+      {
+        "source": "the-intelligent-investor-ch1",
+        "target": "the-intelligent-investor-ch15",
+        "concept": "risk-management"
+      },
+      {
+        "source": "the-intelligent-investor-ch1",
+        "target": "the-intelligent-investor-ch16",
+        "concept": "risk-management"
+      },
+      {
+        "source": "the-intelligent-investor-ch1",
+        "target": "the-intelligent-investor-ch17",
+        "concept": "risk-management"
+      },
+      {
+        "source": "the-intelligent-investor-ch1",
+        "target": "the-intelligent-investor-ch20",
+        "concept": "risk-management"
+      },
+      {
+        "source": "the-intelligent-investor-ch1",
+        "target": "value-investing-and-behavioral-finance-ch7",
+        "concept": "risk-management"
+      },
+      {
+        "source": "the-intelligent-investor-ch1",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "risk-management"
+      },
+      {
+        "source": "the-intelligent-investor-ch6",
+        "target": "the-intelligent-investor-ch10",
+        "concept": "risk-management"
+      },
+      {
+        "source": "the-intelligent-investor-ch6",
+        "target": "the-intelligent-investor-ch11",
+        "concept": "risk-management"
+      },
+      {
+        "source": "the-intelligent-investor-ch6",
+        "target": "the-intelligent-investor-ch14",
+        "concept": "risk-management"
+      },
+      {
+        "source": "the-intelligent-investor-ch6",
+        "target": "the-intelligent-investor-ch15",
+        "concept": "risk-management"
+      },
+      {
+        "source": "the-intelligent-investor-ch6",
+        "target": "the-intelligent-investor-ch16",
+        "concept": "risk-management"
+      },
+      {
+        "source": "the-intelligent-investor-ch6",
+        "target": "the-intelligent-investor-ch17",
+        "concept": "risk-management"
+      },
+      {
+        "source": "the-intelligent-investor-ch6",
+        "target": "the-intelligent-investor-ch20",
+        "concept": "risk-management"
+      },
+      {
+        "source": "the-intelligent-investor-ch6",
+        "target": "value-investing-and-behavioral-finance-ch7",
+        "concept": "risk-management"
+      },
+      {
+        "source": "the-intelligent-investor-ch6",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "risk-management"
+      },
+      {
+        "source": "the-intelligent-investor-ch10",
+        "target": "the-intelligent-investor-ch11",
+        "concept": "risk-management"
+      },
+      {
+        "source": "the-intelligent-investor-ch10",
+        "target": "the-intelligent-investor-ch14",
+        "concept": "risk-management"
+      },
+      {
+        "source": "the-intelligent-investor-ch10",
+        "target": "the-intelligent-investor-ch15",
+        "concept": "risk-management"
+      },
+      {
+        "source": "the-intelligent-investor-ch10",
+        "target": "the-intelligent-investor-ch16",
+        "concept": "risk-management"
+      },
+      {
+        "source": "the-intelligent-investor-ch10",
+        "target": "the-intelligent-investor-ch17",
+        "concept": "risk-management"
+      },
+      {
+        "source": "the-intelligent-investor-ch10",
+        "target": "the-intelligent-investor-ch20",
+        "concept": "risk-management"
+      },
+      {
+        "source": "the-intelligent-investor-ch10",
+        "target": "value-investing-and-behavioral-finance-ch7",
+        "concept": "risk-management"
+      },
+      {
+        "source": "the-intelligent-investor-ch10",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "risk-management"
+      },
+      {
+        "source": "the-intelligent-investor-ch11",
+        "target": "the-intelligent-investor-ch14",
+        "concept": "risk-management"
+      },
+      {
+        "source": "the-intelligent-investor-ch11",
+        "target": "the-intelligent-investor-ch15",
+        "concept": "risk-management"
+      },
+      {
+        "source": "the-intelligent-investor-ch11",
+        "target": "the-intelligent-investor-ch16",
+        "concept": "risk-management"
+      },
+      {
+        "source": "the-intelligent-investor-ch11",
+        "target": "the-intelligent-investor-ch17",
+        "concept": "risk-management"
+      },
+      {
+        "source": "the-intelligent-investor-ch11",
+        "target": "the-intelligent-investor-ch20",
+        "concept": "risk-management"
+      },
+      {
+        "source": "the-intelligent-investor-ch11",
+        "target": "value-investing-and-behavioral-finance-ch7",
+        "concept": "risk-management"
+      },
+      {
+        "source": "the-intelligent-investor-ch11",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "risk-management"
+      },
+      {
+        "source": "the-intelligent-investor-ch14",
+        "target": "the-intelligent-investor-ch15",
+        "concept": "risk-management"
+      },
+      {
+        "source": "the-intelligent-investor-ch14",
+        "target": "the-intelligent-investor-ch16",
+        "concept": "risk-management"
+      },
+      {
+        "source": "the-intelligent-investor-ch14",
+        "target": "the-intelligent-investor-ch17",
+        "concept": "risk-management"
+      },
+      {
+        "source": "the-intelligent-investor-ch14",
+        "target": "the-intelligent-investor-ch20",
+        "concept": "risk-management"
+      },
+      {
+        "source": "the-intelligent-investor-ch14",
+        "target": "value-investing-and-behavioral-finance-ch7",
+        "concept": "risk-management"
+      },
+      {
+        "source": "the-intelligent-investor-ch14",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "risk-management"
+      },
+      {
+        "source": "the-intelligent-investor-ch15",
+        "target": "the-intelligent-investor-ch16",
+        "concept": "risk-management"
+      },
+      {
+        "source": "the-intelligent-investor-ch15",
+        "target": "the-intelligent-investor-ch17",
+        "concept": "risk-management"
+      },
+      {
+        "source": "the-intelligent-investor-ch15",
+        "target": "the-intelligent-investor-ch20",
+        "concept": "risk-management"
+      },
+      {
+        "source": "the-intelligent-investor-ch15",
+        "target": "value-investing-and-behavioral-finance-ch7",
+        "concept": "risk-management"
+      },
+      {
+        "source": "the-intelligent-investor-ch15",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "risk-management"
+      },
+      {
+        "source": "the-intelligent-investor-ch16",
+        "target": "the-intelligent-investor-ch17",
+        "concept": "risk-management"
+      },
+      {
+        "source": "the-intelligent-investor-ch16",
+        "target": "the-intelligent-investor-ch20",
+        "concept": "risk-management"
+      },
+      {
+        "source": "the-intelligent-investor-ch16",
+        "target": "value-investing-and-behavioral-finance-ch7",
+        "concept": "risk-management"
+      },
+      {
+        "source": "the-intelligent-investor-ch16",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "risk-management"
+      },
+      {
+        "source": "the-intelligent-investor-ch17",
+        "target": "the-intelligent-investor-ch20",
+        "concept": "risk-management"
+      },
+      {
+        "source": "the-intelligent-investor-ch17",
+        "target": "value-investing-and-behavioral-finance-ch7",
+        "concept": "risk-management"
+      },
+      {
+        "source": "the-intelligent-investor-ch17",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "risk-management"
+      },
+      {
+        "source": "the-intelligent-investor-ch20",
+        "target": "value-investing-and-behavioral-finance-ch7",
+        "concept": "risk-management"
+      },
+      {
+        "source": "the-intelligent-investor-ch20",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "risk-management"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch7",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "risk-management"
+      },
+      {
+        "source": "the-intelligent-investor-ch2",
+        "target": "the-intelligent-investor-ch11",
+        "concept": "long-term-investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch2",
+        "target": "the-intelligent-investor-ch18",
+        "concept": "long-term-investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch2",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "long-term-investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch11",
+        "target": "the-intelligent-investor-ch18",
+        "concept": "long-term-investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch11",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "long-term-investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch18",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "long-term-investing"
+      },
+      {
+        "source": "the-intelligent-investor-ch2",
+        "target": "the-intelligent-investor-ch5",
+        "concept": "market-volatility"
+      },
+      {
+        "source": "the-intelligent-investor-ch2",
+        "target": "the-intelligent-investor-ch14",
+        "concept": "market-volatility"
+      },
+      {
+        "source": "the-intelligent-investor-ch5",
+        "target": "the-intelligent-investor-ch14",
+        "concept": "market-volatility"
       },
       {
         "source": "the-intelligent-investor-ch3",
         "target": "the-intelligent-investor-ch16",
-        "concept": "Investment Strategies"
+        "concept": "investment-strategies"
       },
       {
         "source": "the-intelligent-investor-ch3",
         "target": "the-intelligent-investor-ch18",
-        "concept": "Investment Strategies"
+        "concept": "investment-strategies"
       },
       {
         "source": "the-intelligent-investor-ch3",
         "target": "value-investing-and-behavioral-finance-ch4",
-        "concept": "Investment Strategies"
+        "concept": "investment-strategies"
       },
       {
         "source": "the-intelligent-investor-ch3",
         "target": "value-investing-and-behavioral-finance-ch5",
-        "concept": "Investment Strategies"
+        "concept": "investment-strategies"
       },
       {
         "source": "the-intelligent-investor-ch3",
         "target": "value-investing-and-behavioral-finance-ch6",
-        "concept": "Investment Strategies"
+        "concept": "investment-strategies"
       },
       {
         "source": "the-intelligent-investor-ch16",
         "target": "the-intelligent-investor-ch18",
-        "concept": "Investment Strategies"
+        "concept": "investment-strategies"
       },
       {
         "source": "the-intelligent-investor-ch16",
         "target": "value-investing-and-behavioral-finance-ch4",
-        "concept": "Investment Strategies"
+        "concept": "investment-strategies"
       },
       {
         "source": "the-intelligent-investor-ch16",
         "target": "value-investing-and-behavioral-finance-ch5",
-        "concept": "Investment Strategies"
+        "concept": "investment-strategies"
       },
       {
         "source": "the-intelligent-investor-ch16",
         "target": "value-investing-and-behavioral-finance-ch6",
-        "concept": "Investment Strategies"
+        "concept": "investment-strategies"
       },
       {
         "source": "the-intelligent-investor-ch18",
         "target": "value-investing-and-behavioral-finance-ch4",
-        "concept": "Investment Strategies"
+        "concept": "investment-strategies"
       },
       {
         "source": "the-intelligent-investor-ch18",
         "target": "value-investing-and-behavioral-finance-ch5",
-        "concept": "Investment Strategies"
+        "concept": "investment-strategies"
       },
       {
         "source": "the-intelligent-investor-ch18",
         "target": "value-investing-and-behavioral-finance-ch6",
-        "concept": "Investment Strategies"
+        "concept": "investment-strategies"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch4",
         "target": "value-investing-and-behavioral-finance-ch5",
-        "concept": "Investment Strategies"
+        "concept": "investment-strategies"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch4",
         "target": "value-investing-and-behavioral-finance-ch6",
-        "concept": "Investment Strategies"
+        "concept": "investment-strategies"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch5",
         "target": "value-investing-and-behavioral-finance-ch6",
-        "concept": "Investment Strategies"
+        "concept": "investment-strategies"
       },
       {
         "source": "the-intelligent-investor-ch4",
         "target": "the-intelligent-investor-ch8",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch4",
         "target": "the-intelligent-investor-ch12",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch4",
         "target": "the-intelligent-investor-ch13",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch4",
         "target": "the-intelligent-investor-ch14",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch4",
         "target": "the-intelligent-investor-ch15",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch4",
         "target": "the-intelligent-investor-ch17",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch4",
         "target": "the-intelligent-investor-ch20",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch4",
         "target": "value-investing-and-behavioral-finance-ch1",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch4",
         "target": "value-investing-and-behavioral-finance-ch5",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch4",
         "target": "value-investing-and-behavioral-finance-ch6",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch4",
         "target": "value-investing-and-behavioral-finance-ch7",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch4",
         "target": "value-investing-and-behavioral-finance-ch8",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch4",
         "target": "value-investing-and-behavioral-finance-ch9",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch4",
         "target": "value-investing-and-behavioral-finance-ch10",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch8",
         "target": "the-intelligent-investor-ch12",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch8",
         "target": "the-intelligent-investor-ch13",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch8",
         "target": "the-intelligent-investor-ch14",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch8",
         "target": "the-intelligent-investor-ch15",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch8",
         "target": "the-intelligent-investor-ch17",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch8",
         "target": "the-intelligent-investor-ch20",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch8",
         "target": "value-investing-and-behavioral-finance-ch1",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch8",
         "target": "value-investing-and-behavioral-finance-ch5",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch8",
         "target": "value-investing-and-behavioral-finance-ch6",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch8",
         "target": "value-investing-and-behavioral-finance-ch7",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch8",
         "target": "value-investing-and-behavioral-finance-ch8",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch8",
         "target": "value-investing-and-behavioral-finance-ch9",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch8",
         "target": "value-investing-and-behavioral-finance-ch10",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch12",
         "target": "the-intelligent-investor-ch13",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch12",
         "target": "the-intelligent-investor-ch14",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch12",
         "target": "the-intelligent-investor-ch15",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch12",
         "target": "the-intelligent-investor-ch17",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch12",
         "target": "the-intelligent-investor-ch20",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch12",
         "target": "value-investing-and-behavioral-finance-ch1",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch12",
         "target": "value-investing-and-behavioral-finance-ch5",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch12",
         "target": "value-investing-and-behavioral-finance-ch6",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch12",
         "target": "value-investing-and-behavioral-finance-ch7",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch12",
         "target": "value-investing-and-behavioral-finance-ch8",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch12",
         "target": "value-investing-and-behavioral-finance-ch9",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch12",
         "target": "value-investing-and-behavioral-finance-ch10",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch13",
         "target": "the-intelligent-investor-ch14",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch13",
         "target": "the-intelligent-investor-ch15",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch13",
         "target": "the-intelligent-investor-ch17",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch13",
         "target": "the-intelligent-investor-ch20",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch13",
         "target": "value-investing-and-behavioral-finance-ch1",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch13",
         "target": "value-investing-and-behavioral-finance-ch5",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch13",
         "target": "value-investing-and-behavioral-finance-ch6",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch13",
         "target": "value-investing-and-behavioral-finance-ch7",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch13",
         "target": "value-investing-and-behavioral-finance-ch8",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch13",
         "target": "value-investing-and-behavioral-finance-ch9",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch13",
         "target": "value-investing-and-behavioral-finance-ch10",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch14",
         "target": "the-intelligent-investor-ch15",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch14",
         "target": "the-intelligent-investor-ch17",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch14",
         "target": "the-intelligent-investor-ch20",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch14",
         "target": "value-investing-and-behavioral-finance-ch1",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch14",
         "target": "value-investing-and-behavioral-finance-ch5",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch14",
         "target": "value-investing-and-behavioral-finance-ch6",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch14",
         "target": "value-investing-and-behavioral-finance-ch7",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch14",
         "target": "value-investing-and-behavioral-finance-ch8",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch14",
         "target": "value-investing-and-behavioral-finance-ch9",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch14",
         "target": "value-investing-and-behavioral-finance-ch10",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch15",
         "target": "the-intelligent-investor-ch17",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch15",
         "target": "the-intelligent-investor-ch20",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch15",
         "target": "value-investing-and-behavioral-finance-ch1",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch15",
         "target": "value-investing-and-behavioral-finance-ch5",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch15",
         "target": "value-investing-and-behavioral-finance-ch6",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch15",
         "target": "value-investing-and-behavioral-finance-ch7",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch15",
         "target": "value-investing-and-behavioral-finance-ch8",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch15",
         "target": "value-investing-and-behavioral-finance-ch9",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch15",
         "target": "value-investing-and-behavioral-finance-ch10",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch17",
         "target": "the-intelligent-investor-ch20",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch17",
         "target": "value-investing-and-behavioral-finance-ch1",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch17",
         "target": "value-investing-and-behavioral-finance-ch5",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch17",
         "target": "value-investing-and-behavioral-finance-ch6",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch17",
         "target": "value-investing-and-behavioral-finance-ch7",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch17",
         "target": "value-investing-and-behavioral-finance-ch8",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch17",
         "target": "value-investing-and-behavioral-finance-ch9",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch17",
         "target": "value-investing-and-behavioral-finance-ch10",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch20",
         "target": "value-investing-and-behavioral-finance-ch1",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch20",
         "target": "value-investing-and-behavioral-finance-ch5",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch20",
         "target": "value-investing-and-behavioral-finance-ch6",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch20",
         "target": "value-investing-and-behavioral-finance-ch7",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch20",
         "target": "value-investing-and-behavioral-finance-ch8",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch20",
         "target": "value-investing-and-behavioral-finance-ch9",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch20",
         "target": "value-investing-and-behavioral-finance-ch10",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch1",
         "target": "value-investing-and-behavioral-finance-ch5",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch1",
         "target": "value-investing-and-behavioral-finance-ch6",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch1",
         "target": "value-investing-and-behavioral-finance-ch7",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch1",
         "target": "value-investing-and-behavioral-finance-ch8",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch1",
         "target": "value-investing-and-behavioral-finance-ch9",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch1",
         "target": "value-investing-and-behavioral-finance-ch10",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch5",
         "target": "value-investing-and-behavioral-finance-ch6",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch5",
         "target": "value-investing-and-behavioral-finance-ch7",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch5",
         "target": "value-investing-and-behavioral-finance-ch8",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch5",
         "target": "value-investing-and-behavioral-finance-ch9",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch5",
         "target": "value-investing-and-behavioral-finance-ch10",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch6",
         "target": "value-investing-and-behavioral-finance-ch7",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch6",
         "target": "value-investing-and-behavioral-finance-ch8",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch6",
         "target": "value-investing-and-behavioral-finance-ch9",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch6",
         "target": "value-investing-and-behavioral-finance-ch10",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch7",
         "target": "value-investing-and-behavioral-finance-ch8",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch7",
         "target": "value-investing-and-behavioral-finance-ch9",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch7",
         "target": "value-investing-and-behavioral-finance-ch10",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch8",
         "target": "value-investing-and-behavioral-finance-ch9",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch8",
         "target": "value-investing-and-behavioral-finance-ch10",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch9",
         "target": "value-investing-and-behavioral-finance-ch10",
-        "concept": "Value Investing"
+        "concept": "value-investing"
       },
       {
         "source": "the-intelligent-investor-ch4",
         "target": "the-intelligent-investor-ch11",
-        "concept": "Intrinsic Value"
+        "concept": "intrinsic-value"
       },
       {
         "source": "the-intelligent-investor-ch4",
         "target": "value-investing-and-behavioral-finance-ch3",
-        "concept": "Intrinsic Value"
+        "concept": "intrinsic-value"
       },
       {
         "source": "the-intelligent-investor-ch11",
         "target": "value-investing-and-behavioral-finance-ch3",
-        "concept": "Intrinsic Value"
+        "concept": "intrinsic-value"
       },
       {
         "source": "the-intelligent-investor-ch4",
         "target": "the-intelligent-investor-ch5",
-        "concept": "Defensive Investing"
+        "concept": "defensive-investing"
       },
       {
         "source": "the-intelligent-investor-ch4",
         "target": "the-intelligent-investor-ch14",
-        "concept": "Defensive Investing"
+        "concept": "defensive-investing"
       },
       {
         "source": "the-intelligent-investor-ch5",
         "target": "the-intelligent-investor-ch14",
-        "concept": "Defensive Investing"
+        "concept": "defensive-investing"
       },
       {
         "source": "the-intelligent-investor-ch4",
         "target": "the-intelligent-investor-ch5",
-        "concept": "Portfolio Diversification"
+        "concept": "portfolio-diversification"
       },
       {
         "source": "the-intelligent-investor-ch4",
         "target": "the-intelligent-investor-ch16",
-        "concept": "Portfolio Diversification"
+        "concept": "portfolio-diversification"
       },
       {
         "source": "the-intelligent-investor-ch5",
         "target": "the-intelligent-investor-ch16",
-        "concept": "Portfolio Diversification"
+        "concept": "portfolio-diversification"
       },
       {
         "source": "the-intelligent-investor-ch4",
         "target": "value-investing-and-behavioral-finance-ch9",
-        "concept": "Long-term Strategy"
-      },
-      {
-        "source": "the-intelligent-investor-ch5",
-        "target": "the-intelligent-investor-ch14",
-        "concept": "Market Volatility"
+        "concept": "long-term-strategy"
       },
       {
         "source": "the-intelligent-investor-ch5",
         "target": "value-investing-and-behavioral-finance-ch1",
-        "concept": "Investment Psychology"
+        "concept": "investment-psychology"
       },
       {
         "source": "the-intelligent-investor-ch6",
         "target": "the-intelligent-investor-ch9",
-        "concept": "Diversification"
+        "concept": "diversification"
       },
       {
         "source": "the-intelligent-investor-ch6",
         "target": "the-intelligent-investor-ch13",
-        "concept": "Diversification"
+        "concept": "diversification"
       },
       {
         "source": "the-intelligent-investor-ch9",
         "target": "the-intelligent-investor-ch13",
-        "concept": "Diversification"
+        "concept": "diversification"
       },
       {
-        "source": "the-intelligent-investor-ch6",
-        "target": "the-intelligent-investor-ch11",
-        "concept": "Risk Management"
-      },
-      {
-        "source": "the-intelligent-investor-ch6",
-        "target": "the-intelligent-investor-ch14",
-        "concept": "Risk Management"
-      },
-      {
-        "source": "the-intelligent-investor-ch6",
-        "target": "the-intelligent-investor-ch15",
-        "concept": "Risk Management"
-      },
-      {
-        "source": "the-intelligent-investor-ch6",
-        "target": "the-intelligent-investor-ch16",
-        "concept": "Risk Management"
-      },
-      {
-        "source": "the-intelligent-investor-ch6",
-        "target": "the-intelligent-investor-ch17",
-        "concept": "Risk Management"
-      },
-      {
-        "source": "the-intelligent-investor-ch6",
-        "target": "the-intelligent-investor-ch20",
-        "concept": "Risk Management"
-      },
-      {
-        "source": "the-intelligent-investor-ch6",
-        "target": "value-investing-and-behavioral-finance-ch7",
-        "concept": "Risk Management"
-      },
-      {
-        "source": "the-intelligent-investor-ch6",
-        "target": "value-investing-and-behavioral-finance-ch8",
-        "concept": "Risk Management"
-      },
-      {
-        "source": "the-intelligent-investor-ch11",
-        "target": "the-intelligent-investor-ch14",
-        "concept": "Risk Management"
-      },
-      {
-        "source": "the-intelligent-investor-ch11",
-        "target": "the-intelligent-investor-ch15",
-        "concept": "Risk Management"
-      },
-      {
-        "source": "the-intelligent-investor-ch11",
-        "target": "the-intelligent-investor-ch16",
-        "concept": "Risk Management"
-      },
-      {
-        "source": "the-intelligent-investor-ch11",
-        "target": "the-intelligent-investor-ch17",
-        "concept": "Risk Management"
-      },
-      {
-        "source": "the-intelligent-investor-ch11",
-        "target": "the-intelligent-investor-ch20",
-        "concept": "Risk Management"
-      },
-      {
-        "source": "the-intelligent-investor-ch11",
-        "target": "value-investing-and-behavioral-finance-ch7",
-        "concept": "Risk Management"
-      },
-      {
-        "source": "the-intelligent-investor-ch11",
-        "target": "value-investing-and-behavioral-finance-ch8",
-        "concept": "Risk Management"
-      },
-      {
-        "source": "the-intelligent-investor-ch14",
-        "target": "the-intelligent-investor-ch15",
-        "concept": "Risk Management"
-      },
-      {
-        "source": "the-intelligent-investor-ch14",
-        "target": "the-intelligent-investor-ch16",
-        "concept": "Risk Management"
-      },
-      {
-        "source": "the-intelligent-investor-ch14",
-        "target": "the-intelligent-investor-ch17",
-        "concept": "Risk Management"
-      },
-      {
-        "source": "the-intelligent-investor-ch14",
-        "target": "the-intelligent-investor-ch20",
-        "concept": "Risk Management"
-      },
-      {
-        "source": "the-intelligent-investor-ch14",
-        "target": "value-investing-and-behavioral-finance-ch7",
-        "concept": "Risk Management"
-      },
-      {
-        "source": "the-intelligent-investor-ch14",
-        "target": "value-investing-and-behavioral-finance-ch8",
-        "concept": "Risk Management"
-      },
-      {
-        "source": "the-intelligent-investor-ch15",
-        "target": "the-intelligent-investor-ch16",
-        "concept": "Risk Management"
-      },
-      {
-        "source": "the-intelligent-investor-ch15",
-        "target": "the-intelligent-investor-ch17",
-        "concept": "Risk Management"
-      },
-      {
-        "source": "the-intelligent-investor-ch15",
-        "target": "the-intelligent-investor-ch20",
-        "concept": "Risk Management"
-      },
-      {
-        "source": "the-intelligent-investor-ch15",
-        "target": "value-investing-and-behavioral-finance-ch7",
-        "concept": "Risk Management"
-      },
-      {
-        "source": "the-intelligent-investor-ch15",
-        "target": "value-investing-and-behavioral-finance-ch8",
-        "concept": "Risk Management"
-      },
-      {
-        "source": "the-intelligent-investor-ch16",
-        "target": "the-intelligent-investor-ch17",
-        "concept": "Risk Management"
-      },
-      {
-        "source": "the-intelligent-investor-ch16",
-        "target": "the-intelligent-investor-ch20",
-        "concept": "Risk Management"
-      },
-      {
-        "source": "the-intelligent-investor-ch16",
-        "target": "value-investing-and-behavioral-finance-ch7",
-        "concept": "Risk Management"
-      },
-      {
-        "source": "the-intelligent-investor-ch16",
-        "target": "value-investing-and-behavioral-finance-ch8",
-        "concept": "Risk Management"
-      },
-      {
-        "source": "the-intelligent-investor-ch17",
-        "target": "the-intelligent-investor-ch20",
-        "concept": "Risk Management"
-      },
-      {
-        "source": "the-intelligent-investor-ch17",
-        "target": "value-investing-and-behavioral-finance-ch7",
-        "concept": "Risk Management"
-      },
-      {
-        "source": "the-intelligent-investor-ch17",
-        "target": "value-investing-and-behavioral-finance-ch8",
-        "concept": "Risk Management"
-      },
-      {
-        "source": "the-intelligent-investor-ch20",
-        "target": "value-investing-and-behavioral-finance-ch7",
-        "concept": "Risk Management"
-      },
-      {
-        "source": "the-intelligent-investor-ch20",
-        "target": "value-investing-and-behavioral-finance-ch8",
-        "concept": "Risk Management"
-      },
-      {
-        "source": "value-investing-and-behavioral-finance-ch7",
-        "target": "value-investing-and-behavioral-finance-ch8",
-        "concept": "Risk Management"
-      },
-      {
-        "source": "the-intelligent-investor-ch6",
-        "target": "the-intelligent-investor-ch9",
-        "concept": "Investment Strategy"
-      },
-      {
-        "source": "the-intelligent-investor-ch6",
+        "source": "the-intelligent-investor-ch7",
         "target": "the-intelligent-investor-ch10",
-        "concept": "Investment Strategy"
-      },
-      {
-        "source": "the-intelligent-investor-ch6",
-        "target": "value-investing-and-behavioral-finance-ch7",
-        "concept": "Investment Strategy"
-      },
-      {
-        "source": "the-intelligent-investor-ch9",
-        "target": "the-intelligent-investor-ch10",
-        "concept": "Investment Strategy"
-      },
-      {
-        "source": "the-intelligent-investor-ch9",
-        "target": "value-investing-and-behavioral-finance-ch7",
-        "concept": "Investment Strategy"
-      },
-      {
-        "source": "the-intelligent-investor-ch10",
-        "target": "value-investing-and-behavioral-finance-ch7",
-        "concept": "Investment Strategy"
+        "concept": "behavioral-finance"
       },
       {
         "source": "the-intelligent-investor-ch7",
         "target": "the-intelligent-investor-ch20",
-        "concept": "Behavioral Finance"
+        "concept": "behavioral-finance"
       },
       {
         "source": "the-intelligent-investor-ch7",
         "target": "value-investing-and-behavioral-finance-ch1",
-        "concept": "Behavioral Finance"
+        "concept": "behavioral-finance"
+      },
+      {
+        "source": "the-intelligent-investor-ch7",
+        "target": "value-investing-and-behavioral-finance-ch2",
+        "concept": "behavioral-finance"
       },
       {
         "source": "the-intelligent-investor-ch7",
         "target": "value-investing-and-behavioral-finance-ch3",
-        "concept": "Behavioral Finance"
+        "concept": "behavioral-finance"
       },
       {
         "source": "the-intelligent-investor-ch7",
         "target": "value-investing-and-behavioral-finance-ch4",
-        "concept": "Behavioral Finance"
+        "concept": "behavioral-finance"
       },
       {
         "source": "the-intelligent-investor-ch7",
         "target": "value-investing-and-behavioral-finance-ch5",
-        "concept": "Behavioral Finance"
+        "concept": "behavioral-finance"
       },
       {
         "source": "the-intelligent-investor-ch7",
         "target": "value-investing-and-behavioral-finance-ch6",
-        "concept": "Behavioral Finance"
+        "concept": "behavioral-finance"
       },
       {
         "source": "the-intelligent-investor-ch7",
         "target": "value-investing-and-behavioral-finance-ch7",
-        "concept": "Behavioral Finance"
+        "concept": "behavioral-finance"
       },
       {
         "source": "the-intelligent-investor-ch7",
         "target": "value-investing-and-behavioral-finance-ch8",
-        "concept": "Behavioral Finance"
+        "concept": "behavioral-finance"
       },
       {
         "source": "the-intelligent-investor-ch7",
         "target": "value-investing-and-behavioral-finance-ch9",
-        "concept": "Behavioral Finance"
+        "concept": "behavioral-finance"
       },
       {
         "source": "the-intelligent-investor-ch7",
         "target": "value-investing-and-behavioral-finance-ch10",
-        "concept": "Behavioral Finance"
+        "concept": "behavioral-finance"
+      },
+      {
+        "source": "the-intelligent-investor-ch10",
+        "target": "the-intelligent-investor-ch20",
+        "concept": "behavioral-finance"
+      },
+      {
+        "source": "the-intelligent-investor-ch10",
+        "target": "value-investing-and-behavioral-finance-ch1",
+        "concept": "behavioral-finance"
+      },
+      {
+        "source": "the-intelligent-investor-ch10",
+        "target": "value-investing-and-behavioral-finance-ch2",
+        "concept": "behavioral-finance"
+      },
+      {
+        "source": "the-intelligent-investor-ch10",
+        "target": "value-investing-and-behavioral-finance-ch3",
+        "concept": "behavioral-finance"
+      },
+      {
+        "source": "the-intelligent-investor-ch10",
+        "target": "value-investing-and-behavioral-finance-ch4",
+        "concept": "behavioral-finance"
+      },
+      {
+        "source": "the-intelligent-investor-ch10",
+        "target": "value-investing-and-behavioral-finance-ch5",
+        "concept": "behavioral-finance"
+      },
+      {
+        "source": "the-intelligent-investor-ch10",
+        "target": "value-investing-and-behavioral-finance-ch6",
+        "concept": "behavioral-finance"
+      },
+      {
+        "source": "the-intelligent-investor-ch10",
+        "target": "value-investing-and-behavioral-finance-ch7",
+        "concept": "behavioral-finance"
+      },
+      {
+        "source": "the-intelligent-investor-ch10",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "behavioral-finance"
+      },
+      {
+        "source": "the-intelligent-investor-ch10",
+        "target": "value-investing-and-behavioral-finance-ch9",
+        "concept": "behavioral-finance"
+      },
+      {
+        "source": "the-intelligent-investor-ch10",
+        "target": "value-investing-and-behavioral-finance-ch10",
+        "concept": "behavioral-finance"
       },
       {
         "source": "the-intelligent-investor-ch20",
         "target": "value-investing-and-behavioral-finance-ch1",
-        "concept": "Behavioral Finance"
+        "concept": "behavioral-finance"
+      },
+      {
+        "source": "the-intelligent-investor-ch20",
+        "target": "value-investing-and-behavioral-finance-ch2",
+        "concept": "behavioral-finance"
       },
       {
         "source": "the-intelligent-investor-ch20",
         "target": "value-investing-and-behavioral-finance-ch3",
-        "concept": "Behavioral Finance"
+        "concept": "behavioral-finance"
       },
       {
         "source": "the-intelligent-investor-ch20",
         "target": "value-investing-and-behavioral-finance-ch4",
-        "concept": "Behavioral Finance"
+        "concept": "behavioral-finance"
       },
       {
         "source": "the-intelligent-investor-ch20",
         "target": "value-investing-and-behavioral-finance-ch5",
-        "concept": "Behavioral Finance"
+        "concept": "behavioral-finance"
       },
       {
         "source": "the-intelligent-investor-ch20",
         "target": "value-investing-and-behavioral-finance-ch6",
-        "concept": "Behavioral Finance"
+        "concept": "behavioral-finance"
       },
       {
         "source": "the-intelligent-investor-ch20",
         "target": "value-investing-and-behavioral-finance-ch7",
-        "concept": "Behavioral Finance"
+        "concept": "behavioral-finance"
       },
       {
         "source": "the-intelligent-investor-ch20",
         "target": "value-investing-and-behavioral-finance-ch8",
-        "concept": "Behavioral Finance"
+        "concept": "behavioral-finance"
       },
       {
         "source": "the-intelligent-investor-ch20",
         "target": "value-investing-and-behavioral-finance-ch9",
-        "concept": "Behavioral Finance"
+        "concept": "behavioral-finance"
       },
       {
         "source": "the-intelligent-investor-ch20",
         "target": "value-investing-and-behavioral-finance-ch10",
-        "concept": "Behavioral Finance"
+        "concept": "behavioral-finance"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch1",
+        "target": "value-investing-and-behavioral-finance-ch2",
+        "concept": "behavioral-finance"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch1",
         "target": "value-investing-and-behavioral-finance-ch3",
-        "concept": "Behavioral Finance"
+        "concept": "behavioral-finance"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch1",
         "target": "value-investing-and-behavioral-finance-ch4",
-        "concept": "Behavioral Finance"
+        "concept": "behavioral-finance"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch1",
         "target": "value-investing-and-behavioral-finance-ch5",
-        "concept": "Behavioral Finance"
+        "concept": "behavioral-finance"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch1",
         "target": "value-investing-and-behavioral-finance-ch6",
-        "concept": "Behavioral Finance"
+        "concept": "behavioral-finance"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch1",
         "target": "value-investing-and-behavioral-finance-ch7",
-        "concept": "Behavioral Finance"
+        "concept": "behavioral-finance"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch1",
         "target": "value-investing-and-behavioral-finance-ch8",
-        "concept": "Behavioral Finance"
+        "concept": "behavioral-finance"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch1",
         "target": "value-investing-and-behavioral-finance-ch9",
-        "concept": "Behavioral Finance"
+        "concept": "behavioral-finance"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch1",
         "target": "value-investing-and-behavioral-finance-ch10",
-        "concept": "Behavioral Finance"
+        "concept": "behavioral-finance"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch2",
+        "target": "value-investing-and-behavioral-finance-ch3",
+        "concept": "behavioral-finance"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch2",
+        "target": "value-investing-and-behavioral-finance-ch4",
+        "concept": "behavioral-finance"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch2",
+        "target": "value-investing-and-behavioral-finance-ch5",
+        "concept": "behavioral-finance"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch2",
+        "target": "value-investing-and-behavioral-finance-ch6",
+        "concept": "behavioral-finance"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch2",
+        "target": "value-investing-and-behavioral-finance-ch7",
+        "concept": "behavioral-finance"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch2",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "behavioral-finance"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch2",
+        "target": "value-investing-and-behavioral-finance-ch9",
+        "concept": "behavioral-finance"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch2",
+        "target": "value-investing-and-behavioral-finance-ch10",
+        "concept": "behavioral-finance"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch3",
         "target": "value-investing-and-behavioral-finance-ch4",
-        "concept": "Behavioral Finance"
+        "concept": "behavioral-finance"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch3",
         "target": "value-investing-and-behavioral-finance-ch5",
-        "concept": "Behavioral Finance"
+        "concept": "behavioral-finance"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch3",
         "target": "value-investing-and-behavioral-finance-ch6",
-        "concept": "Behavioral Finance"
+        "concept": "behavioral-finance"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch3",
         "target": "value-investing-and-behavioral-finance-ch7",
-        "concept": "Behavioral Finance"
+        "concept": "behavioral-finance"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch3",
         "target": "value-investing-and-behavioral-finance-ch8",
-        "concept": "Behavioral Finance"
+        "concept": "behavioral-finance"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch3",
         "target": "value-investing-and-behavioral-finance-ch9",
-        "concept": "Behavioral Finance"
+        "concept": "behavioral-finance"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch3",
         "target": "value-investing-and-behavioral-finance-ch10",
-        "concept": "Behavioral Finance"
+        "concept": "behavioral-finance"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch4",
         "target": "value-investing-and-behavioral-finance-ch5",
-        "concept": "Behavioral Finance"
+        "concept": "behavioral-finance"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch4",
         "target": "value-investing-and-behavioral-finance-ch6",
-        "concept": "Behavioral Finance"
+        "concept": "behavioral-finance"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch4",
         "target": "value-investing-and-behavioral-finance-ch7",
-        "concept": "Behavioral Finance"
+        "concept": "behavioral-finance"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch4",
         "target": "value-investing-and-behavioral-finance-ch8",
-        "concept": "Behavioral Finance"
+        "concept": "behavioral-finance"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch4",
         "target": "value-investing-and-behavioral-finance-ch9",
-        "concept": "Behavioral Finance"
+        "concept": "behavioral-finance"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch4",
         "target": "value-investing-and-behavioral-finance-ch10",
-        "concept": "Behavioral Finance"
+        "concept": "behavioral-finance"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch5",
         "target": "value-investing-and-behavioral-finance-ch6",
-        "concept": "Behavioral Finance"
+        "concept": "behavioral-finance"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch5",
         "target": "value-investing-and-behavioral-finance-ch7",
-        "concept": "Behavioral Finance"
+        "concept": "behavioral-finance"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch5",
         "target": "value-investing-and-behavioral-finance-ch8",
-        "concept": "Behavioral Finance"
+        "concept": "behavioral-finance"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch5",
         "target": "value-investing-and-behavioral-finance-ch9",
-        "concept": "Behavioral Finance"
+        "concept": "behavioral-finance"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch5",
         "target": "value-investing-and-behavioral-finance-ch10",
-        "concept": "Behavioral Finance"
+        "concept": "behavioral-finance"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch6",
         "target": "value-investing-and-behavioral-finance-ch7",
-        "concept": "Behavioral Finance"
+        "concept": "behavioral-finance"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch6",
         "target": "value-investing-and-behavioral-finance-ch8",
-        "concept": "Behavioral Finance"
+        "concept": "behavioral-finance"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch6",
         "target": "value-investing-and-behavioral-finance-ch9",
-        "concept": "Behavioral Finance"
+        "concept": "behavioral-finance"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch6",
         "target": "value-investing-and-behavioral-finance-ch10",
-        "concept": "Behavioral Finance"
+        "concept": "behavioral-finance"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch7",
         "target": "value-investing-and-behavioral-finance-ch8",
-        "concept": "Behavioral Finance"
+        "concept": "behavioral-finance"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch7",
         "target": "value-investing-and-behavioral-finance-ch9",
-        "concept": "Behavioral Finance"
+        "concept": "behavioral-finance"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch7",
         "target": "value-investing-and-behavioral-finance-ch10",
-        "concept": "Behavioral Finance"
+        "concept": "behavioral-finance"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch8",
         "target": "value-investing-and-behavioral-finance-ch9",
-        "concept": "Behavioral Finance"
+        "concept": "behavioral-finance"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch8",
         "target": "value-investing-and-behavioral-finance-ch10",
-        "concept": "Behavioral Finance"
+        "concept": "behavioral-finance"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch9",
         "target": "value-investing-and-behavioral-finance-ch10",
-        "concept": "Behavioral Finance"
+        "concept": "behavioral-finance"
       },
       {
         "source": "the-intelligent-investor-ch7",
         "target": "the-intelligent-investor-ch18",
-        "concept": "Investor Psychology"
+        "concept": "investor-psychology"
       },
       {
-        "source": "the-intelligent-investor-ch8",
-        "target": "the-intelligent-investor-ch10",
-        "concept": "Market Psychology"
-      },
-      {
-        "source": "the-intelligent-investor-ch8",
-        "target": "the-intelligent-investor-ch11",
-        "concept": "Market Psychology"
-      },
-      {
-        "source": "the-intelligent-investor-ch8",
-        "target": "the-intelligent-investor-ch15",
-        "concept": "Market Psychology"
-      },
-      {
-        "source": "the-intelligent-investor-ch8",
-        "target": "the-intelligent-investor-ch17",
-        "concept": "Market Psychology"
-      },
-      {
-        "source": "the-intelligent-investor-ch8",
-        "target": "the-intelligent-investor-ch20",
-        "concept": "Market Psychology"
-      },
-      {
-        "source": "the-intelligent-investor-ch8",
-        "target": "value-investing-and-behavioral-finance-ch3",
-        "concept": "Market Psychology"
-      },
-      {
-        "source": "the-intelligent-investor-ch8",
-        "target": "value-investing-and-behavioral-finance-ch8",
-        "concept": "Market Psychology"
-      },
-      {
-        "source": "the-intelligent-investor-ch8",
-        "target": "value-investing-and-behavioral-finance-ch9",
-        "concept": "Market Psychology"
-      },
-      {
-        "source": "the-intelligent-investor-ch8",
-        "target": "value-investing-and-behavioral-finance-ch10",
-        "concept": "Market Psychology"
-      },
-      {
-        "source": "the-intelligent-investor-ch10",
-        "target": "the-intelligent-investor-ch11",
-        "concept": "Market Psychology"
-      },
-      {
-        "source": "the-intelligent-investor-ch10",
-        "target": "the-intelligent-investor-ch15",
-        "concept": "Market Psychology"
-      },
-      {
-        "source": "the-intelligent-investor-ch10",
-        "target": "the-intelligent-investor-ch17",
-        "concept": "Market Psychology"
-      },
-      {
-        "source": "the-intelligent-investor-ch10",
-        "target": "the-intelligent-investor-ch20",
-        "concept": "Market Psychology"
-      },
-      {
-        "source": "the-intelligent-investor-ch10",
-        "target": "value-investing-and-behavioral-finance-ch3",
-        "concept": "Market Psychology"
-      },
-      {
-        "source": "the-intelligent-investor-ch10",
-        "target": "value-investing-and-behavioral-finance-ch8",
-        "concept": "Market Psychology"
-      },
-      {
-        "source": "the-intelligent-investor-ch10",
-        "target": "value-investing-and-behavioral-finance-ch9",
-        "concept": "Market Psychology"
-      },
-      {
-        "source": "the-intelligent-investor-ch10",
-        "target": "value-investing-and-behavioral-finance-ch10",
-        "concept": "Market Psychology"
-      },
-      {
-        "source": "the-intelligent-investor-ch11",
-        "target": "the-intelligent-investor-ch15",
-        "concept": "Market Psychology"
-      },
-      {
-        "source": "the-intelligent-investor-ch11",
-        "target": "the-intelligent-investor-ch17",
-        "concept": "Market Psychology"
-      },
-      {
-        "source": "the-intelligent-investor-ch11",
-        "target": "the-intelligent-investor-ch20",
-        "concept": "Market Psychology"
-      },
-      {
-        "source": "the-intelligent-investor-ch11",
-        "target": "value-investing-and-behavioral-finance-ch3",
-        "concept": "Market Psychology"
-      },
-      {
-        "source": "the-intelligent-investor-ch11",
-        "target": "value-investing-and-behavioral-finance-ch8",
-        "concept": "Market Psychology"
-      },
-      {
-        "source": "the-intelligent-investor-ch11",
-        "target": "value-investing-and-behavioral-finance-ch9",
-        "concept": "Market Psychology"
-      },
-      {
-        "source": "the-intelligent-investor-ch11",
-        "target": "value-investing-and-behavioral-finance-ch10",
-        "concept": "Market Psychology"
-      },
-      {
-        "source": "the-intelligent-investor-ch15",
-        "target": "the-intelligent-investor-ch17",
-        "concept": "Market Psychology"
-      },
-      {
-        "source": "the-intelligent-investor-ch15",
-        "target": "the-intelligent-investor-ch20",
-        "concept": "Market Psychology"
-      },
-      {
-        "source": "the-intelligent-investor-ch15",
-        "target": "value-investing-and-behavioral-finance-ch3",
-        "concept": "Market Psychology"
-      },
-      {
-        "source": "the-intelligent-investor-ch15",
-        "target": "value-investing-and-behavioral-finance-ch8",
-        "concept": "Market Psychology"
-      },
-      {
-        "source": "the-intelligent-investor-ch15",
-        "target": "value-investing-and-behavioral-finance-ch9",
-        "concept": "Market Psychology"
-      },
-      {
-        "source": "the-intelligent-investor-ch15",
-        "target": "value-investing-and-behavioral-finance-ch10",
-        "concept": "Market Psychology"
-      },
-      {
-        "source": "the-intelligent-investor-ch17",
-        "target": "the-intelligent-investor-ch20",
-        "concept": "Market Psychology"
-      },
-      {
-        "source": "the-intelligent-investor-ch17",
-        "target": "value-investing-and-behavioral-finance-ch3",
-        "concept": "Market Psychology"
-      },
-      {
-        "source": "the-intelligent-investor-ch17",
-        "target": "value-investing-and-behavioral-finance-ch8",
-        "concept": "Market Psychology"
-      },
-      {
-        "source": "the-intelligent-investor-ch17",
-        "target": "value-investing-and-behavioral-finance-ch9",
-        "concept": "Market Psychology"
-      },
-      {
-        "source": "the-intelligent-investor-ch17",
-        "target": "value-investing-and-behavioral-finance-ch10",
-        "concept": "Market Psychology"
-      },
-      {
-        "source": "the-intelligent-investor-ch20",
-        "target": "value-investing-and-behavioral-finance-ch3",
-        "concept": "Market Psychology"
-      },
-      {
-        "source": "the-intelligent-investor-ch20",
-        "target": "value-investing-and-behavioral-finance-ch8",
-        "concept": "Market Psychology"
-      },
-      {
-        "source": "the-intelligent-investor-ch20",
-        "target": "value-investing-and-behavioral-finance-ch9",
-        "concept": "Market Psychology"
-      },
-      {
-        "source": "the-intelligent-investor-ch20",
-        "target": "value-investing-and-behavioral-finance-ch10",
-        "concept": "Market Psychology"
-      },
-      {
-        "source": "value-investing-and-behavioral-finance-ch3",
-        "target": "value-investing-and-behavioral-finance-ch8",
-        "concept": "Market Psychology"
-      },
-      {
-        "source": "value-investing-and-behavioral-finance-ch3",
-        "target": "value-investing-and-behavioral-finance-ch9",
-        "concept": "Market Psychology"
-      },
-      {
-        "source": "value-investing-and-behavioral-finance-ch3",
-        "target": "value-investing-and-behavioral-finance-ch10",
-        "concept": "Market Psychology"
-      },
-      {
-        "source": "value-investing-and-behavioral-finance-ch8",
-        "target": "value-investing-and-behavioral-finance-ch9",
-        "concept": "Market Psychology"
-      },
-      {
-        "source": "value-investing-and-behavioral-finance-ch8",
-        "target": "value-investing-and-behavioral-finance-ch10",
-        "concept": "Market Psychology"
-      },
-      {
-        "source": "value-investing-and-behavioral-finance-ch9",
-        "target": "value-investing-and-behavioral-finance-ch10",
-        "concept": "Market Psychology"
-      },
-      {
-        "source": "the-intelligent-investor-ch11",
-        "target": "the-intelligent-investor-ch15",
-        "concept": "Fundamental Analysis"
-      },
-      {
-        "source": "the-intelligent-investor-ch11",
-        "target": "value-investing-and-behavioral-finance-ch4",
-        "concept": "Fundamental Analysis"
-      },
-      {
-        "source": "the-intelligent-investor-ch15",
-        "target": "value-investing-and-behavioral-finance-ch4",
-        "concept": "Fundamental Analysis"
-      },
-      {
-        "source": "the-intelligent-investor-ch11",
-        "target": "the-intelligent-investor-ch18",
-        "concept": "Long-term Investing"
-      },
-      {
-        "source": "the-intelligent-investor-ch11",
-        "target": "value-investing-and-behavioral-finance-ch8",
-        "concept": "Long-term Investing"
+        "source": "the-intelligent-investor-ch7",
+        "target": "value-investing-and-behavioral-finance-ch2",
+        "concept": "investor-psychology"
       },
       {
         "source": "the-intelligent-investor-ch18",
-        "target": "value-investing-and-behavioral-finance-ch8",
-        "concept": "Long-term Investing"
+        "target": "value-investing-and-behavioral-finance-ch2",
+        "concept": "investor-psychology"
       },
       {
-        "source": "the-intelligent-investor-ch12",
-        "target": "the-intelligent-investor-ch13",
-        "concept": "Financial Analysis"
+        "source": "the-intelligent-investor-ch8",
+        "target": "the-intelligent-investor-ch11",
+        "concept": "market-psychology"
       },
       {
-        "source": "the-intelligent-investor-ch12",
+        "source": "the-intelligent-investor-ch8",
+        "target": "the-intelligent-investor-ch15",
+        "concept": "market-psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch8",
+        "target": "the-intelligent-investor-ch17",
+        "concept": "market-psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch8",
         "target": "the-intelligent-investor-ch20",
-        "concept": "Long-term Investment Strategy"
+        "concept": "market-psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch8",
+        "target": "value-investing-and-behavioral-finance-ch3",
+        "concept": "market-psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch8",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "market-psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch8",
+        "target": "value-investing-and-behavioral-finance-ch9",
+        "concept": "market-psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch8",
+        "target": "value-investing-and-behavioral-finance-ch10",
+        "concept": "market-psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch11",
+        "target": "the-intelligent-investor-ch15",
+        "concept": "market-psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch11",
+        "target": "the-intelligent-investor-ch17",
+        "concept": "market-psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch11",
+        "target": "the-intelligent-investor-ch20",
+        "concept": "market-psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch11",
+        "target": "value-investing-and-behavioral-finance-ch3",
+        "concept": "market-psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch11",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "market-psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch11",
+        "target": "value-investing-and-behavioral-finance-ch9",
+        "concept": "market-psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch11",
+        "target": "value-investing-and-behavioral-finance-ch10",
+        "concept": "market-psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch15",
+        "target": "the-intelligent-investor-ch17",
+        "concept": "market-psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch15",
+        "target": "the-intelligent-investor-ch20",
+        "concept": "market-psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch15",
+        "target": "value-investing-and-behavioral-finance-ch3",
+        "concept": "market-psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch15",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "market-psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch15",
+        "target": "value-investing-and-behavioral-finance-ch9",
+        "concept": "market-psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch15",
+        "target": "value-investing-and-behavioral-finance-ch10",
+        "concept": "market-psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch17",
+        "target": "the-intelligent-investor-ch20",
+        "concept": "market-psychology"
       },
       {
         "source": "the-intelligent-investor-ch17",
         "target": "value-investing-and-behavioral-finance-ch3",
-        "concept": "Investment Analysis"
+        "concept": "market-psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch17",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "market-psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch17",
+        "target": "value-investing-and-behavioral-finance-ch9",
+        "concept": "market-psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch17",
+        "target": "value-investing-and-behavioral-finance-ch10",
+        "concept": "market-psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch20",
+        "target": "value-investing-and-behavioral-finance-ch3",
+        "concept": "market-psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch20",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "market-psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch20",
+        "target": "value-investing-and-behavioral-finance-ch9",
+        "concept": "market-psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch20",
+        "target": "value-investing-and-behavioral-finance-ch10",
+        "concept": "market-psychology"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch3",
+        "target": "value-investing-and-behavioral-finance-ch8",
+        "concept": "market-psychology"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch3",
+        "target": "value-investing-and-behavioral-finance-ch9",
+        "concept": "market-psychology"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch3",
+        "target": "value-investing-and-behavioral-finance-ch10",
+        "concept": "market-psychology"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch8",
+        "target": "value-investing-and-behavioral-finance-ch9",
+        "concept": "market-psychology"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch8",
+        "target": "value-investing-and-behavioral-finance-ch10",
+        "concept": "market-psychology"
+      },
+      {
+        "source": "value-investing-and-behavioral-finance-ch9",
+        "target": "value-investing-and-behavioral-finance-ch10",
+        "concept": "market-psychology"
+      },
+      {
+        "source": "the-intelligent-investor-ch10",
+        "target": "value-investing-and-behavioral-finance-ch6",
+        "concept": "market-cycles"
+      },
+      {
+        "source": "the-intelligent-investor-ch11",
+        "target": "the-intelligent-investor-ch15",
+        "concept": "fundamental-analysis"
+      },
+      {
+        "source": "the-intelligent-investor-ch11",
+        "target": "value-investing-and-behavioral-finance-ch4",
+        "concept": "fundamental-analysis"
+      },
+      {
+        "source": "the-intelligent-investor-ch15",
+        "target": "value-investing-and-behavioral-finance-ch4",
+        "concept": "fundamental-analysis"
+      },
+      {
+        "source": "the-intelligent-investor-ch12",
+        "target": "the-intelligent-investor-ch13",
+        "concept": "financial-analysis"
+      },
+      {
+        "source": "the-intelligent-investor-ch12",
+        "target": "the-intelligent-investor-ch20",
+        "concept": "long-term-investment-strategy"
+      },
+      {
+        "source": "the-intelligent-investor-ch17",
+        "target": "value-investing-and-behavioral-finance-ch3",
+        "concept": "investment-analysis"
       },
       {
         "source": "value-investing-and-behavioral-finance-ch4",
         "target": "value-investing-and-behavioral-finance-ch10",
-        "concept": "Psychological Biases"
+        "concept": "psychological-biases"
       }
     ]
   }

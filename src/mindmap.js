@@ -14,7 +14,7 @@ let lastHeight = 0;
 let lastOnChapterSelect = null;
 
 function normalizeConceptForMatch(str) {
-  return String(str || "").toLowerCase().replace(/\s+/g, " ").trim();
+  return String(str || "").toLowerCase().replace(/\s+/g, "-").trim();
 }
 
 function conceptMatches(filter, conceptLabel) {
