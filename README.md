@@ -74,7 +74,5 @@ The example book in `books/example/` can be deleted when you add your own.
 
 1. Fork this repo
 2. Add `OPENAI_API_KEY` to GitHub Secrets
-3. Add your books to `books/`
-4. Push — the GitHub Action enriches and deploys to GitHub Pages
-
-See [CURSOR_PROMPT.md](CURSOR_PROMPT.md) for the full specification.
+3. Add your books to `books/`.
+4. Push — the GitHub Action enriches and deploys to GitHub Page.
